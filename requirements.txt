@@ -1,0 +1,24 @@
+pandas
+numpy
+
+# Data sources
+statsbombpy
+soccerdata
+requests
+beautifulsoup4
+
+# Visualisation
+matplotlib
+seaborn
+plotly
+
+# Dashboard
+streamlit
+
+# Modelling
+scikit-learn
+xgboost
+
+# Utilities
+pyyaml
+tqdm
