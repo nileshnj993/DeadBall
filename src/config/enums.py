@@ -4,3 +4,26 @@ class SetPiece(enum):
     THROW_IN = "From Throw In",
     CORNER = "From Corner",
     FREE_KICK = "From Free Kick",
+
+class Competitions(enum):
+    BUNDESLIGA = 9
+    AFRICAN_CUP_OF_NATIONS = 1267
+    CHAMPIONS_LEAGUE = 16
+    COPA_AMERICA = 223
+    COPA_DEL_REY = 87
+    FA_WOMENS_SUPER_LEAGUE = 37
+    FIFA_U20_WORLD_CUP = 1470
+    FIFA_WORLD_CUP = 43
+    INDIAN_SUPER_LEAGUE = 1238
+    LA_LIGA = 11
+    LIGA_PROFESIONAL = 81
+    LIGUE_1 = 7
+    MAJOR_LEAGUE_SOCCER = 44
+    NORTH_AMERICAN_LEAGUE = 116
+    NWSL = 49
+    PREMIER_LEAGUE = 2
+    SERIE_A = 12
+    UEFA_EURO = 55
+    UEFA_EUROPA_LEAGUE = 35
+    UEFA_WOMENS_EURO = 53
+    WOMENS_WORLD_CUP = 72
