@@ -10,9 +10,9 @@ def create_directory(path: Path):
         path.mkdir(parents=True, exist_ok=True)
 
 def get_competitions_parquet_path():
-    competitons_path = Path.joinpath(DATA_DIR, "parquets", "competitions")
-    create_directory(competitons_path)
-    return Path.joinpath(competitons_path, COMPETITIONS_PARQUET)
+    competitions_path = Path.joinpath(DATA_DIR, "parquets", "competitions")
+    create_directory(competitions_path)
+    return Path.joinpath(competitions_path, COMPETITIONS_PARQUET)
 
 def get_matches_parquet_path(competition_id: int, season_id: int):
     matches_path = Path.joinpath(DATA_DIR, "parquets", "matches")

@@ -1,6 +1,5 @@
 
 import argparse
-from statsbombpy import sb
 from utils.api import data_loader
 
 parser = argparse.ArgumentParser()
@@ -8,4 +7,4 @@ parser.add_argument("--fetch-from-api", action="store_true", default=False, help
 args = parser.parse_args()
 
 events = data_loader.getEvents_ByMatchId(match_id=3773386, fetch_from_api=args.fetch_from_api)
-print(events)
+print(events["type"].value_counts())

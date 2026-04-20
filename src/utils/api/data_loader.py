@@ -18,7 +18,6 @@ def getCompetitions(fetch_from_api: bool):
         competitions.to_parquet(competitions_parquet_path)
         return competitions
     except Exception as e:
-        print(f"An error occurred while fetching competitions: {e}")
         raise e
 
 def getCompetitionById(
@@ -58,7 +57,6 @@ def getMatchId_ByCompetitionIdSeasonId(
         matches.to_parquet(matches_parquet_path)
         return matches[["match_id"]]
     except Exception as e:
-        print(f"An error occurred while fetching matches: {e}")
         raise e
 
 def getLineup_ByMatchId(match_id: int, fetch_from_api: bool):
@@ -84,7 +82,6 @@ def getLineup_ByMatchId(match_id: int, fetch_from_api: bool):
             for team, df in lineups.items()
         }
     except Exception as e:
-        print(f"An error occurred while fetching lineups: {e}")
         raise e
 
     lineup_dfs = []
@@ -113,5 +110,4 @@ def getEvents_ByMatchId(match_id: int, fetch_from_api: bool):
         events.to_parquet(events_parquet_path)
         return events
     except Exception as e:
-        print(f"An error occurred while fetching events: {e}")
         raise e
