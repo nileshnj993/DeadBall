@@ -115,16 +115,3 @@ def getEvents_ByMatchId(match_id: int, fetch_from_api: bool):
     except Exception as e:
         print(f"An error occurred while fetching events: {e}")
         raise e
-
-def main():
-    print("START!")
-    competitons = getCompetitions()
-    print(competitons[['competition_id', 'competition_name']].drop_duplicates())
-    # print(getSeasonId_ByCompetitionId(11))
-    #print(getMatchId_ByCompetitionIdSeasonId(16, 1))
-
-    # team1, team2 = sb.lineups(match_id=3773386)
-    # print(team1)
-
-if __name__ == "__main__":
-    main()
