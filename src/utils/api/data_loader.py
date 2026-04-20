@@ -13,12 +13,9 @@ def getCompetitions(fetch_from_api: bool):
             print("File not found. Fetching competitions from StatsBomB API instead...")
 
     print("Fetching competitions from StatsBomB API...")
-    try:
-        competitions = sb.competitions()
-        competitions.to_parquet(competitions_parquet_path)
-        return competitions
-    except Exception as e:
-        raise e
+    competitions = sb.competitions()
+    competitions.to_parquet(competitions_parquet_path)
+    return competitions
 
 def getCompetitionById(
         competition_id: int,
@@ -50,15 +47,12 @@ def getMatchId_ByCompetitionIdSeasonId(
     
     print(f"Fetching matches for competition {competition_id} and season {season_id} from StatsBomb API...")
     
-    try:
-        matches = sb.matches(
-            competition_id=competition_id, 
-            season_id=season_id)
-        matches.to_parquet(matches_parquet_path)
-        return matches[["match_id"]]
-    except Exception as e:
-        raise e
-
+    matches = sb.matches(
+        competition_id=competition_id, 
+        season_id=season_id)
+    matches.to_parquet(matches_parquet_path)
+    return matches[["match_id"]]
+    
 def getLineup_ByMatchId(match_id: int, fetch_from_api: bool):
     lineups_parquet_path = paths.get_lineups_parquet_path(match_id=match_id)
 
@@ -74,15 +68,12 @@ def getLineup_ByMatchId(match_id: int, fetch_from_api: bool):
         except FileNotFoundError:
             print(f"File not found. Fetching lineups for match {match_id} from StatsBomB API instead...")
 
-    try:
-        print(f"Fetching lineups for match {match_id} from StatsBomB API...")
-        lineups = sb.lineups(match_id=match_id)
-        lineups = {
-            team: df.copy().reset_index(drop=True)
-            for team, df in lineups.items()
-        }
-    except Exception as e:
-        raise e
+    print(f"Fetching lineups for match {match_id} from StatsBomB API...")
+    lineups = sb.lineups(match_id=match_id)
+    lineups = {
+        team: df.copy().reset_index(drop=True)
+        for team, df in lineups.items()
+    }
 
     lineup_dfs = []
     for team_name, df in lineups.items():
@@ -104,10 +95,7 @@ def getEvents_ByMatchId(match_id: int, fetch_from_api: bool):
         except FileNotFoundError:
             print(f"File not found. Fetching events for match {match_id} from StatsBomB API instead...")
 
-    try:
-        print(f"Fetching events for match {match_id} from StatsBomB API...")
-        events = sb.events(match_id=match_id)
-        events.to_parquet(events_parquet_path)
-        return events
-    except Exception as e:
-        raise e
+    print(f"Fetching events for match {match_id} from StatsBomB API...")
+    events = sb.events(match_id=match_id)
+    events.to_parquet(events_parquet_path)
+    return events
