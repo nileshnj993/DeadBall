@@ -22,3 +22,4 @@ xgboost
 # Utilities
 pyyaml
 tqdm
+pyarrow

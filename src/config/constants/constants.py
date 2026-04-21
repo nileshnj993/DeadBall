@@ -1,0 +1,1 @@
+COMPETITIONS_PARQUET = "competitions.parquet"
