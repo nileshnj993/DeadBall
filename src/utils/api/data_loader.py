@@ -29,7 +29,8 @@ def getSeasonId_ByCompetitionId(
         fetch_from_api: bool
     ):
     competitions = getCompetitionById(competition_id=competition_id, fetch_from_api=fetch_from_api)
-    return competitions[["season_id"]]
+
+    return competitions["season_id"].unique().tolist()
 
 def getMatchId_ByCompetitionIdSeasonId(
         competition_id: int,
@@ -41,7 +42,7 @@ def getMatchId_ByCompetitionIdSeasonId(
     if not fetch_from_api:
         try:
             print(f"Fetching matches for competition {competition_id} and season {season_id} from parquet...")
-            return pd.read_parquet(matches_parquet_path)[["match_id"]]
+            return pd.read_parquet(matches_parquet_path)["match_id"].tolist()
         except FileNotFoundError:
             print(f"File not found. Fetching matches for competition {competition_id} and season {season_id} from StatsBomB API instead...")
     
@@ -51,7 +52,7 @@ def getMatchId_ByCompetitionIdSeasonId(
         competition_id=competition_id, 
         season_id=season_id)
     matches.to_parquet(matches_parquet_path)
-    return matches[["match_id"]]
+    return matches["match_id"].tolist()
     
 def getLineup_ByMatchId(match_id: int, fetch_from_api: bool):
     lineups_parquet_path = paths.get_lineups_parquet_path(match_id=match_id)

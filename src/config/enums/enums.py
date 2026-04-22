@@ -1,11 +1,11 @@
-from enum import enum
+from enum import Enum
 
-class SetPiece(enum):
+class SetPiece(Enum):
     THROW_IN = "From Throw In",
     CORNER = "From Corner",
     FREE_KICK = "From Free Kick",
 
-class Competitions(enum):
+class Competitions(Enum):
     BUNDESLIGA = 9
     AFRICAN_CUP_OF_NATIONS = 1267
     CHAMPIONS_LEAGUE = 16

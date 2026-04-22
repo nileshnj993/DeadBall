@@ -1,8 +1,13 @@
+import time
 from SPARQLWrapper import SPARQLWrapper, JSON
 import pandas as pd
 from datetime import datetime
 
 def fetch_player_stats_from_wikidata(player_name):
+
+    time.sleep(0.5)
+    print(f"Fetching WikiData for {player_name}")
+
     sparql = SPARQLWrapper("https://query.wikidata.org/sparql")
 
     query = f"""
