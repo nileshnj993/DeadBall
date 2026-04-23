@@ -28,7 +28,7 @@ def fetch_player_stats_from_wikidata(player_name):
       OPTIONAL {{ ?player wdt:P27 ?nationality. }}
       OPTIONAL {{ ?player wdt:P413 ?position. }}
       OPTIONAL {{ ?player wdt:P2067 ?weight. }}
-      OPTIONAL {{ ?player wdt:P21 ?sex. }}        # needed for foot sometimes
+      OPTIONAL {{ ?player wdt:P21 ?sex. }}
 
       SERVICE wikibase:label {{ bd:serviceParam wikibase:language "en". }}
     }}
