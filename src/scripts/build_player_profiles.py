@@ -1,10 +1,13 @@
+import os
 import argparse
 import pandas as pd
 
+import unicodedata
 from collections import defaultdict
 from utils.api import data_loader
 from utils.processing import player_profiles
 from config.enums.enums import Competitions
+from config.constants.constants import LANGUAGES_PRIORITY
 
 def build_unique_player_df(
         fetch_from_api: bool,
@@ -48,21 +51,81 @@ def build_unique_player_df(
     print(f"Number of Unique Players found : {len(unique_player_df)}")
     return unique_player_df
 
-def build_wikidata_player_df(unique_player_df: pd.DataFrame):
 
-    print(f"Building Player Dataframe using Wikidata...")
-    wikidata_player_list = []
+def build_wikidata_player_df(unique_player_df: pd.DataFrame, output_path: str, checkpoint_every: int = 25):
+    print("Building Player Dataframe using Wikidata...")
+
+    failed_count = 0
+    missing_player_list = []
+
+    if os.path.exists(output_path):
+        existing_df = pd.read_csv(output_path)
+        completed_players = set(existing_df["player_name"].dropna().tolist())
+        wikidata_player_df = existing_df.copy()
+    else:
+        completed_players = set()
+        wikidata_player_df = pd.DataFrame()
+
+    new_rows = []
+    processed_since_save = 0
 
     for _, row in unique_player_df.iterrows():
         player_name = row["player_name"]
 
-        player_info_dict = player_profiles.fetch_player_stats_from_wikidata(player_name=player_name)
-        wikidata_player_list.append(player_info_dict)
+        if player_name in completed_players:
+            continue
 
-    wikidata_player_df = pd.DataFrame(wikidata_player_list)
+        try:
+            nfkd_form = unicodedata.normalize('NFKD', player_name)
+            no_accent_player_name = "".join([c for c in nfkd_form if not unicodedata.combining(c)])
+            for language in LANGUAGES_PRIORITY:
+                player_info_dict = player_profiles.fetch_player_stats_from_wikidata(player_name=no_accent_player_name, language=language)
+                if player_info_dict:
+                    break
+                player_info_dict = player_profiles.fetch_player_stats_from_wikidata(player_name=player_name, language=language)
+                if player_info_dict:
+                    break
+        except Exception as exc:
+            print(f"Failed for {player_name}: {exc}")
+            player_info_dict = {
+                "player_name": player_name,
+                "wikidata_id": None,
+                "height_cm": None,
+                "dob": None,
+                "age": None,
+                "nationality": None,
+                "position": None,
+                "weight_kg": None,
+            }
 
-    print(f"Missing Wikidata Counts per column: {wikidata_player_df.isnull().sum()}")
+        if player_info_dict is not None:
+            new_rows.append(player_info_dict)
+        else:
+            print(f"MISSING: {player_name}")
+            failed_count += 1
+            missing_player_list.append(player_name)
 
+        completed_players.add(player_name)
+        processed_since_save += 1
+
+        if processed_since_save >= checkpoint_every:
+            if new_rows:
+                print(f"Checkpoint reached... saving {processed_since_save} new players")
+                wikidata_player_df = pd.concat([wikidata_player_df, pd.DataFrame(new_rows)], ignore_index=True)
+                wikidata_player_df = wikidata_player_df.drop_duplicates(subset=["player_name"], keep="last")
+                wikidata_player_df.to_csv(output_path, index=False)
+                new_rows = []
+            processed_since_save = 0
+
+    if new_rows:
+        print(f"Checkpoint reached... saving {processed_since_save} new players")
+        wikidata_player_df = pd.concat([wikidata_player_df, pd.DataFrame(new_rows)], ignore_index=True)
+        wikidata_player_df = wikidata_player_df.drop_duplicates(subset=["player_name"], keep="last")
+        wikidata_player_df.to_csv(output_path, index=False)
+
+    print(f"Completed Wikidata processing. Number of players updated {len(wikidata_player_df)}")
+    print(f"Number of failed = {failed_count}")
+    print(f"Missing player names: {missing_player_list}")
     return wikidata_player_df
 
 def merge_statsbomb_player_with_wikidata_player(statsbomb_player_df, wikidata_player_df):
@@ -90,7 +153,7 @@ def main(args):
     unique_player_df = build_unique_player_df(fetch_from_api=fetch_from_api, competition_id=Competitions.LA_LIGA.value)
     print("UNIQUE PLAYER DF: ")
     print(unique_player_df.head(5))
-    wikidata_player_df = build_wikidata_player_df(unique_player_df=unique_player_df)
+    wikidata_player_df = build_wikidata_player_df(unique_player_df=unique_player_df, output_path="test2.csv")
     print("WIKIDATA PLAYER DF: ")
     print(wikidata_player_df.head(5))
     merged_df = merge_statsbomb_player_with_wikidata_player(statsbomb_player_df=unique_player_df, wikidata_player_df=wikidata_player_df)

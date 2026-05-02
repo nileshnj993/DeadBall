@@ -1,0 +1,2403 @@
+,player_name,statsbomb_id,country,wikidata_id,height_cm,dob,age,nationality,position,weight_kg
+0,Florian Grégoire Claude Lejeune,3093,France,Q2070240,189.0,1991-05-20,34.0,France,defender,81.0
+1,José Luis Sanmartín Mato,3265,Spain,Q134729,192.0,1990-03-27,36.0,Spain,forward,81.0
+2,John Guidetti,6038,Sweden,Q372276,185.0,1992-04-15,34.0,Sweden,attacker,80.0
+3,Rubén Duarte Sánchez,6612,Spain,Q18764029,172.0,1995-10-18,30.0,Spain,defender,68.0
+4,Víctor Laguardia Cisneros,6615,Spain,Q2454125,185.0,1989-11-05,36.0,Spain,forward,75.0
+5,Martín Aguirregabiria Padilla,6618,Spain,Q44300675,178.0,1996-05-10,29.0,Spain,full-back,69.0
+6,Tomás Pina Isla,6622,Spain,Q2635066,184.0,1987-10-14,38.0,Spain,midfielder,75.0
+7,Jorge Franco Alviz,6624,Spain,Q13592539,184.0,1993-10-25,32.0,Spain,wing half,71.0
+8,Fernando Pacheco Flores,6629,Spain,Q13418257,187.0,1992-05-18,33.0,Spain,goalkeeper,
+9,Manuel Alejandro García Sánchez,6632,Spain,Q5992102,182.0,1986-04-26,39.0,Spain,winger,
+10,Rodrigo Ely,6636,Brazil,Q7357324,188.0,1993-11-03,32.0,Brazil,centre-back,83.0
+11,Lucas Pérez Martínez,6732,Spain,Q2586675,181.0,1988-09-10,37.0,Spain,centre-forward,78.0
+12,Joaquín Navarro Jiménez,6923,Spain,Q625018,177.0,1990-01-23,36.0,Spain,defender,70.0
+13,Adrián Marín Gómez,6935,Spain,Q17661200,178.0,1997-01-09,29.0,Spain,defender,73.0
+14,José Ignacio Peleteiro Ramallo,9462,Spain,,,,,,,
+15,Antonio Sivera Salvá,9748,Spain,Q20683269,184.0,1996-08-11,29.0,Spain,goalkeeper,75.0
+16,Rodrigo Andrés Battaglia,10605,Argentina,Q3940027,186.0,1991-07-12,34.0,Argentina,midfielder,74.0
+17,Luis Jesús Rioja González,24049,Spain,Q56223387,176.0,1993-10-16,32.0,Spain,wing half,
+18,Deyverson Brum Silva Acosta,25134,Brazil,Q10552615,189.0,1991-05-08,34.0,Brazil,forward,82.0
+19,Edgar Antonio Méndez Ortega,26387,Spain,,,,,,,
+20,Alberto Rodríguez Baró,30419,Spain,Q66382628,184.0,1997-09-10,28.0,Spain,defender,
+21,Borja Sainz Eguskiza,30760,Spain,Q66741038,174.0,2001-02-01,25.0,Spain,winger,
+22,Tomas Franco Tavares,31779,Portugal,,,,,,,
+23,Martin Braithwaite Christensen,4447,Denmark,Q2440999,177.0,1991-06-05,34.0,Kingdom of Denmark,forward,77.0
+24,Sergio Busquets i Burgos,5203,Spain,Q49704,189.0,1988-07-16,37.0,Spain,defensive midfielder,66.0
+25,Jordi Alba Ramos,5211,Spain,Q187159,170.0,1989-03-21,37.0,Spain,full-back,69.0
+26,Gerard Piqué Bernabéu,5213,Spain,Q17507,194.0,1987-02-02,39.0,Spain,defender,85.0
+27,Ousmane Dembélé,5477,France,Q20851003,179.0,1997-05-15,28.0,France,forward,67.0
+28,Antoine Griezmann,5487,France,Q455462,176.0,1991-03-21,35.0,France,forward,67.0
+29,Lionel Andrés Messi Cuccittini,5503,Argentina,Q615,169.0,1987-06-24,38.0,Spain,midfielder,72.0
+30,Sergi Roberto Carnicer,6379,Spain,Q703269,178.0,1992-02-07,34.0,Spain,midfielder,70.0
+31,Norberto Murara Neto,6590,Brazil,Q62657,190.0,1989-07-19,36.0,Brazil,goalkeeper,84.0
+32,Clément Lenglet,6826,France,Q16236859,186.0,1995-06-17,30.0,France,centre-back,81.0
+33,Miralem Pjanić,6947,Bosnia and Herzegovina,Q146907,178.0,1990-04-02,36.0,Luxembourg,midfielder,68.0
+34,Frenkie de Jong,8118,Netherlands,Q19898898,180.0,1997-05-12,28.0,Kingdom of the Netherlands,midfielder,74.0
+35,Carles Aleña Castillo,13599,Spain,,,,,,,
+36,Héctor Junior Firpo Adames,17304,Spain,Q48568974,184.0,1996-08-22,29.0,Spain,defender,
+37,Sergino Dest,21881,United States of America,Q57456989,175.0,2000-11-03,25.0,United States,full-back,62.0
+38,Francisco António Machado Mota de Castro Trincão,22390,Portugal,Q24084271,186.0,1999-12-29,26.0,Portugal,forward,
+39,Pedro González López,30486,Spain,Q66606355,174.0,2002-11-25,23.0,Spain,centerhalf,61.0
+40,Anssumane Fati,30756,Spain,Q66743376,178.0,2002-10-31,23.0,Spain,forward,
+41,Ignacio Peña Sotorres,37237,Spain,Q77237821,185.0,1999-03-02,27.0,Spain,goalkeeper,
+42,Arnau Tenas Ureña,39159,Spain,Q76460067,185.0,2001-05-30,24.0,Spain,goalkeeper,
+43,Konrad De La Fuente,39469,United States of America,,,,,,,
+44,Robert Kenedy Nunes do Nascimento,3666,Brazil,Q14755604,182.0,1996-02-08,30.0,Brazil,midfielder,77.0
+45,Dimitri Foulquier,4546,Guadeloupe,Q376902,183.0,1993-03-23,33.0,France,full-back,77.0
+46,Jorge Molina Vidal,6630,Spain,Q2415844,189.0,1982-04-22,44.0,Spain,forward,83.0
+47,Jesús Vallejo Lázaro,6893,Spain,Q17987582,183.0,1997-01-05,29.0,Spain,defender,74.0
+48,Darwin Daniel Machís Marcano,11501,Venezuela (Bolivarian Republic),,,,,,,
+49,Yangel Clemente Herrera Ravelo,16249,Venezuela (Bolivarian Republic),Q20994432,184.0,1998-01-07,28.0,Venezuela,midfielder,78.0
+50,Domingos Sousa Coutinho Meneses Duarte,23807,Portugal,Q18205836,191.0,1995-03-10,31.0,Portugal,defender,78.0
+51,Alberto Soro Álvarez,24037,Spain,Q56258991,173.0,1999-03-09,27.0,Spain,midfielder,
+52,Yan Brice Eteki,24052,Cameroon,Q26704649,180.0,1997-08-26,28.0,Cameroon,midfielder,70.0
+53,Luis Javier Suárez Charris,24093,Colombia,Q28736721,185.0,1997-12-02,28.0,Spain,forward,
+54,José Antonio Rodríguez Díaz,24126,Spain,,,,,,,
+55,Ramon Olamilekan Azeez,24127,Nigeria,Q3418515,169.0,1992-12-12,33.0,Nigeria,midfielder,
+56,Germán Sánchez Barahona,24134,Spain,Q20978006,187.0,1986-10-31,39.0,Spain,defender,84.0
+57,Federico Vico Villegas,24136,Spain,Q135136,180.0,1994-07-04,31.0,Spain,wing half,70.0
+58,Rui Tiago Dantas da Silva,24140,Portugal,Q16236537,189.0,1994-02-07,32.0,Portugal,goalkeeper,87.0
+59,Ángel Montoro Sánchez,24144,Spain,Q781438,182.0,1988-06-25,37.0,Spain,midfielder,
+60,Luis Milla Manzanares,24272,Spain,Q47477260,175.0,1994-10-07,31.0,Spain,midfielder,
+61,Carlos Neva Tey,25702,Spain,Q64738490,174.0,1996-06-12,29.0,Spain,defender,
+62,Aarón Escandell Banacloche,25704,Spain,Q17364178,187.0,1995-09-27,30.0,Spain,goalkeeper,
+63,Roberto Soldado Rillo,26009,Spain,Q218401,179.0,1985-05-27,40.0,Spain,forward,72.0
+64,Nehuén Pérez,30081,Argentina,Q58754676,184.0,2000-06-24,25.0,Argentina,defender,
+65,Arnau Fàbrega Mañas,50912,Spain,Q107149006,,2000-06-28,25.0,,,
+66,José Sánchez Martínez,51824,Spain,Q101346301,,2000-03-02,26.0,,,
+67,Samuel Yves Umtiti,5492,France,Q13308,182.0,1993-11-14,32.0,France,centre-back,75.0
+68,Marc-André ter Stegen,20055,Germany,Q160472,187.0,1992-04-30,33.0,Germany,goalkeeper,85.0
+69,Ricard Puig Martí,24841,Spain,Q50315237,166.0,1999-08-13,26.0,Spain,midfielder,
+70,Matheus Fernandes Siqueira,29256,Brazil,Q29169290,183.0,1998-06-30,27.0,Brazil,midfielder,67.0
+71,Ronald Federico Araújo da Silva,32480,Uruguay,Q56332606,192.0,1999-03-07,27.0,Uruguay,centre-back,82.0
+72,Moriba Kourouma Kourouma,39073,Guinea,Q65205090,185.0,2003-01-19,23.0,Spain,midfielder,
+73,Óscar Mingueza García,43728,Spain,Q102292155,184.0,1999-05-13,26.0,Spain,defender,
+74,Iago Aspas Juncal,5217,Spain,Q26380,176.0,1987-08-01,38.0,Spain,forward,67.0
+75,Santiago Mina Lorenzo,6594,Spain,Q7420322,177.0,1995-12-07,30.0,Spain,forward,71.0
+76,Denis Suárez Fernández,6609,Spain,Q2092171,181.0,1994-01-06,32.0,Spain,midfielder,72.0
+77,Manuel Agudo Durán,6724,Spain,Q456617,175.0,1986-10-15,39.0,Spain,forward,73.0
+78,Aarón Martín Caricol,6757,Spain,Q27107030,180.0,1997-04-22,29.0,Spain,defender,72.0
+79,David Juncà Reñé,6776,Spain,Q5235780,175.0,1993-11-16,32.0,Spain,defender,67.0
+80,Brais Méndez Portela,6799,Spain,Q40953842,187.0,1997-01-07,29.0,Spain,midfielder,
+81,Néstor Alejandro Araújo Razo,11388,Mexico,,,,,,,
+82,Francisco José Beltrán Peinado,11389,Spain,Q26475869,170.0,1999-02-03,27.0,Spain,midfielder,66.0
+83,Joseph Aidoo,16555,Ghana,Q21042828,184.0,1995-09-29,30.0,Ghana,defender,80.0
+84,Kevin Vázquez Comesaña,22029,Spain,Q12391341,173.0,1993-03-23,33.0,Spain,defender,
+85,Augusto Jorge Mateo Solari,28658,Argentina,Q5711754,180.0,1992-01-03,34.0,Argentina,midfielder,80.0
+86,Miguel Baeza Pérez,39598,Spain,Q98815315,177.0,2000-03-27,26.0,Spain,midfielder,
+87,Iván Villar Martínez,40890,Spain,Q29943739,183.0,1997-07-09,28.0,Spain,goalkeeper,
+88,Carlos Domínguez Cáceres,75546,Spain,Q106774599,187.0,2001-02-11,25.0,Spain,,
+89,Patrick Gilmar Sequeira Mejías,97291,Costa Rica,Q24282656,190.0,1999-03-01,27.0,Costa Rica,goalkeeper,
+90,Hugo Sotelo,117025,Spain,Q106867353,180.0,2003-12-19,22.0,,midfielder,
+91,Nabil Fekir,2948,France,Q14778629,173.0,1993-07-18,32.0,France,attacking midfielder,72.0
+92,William Silva de Carvalho,5214,Portugal,Q304416,190.0,1992-04-07,34.0,Portugal,midfielder,90.0
+93,José Andrés Guardado Hernández,5563,Mexico,Q19364,172.0,1986-09-28,39.0,Spain,midfielder,69.0
+94,Martín Montoya Torralbo,6593,Spain,,,,,,,
+95,Aïssa Mandi,6648,Algeria,Q2876432,186.0,1991-10-22,34.0,Algeria,defender,78.0
+96,Joaquín Sánchez Rodríguez,6651,Spain,Q294204,179.0,1981-07-21,44.0,Spain,wing half,80.0
+97,Cristian Tello Herrera,6658,Spain,Q54055,178.0,1991-08-11,34.0,Spain,wing half,65.0
+98,Sergio Canales Madrazo,6673,Spain,Q19422,180.0,1991-02-16,35.0,Japan,midfielder,74.0
+99,Juan Miguel Jiménez López,6695,Spain,Q649788,172.0,1993-05-20,32.0,Spain,forward,63.0
+100,Víctor Ruíz Torre,6752,Spain,,,,,,,
+101,Sidnei Rechel da Silva Júnior,6777,Brazil,,,,,,,
+102,Aitor Ruibal García,6851,Spain,Q46748781,176.0,1996-03-22,30.0,Spain,forward,
+103,Lorenzo Jesús Morón García,7910,Spain,Q47546023,188.0,1993-12-30,32.0,Spain,forward,66.0
+104,Borja Iglesias Quintas,11391,Spain,,,,,,,
+105,Alejandro Moreno Lopera,11538,Spain,,,,,,,
+106,Joel Robles Blázquez,16309,Spain,Q547296,195.0,1990-06-17,35.0,Spain,goalkeeper,84.0
+107,Juan Miranda González,22197,Spain,Q38198371,185.0,2000-01-19,26.0,Spain,defender,
+108,Emerson Aparecido Leite de Souza Junior,23522,Brazil,Q30123152,183.0,1999-01-14,27.0,Brazil,full-back,
+109,Yassin Fékir,23677,France,,,,,,,
+110,Guido Rodríguez,26404,Argentina,Q18224850,185.0,1994-04-12,32.0,Argentina,midfielder,78.0
+111,Rodrigo Sánchez Rodriguez,41083,Spain,,,,,,,
+112,Paul Edgar Akouokou,42282,Côte d'Ivoire,,,,,,,
+113,Daniel Rebollo Franco,47611,Spain,Q106111738,188.0,1999-12-10,26.0,Spain,goalkeeper,77.0
+114,Jonathan Rodríguez Menéndez,6581,Spain,Q16880180,179.0,1991-07-09,34.0,Spain,wing half,77.0
+115,Ignacio Vidal Miralles,6591,Spain,Q37186853,180.0,1995-01-24,31.0,Spain,defender,75.0
+116,Darko Brašanac,6604,Serbia,Q3702760,178.0,1992-02-12,34.0,Serbia,midfielder,75.0
+117,Adrián López Álvarez,6735,Spain,Q314113,183.0,1988-01-08,38.0,Spain,forward,73.0
+118,Jonás Ramalho Chimeno,6887,Angola,,,,,,,
+119,Jonathan Calleri,6930,Argentina,Q16298050,179.0,1993-09-23,32.0,Italy,forward,75.0
+120,Ante Budimir,8654,Croatia,Q17505049,190.0,1991-07-22,34.0,Croatia,forward,75.0
+121,Lucas Torró Marset,12419,Spain,,,,,,,
+122,Enric Gallego Puigsech,23213,Spain,Q56250203,190.0,1986-09-12,39.0,Spain,forward,
+123,Rubén García Santos,23943,Spain,Q1438885,171.0,1993-07-14,32.0,Spain,wing half,72.0
+124,Oier Sanjurjo Mate,23944,Spain,Q2499826,178.0,1986-05-25,39.0,Spain,centre-back,66.0
+125,Roberto Torres Morales,23947,Spain,Q7351925,178.0,1989-03-07,37.0,Spain,inside forward,72.0
+126,Unai García Lugea,23949,Spain,Q16234581,186.0,1992-02-03,34.0,,centre-back,81.0
+127,David García Zubiría,23950,Spain,Q17712329,186.0,1994-02-14,32.0,Spain,centre-back,
+128,Álvaro Juan Cruz Armada,24172,Spain,Q6299546,180.0,1992-07-28,33.0,Spain,defender,
+129,Sergio Herrera Pirón,24211,Spain,Q24279005,192.0,1993-06-05,32.0,Spain,goalkeeper,82.0
+130,Aridane Hernández Umpiérrez,24212,Spain,,,,,,,
+131,Enrique Barja Afonso,24315,Spain,Q32236556,178.0,1997-04-01,29.0,Spain,winger,
+132,Juan Manuel Pérez Ruiz,25062,Spain,Q56167137,191.0,1996-07-15,29.0,Spain,goalkeeper,
+133,Jon Moncayola Tollar,30277,Spain,Q66528894,189.0,1998-05-13,27.0,Spain,wide midfielder,
+134,Manuel Sánchez De La Peña,33339,Spain,,,,,,,
+135,Javier Martínez Calvo,40114,Spain,Q64218838,181.0,1999-12-22,26.0,Spain,inside forward,
+136,Iván Martínez Marqués,52108,Spain,,,,,,,
+137,Mariano Díaz Mejía,3163,Dominican Republic,Q10556350,181.0,1993-08-01,32.0,Spain,forward,76.0
+138,Thibaut Courtois,3509,Belgium,Q73360,200.0,1992-05-11,33.0,Belgium,goalkeeper,96.0
+139,Ferland Mendy,3804,France,Q23884186,180.0,1995-06-08,30.0,France,full-back,
+140,Francisco Román Alarcón Suárez,4926,Spain,Q80892,176.0,1992-04-21,34.0,Spain,midfielder,174.0
+141,Lucas Vázquez Iglesias,5200,Spain,Q5981954,173.0,1991-07-01,34.0,Spain,wing half,74.0
+142,José Ignacio Fernández Iglesias,5202,Spain,Q503137,179.0,1990-01-18,36.0,Spain,full-back,75.0
+143,Luka Modrić,5463,Croatia,Q483837,174.0,1985-09-09,40.0,Croatia,central midfielder,65.0
+144,Carlos Henrique Casimiro,5539,Brazil,Q616664,188.0,1992-02-23,34.0,Spain,midfielder,85.0
+145,Marcelo Vieira da Silva Júnior,5552,Brazil,Q38136,174.0,1988-05-12,37.0,Spain,full-back,80.0
+146,Toni Kroos,5574,Germany,Q131234,182.0,1990-01-04,36.0,Germany,midfielder,78.0
+147,Marco Asensio Willemsen,5719,Spain,Q16148978,182.0,1996-01-21,30.0,Spain,forward,70.0
+148,Álvaro Odriozola Arzallus,6689,Spain,Q19948076,178.0,1995-12-14,30.0,Spain,full-back,74.0
+149,Federico Santiago Valverde Dipetta,6773,Uruguay,Q19509544,183.0,1998-07-22,27.0,Uruguay,midfielder,72.0
+150,Éder Gabriel Militão,13620,Brazil,Q29950055,186.0,1998-01-18,28.0,Brazil,centre-back,
+151,Vinícius José Paixão de Oliveira Júnior,18395,Brazil,Q28973866,176.0,2000-07-12,25.0,Spain,midfielder,73.0
+152,Karim Benzema,19677,France,Q1912,185.0,1987-12-19,38.0,France,forward,81.0
+153,Andriy Lunin,21390,Ukraine,Q27342447,191.0,1999-02-11,27.0,Ukraine,goalkeeper,80.0
+154,Rodrygo Silva de Goes,25104,Brazil,Q42728914,174.0,2001-01-09,25.0,Spain,winger,63.0
+155,Diego Altube Suárez,41153,Spain,Q98088433,,2000-02-22,26.0,Spain,,
+156,Philippe Coutinho Correia,3501,Brazil,Q311872,172.0,1992-06-12,33.0,Spain,winger,68.0
+157,Óscar Esau Duarte Gaitán,5598,Costa Rica,,,,,,,
+158,Rúben Miguel Nunes Vezo,6592,Portugal,Q15132963,182.0,1994-04-25,31.0,Portugal,defender,81.0
+159,Sergio León Limones,6657,Spain,Q7454301,178.0,1989-01-06,37.0,Spain,forward,73.0
+160,José Luis Morales Nogales,6668,Spain,Q16231822,180.0,1987-07-23,38.0,Spain,wing half,70.0
+161,Jorge Andújar Moreno,6672,Spain,Q2601676,182.0,1987-04-26,38.0,Spain,defender,78.0
+162,Rubén Rochina Naixes,6680,Spain,Q511728,182.0,1991-03-23,35.0,Spain,wing half,74.0
+163,Sergio Postigo Redondo,6682,Spain,Q16232362,185.0,1988-11-04,37.0,Spain,defender,
+164,Roger Martí Salvador,6684,Spain,Q7358599,179.0,1991-01-03,35.0,Spain,forward,74.0
+165,Antonio García Aranda,6784,Spain,Q4776642,179.0,1989-11-07,36.0,Spain,defender,69.0
+166,Nemanja Radoja,6796,Serbia,Q6990957,186.0,1993-02-06,33.0,Serbia,midfielder,77.0
+167,Roberto Suárez Pier,6807,Spain,Q21622566,182.0,1995-02-16,31.0,Spain,defender,
+168,Jorge Ruiz Ojeda,10765,Spain,Q26838086,,1995-09-27,30.0,Spain,goalkeeper,
+169,Gonzalo Julián Melero Manzanares,11669,Spain,,,,,,,
+170,Jorge Miramón Santagertrudis,11676,Spain,Q20921907,176.0,1989-06-02,36.0,Spain,wing half,74.0
+171,Nikola Vukčević,17303,Montenegro,Q7035700,187.0,1984-03-22,42.0,Montenegro,defender,78.0
+172,Aitor Fernández Abarisketa,23344,Spain,Q3754541,182.0,1991-05-03,34.0,Spain,goalkeeper,
+173,Carlos Clerc Martínez,23948,Spain,Q15522811,182.0,1992-02-21,34.0,Spain,full-back,72.0
+174,Mickaël Malsa,23966,Martinique,Q15830830,178.0,1995-10-12,30.0,France,midfielder,69.0
+175,Francisco Javier Hidalgo Gómez,30492,Spain,Q66669266,178.0,1994-03-30,32.0,Spain,wing half,
+176,Daniel Gómez Alcón,30593,Spain,Q66584157,178.0,1998-07-30,27.0,Spain,forward,
+177,Jorge De Frutos Sebastián,32673,Spain,,,,,,,
+178,Daniel Cárdenas Lindez,38251,Spain,Q98815421,186.0,1997-03-28,29.0,,,
+179,Francis Joseph Coquelin,3437,France,Q180193,178.0,1991-05-13,34.0,France,defensive midfielder,74.0
+180,Vicente Iborra De La Fuente,3497,Spain,,,,,,,
+181,José Ramiro Funes Mori,4629,Argentina,Q401554,193.0,1991-03-05,35.0,Argentina,defender,78.0
+182,Carlos Arturo Bacca Ahumada,5688,Colombia,Q74681,181.0,1986-09-08,39.0,Colombia,forward,77.0
+183,Francisco Alcácer García,6402,Spain,Q507190,174.0,1993-08-30,32.0,Spain,forward,69.0
+184,Daniel Parejo Muñoz,6595,Spain,Q19388,182.0,1989-04-16,37.0,Spain,midfielder,76.0
+185,Gerónimo Rulli,6694,Argentina,Q5879014,189.0,1992-05-20,33.0,Argentina,goalkeeper,84.0
+186,Sergio Asenjo Andrés,6755,Spain,Q314232,189.0,1989-06-28,36.0,Spain,goalkeeper,70.0
+187,Gerard Moreno Balaguero,6766,Spain,,,,,,,
+188,Manuel Trigueros Muñoz,6771,Spain,Q6752290,178.0,1991-10-17,34.0,Spain,midfielder,70.0
+189,Mario Gaspar Pérez Martínez,6772,Spain,Q512377,178.0,1990-11-24,35.0,Spain,defender,71.0
+190,Jaume Vicent Costa Jordá,6828,Spain,Q6164793,171.0,1988-03-18,38.0,Spain,defender,65.0
+191,Pau Francisco Torres,6892,Spain,Q43384100,191.0,1997-01-16,29.0,Spain,defender,
+192,Raúl Albiol i Tortajada,7030,Spain,,,,,,,
+193,Moisés Gómez Bordonado,11675,Spain,Q3884280,174.0,1994-06-23,31.0,Spain,midfielder,65.0
+194,Samuel Chimerenka Chukwueze,16335,Nigeria,Q57017297,172.0,1999-05-22,26.0,Nigeria,wing half,
+195,Pervis Josué Estupiñán Tenorio,24085,Ecuador,Q20994068,175.0,1998-01-21,28.0,Ecuador,defender,79.0
+196,Takefusa Kubo,31090,Japan,Q27067753,169.0,2001-06-04,24.0,Japan,midfielder,67.0
+197,Fernando Niño Rodriguez,34515,Spain,,,,,,,
+198,Alejandro Baena Rodríguez,41115,Spain,Q97404267,174.0,2001-07-20,24.0,Spain,,
+199,José Manuel Cabrera López,49302,Spain,Q116968899,,2001-06-23,24.0,Spain,,
+200,Rafael Alcântara do Nascimento,6998,Brazil,Q455611,174.0,1993-02-12,33.0,Spain,midfielder,71.0
+201,Santiago Ramos Mingo,49301,Argentina,Q85877542,186.0,2001-11-21,24.0,Argentina,defender,
+202,Renato Fabrizio Tapia Cortijo,5523,Peru,Q5478192,185.0,1995-07-28,30.0,Peru,midfielder,
+203,Jeison Fabián Murillo Cerón,6585,Colombia,Q254521,182.0,1992-05-27,33.0,Colombia,centre-back,78.0
+204,Emre Mor,6803,Turkey,Q22007007,167.0,1997-07-24,28.0,Turkey,wing half,63.0
+205,Hugo Mallo Novegil,6805,Spain,Q1825157,173.0,1991-06-22,34.0,Spain,full-back,69.0
+206,Okay Yokuşlu,12555,Turkey,Q1373065,188.0,1994-03-09,32.0,Turkey,midfielder,79.0
+207,Álvaro Vadillo Cifuentes,24143,Spain,Q1921253,180.0,1994-09-12,31.0,Spain,midfielder,65.0
+208,Lucas René Olaza Catrofe,24730,Uruguay,Q15117644,173.0,1994-07-21,31.0,Uruguay,defender,68.0
+209,José Manuel Fontán Mondragón,35000,Spain,Q83688358,183.0,2000-02-11,26.0,Spain,defender,
+210,Iago Domínguez Rodríguez,42907,Spain,,,,,,,
+211,Miguel Rodríguez Vidal,47445,Spain,Q100144493,179.0,2003-04-29,22.0,Spain,forward,
+212,Gabriel Veiga Novas,47447,Spain,Q99485150,184.0,2002-05-27,23.0,Spain,,
+213,Raúl Blanco Juncal,48643,Spain,Q130331696,188.0,2001-01-01,25.0,Spain,,
+214,Sergio Carreira Vilariño,49531,Spain,,,,,,,
+215,Sergio Ramos García,5201,Spain,Q483309,184.0,1986-03-30,40.0,Spain,centre-back,82.0
+216,Raphaël Varane,5485,France,Q489039,191.0,1993-04-25,32.0,France,centre-back,83.0
+217,Luka Jović,6319,Serbia,Q16979983,182.0,1997-12-23,28.0,Serbia,forward,75.0
+218,Luis Federico López Andúgar,38832,Spain,Q112609508,,2001-05-08,24.0,,,
+219,Shinji Okazaki,3810,Japan,Q310612,174.0,1986-04-16,40.0,Japan,forward,76.0
+220,Dimitrios Siovas,6603,Greece,Q3394334,192.0,1988-09-16,37.0,Greece,centre-back,92.0
+221,Mikel Rico Moreno,6656,Spain,Q1122973,179.0,1984-11-04,41.0,Spain,inside forward,78.0
+222,Pedro Mosquera Parada,6733,Spain,Q145436,184.0,1988-04-21,38.0,Spain,midfielder,77.0
+223,Luis Carlos Correia Pinto,6734,Portugal,Q723596,175.0,1985-05-05,40.0,Portugal,defender,
+224,Pedro López Muñoz,6787,Spain,Q1374070,174.0,1983-11-01,42.0,Spain,full-back,72.0
+225,Kelechi Nwakali,7922,Nigeria,Q22919631,181.0,1998-06-05,27.0,Nigeria,playmaker,
+226,Andrés Eduardo Fernández Moreno,8697,Spain,Q524113,184.0,1986-12-17,39.0,Spain,goalkeeper,84.0
+227,David Ferreiro Quiroga,11670,Spain,Q5233624,170.0,1988-04-01,38.0,Spain,wing half,63.0
+228,Jorge Pulido Mayoral,11677,Spain,Q2706415,181.0,1991-04-08,35.0,Spain,defender,72.0
+229,Javier Ontiveros Parra,20063,Spain,Q21622270,172.0,1997-09-09,28.0,Spain,wing half,70.0
+230,Pablo Ínsua Blanco,21399,Spain,,,,,,,
+231,Sergio Gómez Martín,22199,Spain,Q30346413,171.0,2000-09-04,25.0,Spain,wing half,
+232,Idrissa Doumbia,23307,Côte d'Ivoire,Q26197392,187.0,1998-04-14,28.0,Ivory Coast,midfielder,
+233,Javier Galán Gil,23322,Spain,Q27662868,172.0,1994-11-19,31.0,Spain,defender,70.0
+234,Rafael Mir Vicente,23812,Spain,Q21540971,189.0,1997-06-18,28.0,Spain,forward,75.0
+235,Juan Carlos Real Ruiz,24055,Spain,Q3325304,183.0,1991-03-15,35.0,Spain,midfielder,72.0
+236,Eugeni Valderrama Domènech,24504,Spain,Q5407875,182.0,1994-07-19,31.0,Spain,midfielder,
+237,Daniel Escriche Romero,24681,Spain,Q30075149,178.0,1998-03-24,28.0,Spain,wing half,
+238,Álvaro Fernández Llorente,25598,Spain,Q27899245,186.0,1998-04-13,28.0,Spain,goalkeeper,
+239,Jaime Seoane Valenciano,30483,Spain,Q26921659,175.0,1997-01-22,29.0,Spain,midfielder,
+240,Diego Carlos Santos Silva,3366,Brazil,Q15830968,186.0,1993-03-15,33.0,Brazil,defender,79.0
+241,Lucas Ariel Ocampos,4345,Argentina,Q194579,187.0,1994-07-11,31.0,Argentina,wing half,84.0
+242,Jules Koundé,4445,France,Q47170176,180.0,1998-11-12,27.0,France,defender,70.0
+243,Ivan Rakitić,5470,Croatia,Q115453,184.0,1988-03-10,38.0,Switzerland,midfielder,78.0
+244,Youssef En-Nesyri,6301,Morocco,Q26262219,188.0,1997-06-01,28.0,Morocco,forward,77.0
+245,Munir El Haddadi Mohamed,6616,Morocco,Q15963931,173.0,1995-09-01,30.0,Morocco,wing half,98.0
+246,Joan Jordán Moreno,6701,Spain,Q17712747,184.0,1994-07-06,31.0,Spain,midfielder,74.0
+247,Sergio Escudero Palomo,6718,Spain,Q714546,176.0,1989-09-02,36.0,Spain,defender,65.0
+248,Franco Damián Vázquez,6719,Argentina,Q2642101,187.0,1989-02-22,37.0,Italy,midfielder,80.0
+249,Yassine Bounou,6785,Morocco,Q3571952,195.0,1991-04-05,35.0,Morocco,goalkeeper,
+250,Sergi Gómez Solà,6804,Spain,Q125945,185.0,1992-03-28,34.0,Spain,defender,77.0
+251,Jesús Navas González,6821,Spain,Q185093,170.0,1985-11-21,40.0,Spain,wing half,72.0
+252,Jesús Joaquín Fernández Sáez de la Torre,7022,Spain,Q247708,177.0,1993-11-19,32.0,Spain,midfielder,70.0
+253,Carlos Fernández Luna,8866,Spain,Q16021998,188.0,1996-05-22,29.0,Spain,forward,77.0
+254,Tomáš Vaclík,11541,Czech Republic,Q1556977,188.0,1989-03-29,37.0,Czech Republic,goalkeeper,85.0
+255,Óliver Torres Muñoz,12021,Spain,Q284473,178.0,1994-11-10,31.0,Spain,midfielder,70.0
+256,Fernando Francisco Reges,16003,Brazil,Q973416,183.0,1987-07-25,38.0,Brazil,midfielder,75.0
+257,Óscar Rodríguez Arnaiz,16212,Spain,Q27825594,174.0,1998-06-28,27.0,Spain,midfielder,67.0
+258,Nemanja Gudelj,16489,Serbia,Q644989,187.0,1991-11-16,34.0,Serbia,midfielder,73.0
+259,Marcos Javier Acuña,19597,Argentina,Q17462635,172.0,1991-10-28,34.0,Argentina,wing half,73.0
+260,Luuk de Jong,20033,Netherlands,Q313911,188.0,1990-08-27,35.0,Kingdom of the Netherlands,forward,80.0
+261,Alejandro Pozo Pozo,24613,Spain,Q26704651,174.0,1999-02-22,27.0,Spain,midfielder,70.0
+262,Javier Díaz Sánchez,24738,Spain,Q62995531,,1997-05-15,28.0,Spain,goalkeeper,
+263,Allan Romeo Nyom,3991,Cameroon,Q2705713,186.0,1988-05-10,37.0,France,full-back,81.0
+264,Ángel Luis Rodríguez Díaz,6611,Spain,Q582087,172.0,1987-04-26,38.0,Spain,forward,67.0
+265,Damián Nicolás Suárez Suárez,6627,Uruguay,Q2463385,172.0,1988-04-27,37.0,Uruguay,defender,65.0
+266,Djené Dakonam Ortega,6634,Togo,Q3467456,178.0,1991-12-31,34.0,Togo,defender,71.0
+267,José Manuel Rodríguez Benito,6681,Spain,Q16230236,189.0,1992-03-03,34.0,Spain,defender,74.0
+268,David Soria Solís,6722,Spain,Q22166596,192.0,1993-04-04,33.0,Spain,goalkeeper,85.0
+269,Enes Ünal,6760,Turkey,Q14637461,185.0,1997-05-10,28.0,Turkey,forward,75.0
+270,David Timor Copoví,6786,Spain,Q3018889,185.0,1989-10-17,36.0,Spain,midfielder,
+271,Xabier Etxeita Gorritxategi,6788,Spain,Q579982,186.0,1987-10-31,38.0,Spain,centre-back,79.0
+272,Erick Cathriel Cabaco Almada,6809,Uruguay,Q18145541,186.0,1995-04-19,31.0,Uruguay,centre-back,80.0
+273,Mauro Wilney Arambarri Rosa,6863,Uruguay,Q17124713,175.0,1995-09-30,30.0,Uruguay,defensive midfielder,71.0
+274,Francisco Portillo Soler,6873,Spain,Q2499232,169.0,1990-06-13,35.0,Spain,midfielder,63.0
+275,Nemanja Maksimović,6901,Serbia,Q16236874,189.0,1995-01-26,31.0,Serbia,midfielder,75.0
+276,Mathías Olivera Miramontes,7104,Uruguay,Q23679804,184.0,1997-10-31,28.0,Spain,defender,78.0
+277,Jaime Mata Arnaiz,11550,Spain,Q17000055,185.0,1988-10-24,37.0,Spain,forward,78.0
+278,Juan Camilo Hernández Suárez,11671,Colombia,Q27037962,175.0,1999-04-22,27.0,Colombia,wing half,73.0
+279,Marc Cucurella Saseta,17620,Spain,Q22082505,169.0,1998-07-22,27.0,Spain,defender,67.0
+280,Víctor Mollejo Carpintero,23211,Spain,Q60689743,176.0,2001-01-21,25.0,Spain,wing half,
+281,Ante Palaversa,28589,Croatia,Q56223508,187.0,2000-04-06,26.0,Croatia,midfielder,
+282,Orlando Rubén Yáñez Alabart,31615,Spain,Q15916807,190.0,1993-10-12,32.0,Spain,goalkeeper,87.0
+283,Thomas Lemar,3245,France,Q15081905,171.0,1995-11-12,30.0,France,midfielder,58.0
+284,Kieran Trippier,3308,England,Q1083432,178.0,1990-09-19,35.0,United Kingdom,full-back,66.0
+285,Diego da Silva Costa,5198,Spain,Q459707,185.0,1988-10-07,37.0,Spain,forward,81.0
+286,Jorge Resurrección Merodio,5199,Spain,Q276091,170.0,1992-01-08,34.0,Spain,midfielder,74.0
+287,José María Giménez de Vargas,5259,Uruguay,Q13634114,185.0,1995-01-20,31.0,Uruguay,defender,76.0
+288,Yannick Ferreira Carrasco,5633,Belgium,Q4284482,180.0,1993-09-04,32.0,Belgium,wing half,72.0
+289,Stefan Savić,6376,Montenegro,Q219884,188.0,1991-01-08,35.0,Montenegro,defender,82.0
+290,Ángel Martín Correa,6377,Argentina,,,,,,,
+291,Jan Oblak,6378,Slovenia,Q2058682,186.0,1993-01-07,33.0,Slovenia,goalkeeper,87.0
+292,Saúl Ñíguez Esclapez,6381,Spain,Q912172,183.0,1994-11-21,31.0,Spain,midfielder,70.0
+293,Geoffrey Kondogbia,6589,Central African Republic,Q724147,188.0,1993-02-15,33.0,France,midfielder,79.0
+294,Mario Hermoso Canseco,6790,Spain,Q20719582,184.0,1995-06-18,30.0,Spain,defender,74.0
+295,Marcos Llorente Moreno,6840,Spain,Q21130285,184.0,1995-01-30,31.0,Spain,midfielder,71.0
+296,Víctor Machín Pérez,6841,Spain,Q7944670,184.0,1989-11-02,36.0,Spain,wing half,80.0
+297,Antonio Moya Vega,8136,Spain,Q42359549,180.0,1998-03-20,28.0,Spain,midfielder,
+298,Felipe Augusto de Almeida Monteiro,11167,Brazil,Q1839524,190.0,1989-05-16,36.0,Brazil,defender,83.0
+299,João Félix Sequeira,12041,Portugal,Q27049064,180.0,1999-11-10,26.0,Portugal,forward,70.0
+300,Sergio Camello Pérez,24995,Spain,Q63928290,177.0,2001-02-10,25.0,Spain,forward,
+301,Renan Augusto Lodi dos Santos,26532,Brazil,Q55055451,178.0,1998-04-08,28.0,Brazil,defender,74.0
+302,Ivo Grbić,29342,Croatia,Q21932130,195.0,1996-01-18,30.0,Croatia,goalkeeper,
+303,Ivan Šaponjić,34532,Serbia,Q16240108,189.0,1997-08-02,28.0,Serbia,forward,84.0
+304,Ricard Sánchez Sendra,41732,Spain,Q83894000,175.0,2000-02-22,26.0,Spain,defender,
+305,Eliaquim Mangala,3389,France,Q579231,188.0,1991-02-13,35.0,France,centre-back,84.0
+306,Mouctar Diakhaby,4267,Guinea,Q26897360,192.0,1996-12-19,29.0,France,defender,74.0
+307,Gonçalo Manuel Ganchinho Guedes,4367,Portugal,Q16729477,178.0,1996-11-29,29.0,Portugal,forward,68.0
+308,Denis Cheryshev,5186,Russia,Q246417,173.0,1990-12-26,35.0,Spain,wing half,74.0
+309,Maximiliano Gómez González,6297,Uruguay,Q20994107,186.0,1996-08-14,29.0,Uruguay,forward,91.0
+310,Carlos Soler Barragán,6583,Spain,Q26707913,183.0,1997-01-02,29.0,Spain,midfielder,72.0
+311,José Luis Gayà Peña,6596,Spain,Q15396247,172.0,1995-05-25,30.0,Spain,full-back,64.0
+312,Rubén Sobrino Pozuelo,6613,Spain,Q16235035,185.0,1992-06-01,33.0,Spain,forward,
+313,David Remeseiro Salgueiro,6691,Spain,Q16236229,178.0,1994-07-06,31.0,Spain,wing half,65.0
+314,Gabriel Armando de Abreu,6746,Brazil,Q14602686,187.0,1990-11-26,35.0,Brazil,centre-back,86.0
+315,Daniel Wass,6797,Denmark,Q316854,181.0,1989-05-31,36.0,Kingdom of Denmark,wing half,74.0
+316,Jaume Doménech Sánchez,6898,Spain,Q18222883,187.0,1990-11-05,35.0,Spain,goalkeeper,76.0
+317,Thierry Rendall Correia,22107,Portugal,Q59306442,176.0,1999-03-09,27.0,Portugal,defender,
+318,Kang-In Lee,22740,Korea (South),Q16174734,173.0,2001-02-19,25.0,South Korea,winger,
+319,Manuel Javier Vallejo Galván,23978,Spain,Q56085410,167.0,1997-02-14,29.0,Spain,wing half,
+320,Uroš Račić,24267,Serbia,Q24084219,193.0,1998-03-17,28.0,Serbia,midfielder,81.0
+321,Alejandro Blanco Sánchez,25005,Spain,Q59915135,175.0,1998-12-16,27.0,Spain,wing half,
+322,Vicente Esquerdo Santas,33164,Spain,Q76933742,180.0,1999-01-02,27.0,Spain,midfielder,
+323,Cristian Rivero Sabater,36900,Spain,Q99539115,,1998-03-21,28.0,Spain,,
+324,Yunus Dimoara Musah,38792,United States of America,Q99304192,178.0,2002-11-29,23.0,United States,forward,
+325,Guillem Molina Gutiérrez,39083,Spain,Q104424071,,2000-05-03,25.0,Spain,,
+326,Koba Lein Koindredi,39164,France,,,,,,,
+327,Unai Etxebarría Martín,41687,Spain,,,,,,,
+328,Maxime Gonalons,6982,France,Q429193,187.0,1989-03-10,37.0,France,midfielder,76.0
+329,Domingos Quina,22140,Portugal,Q26251732,173.0,1999-11-18,26.0,Portugal,midfielder,
+330,Víctor David Díaz Miguel,24133,Spain,Q970462,184.0,1988-06-12,37.0,Spain,defender,71.0
+331,Joaquín José Marín Ruiz,24138,Spain,Q6206493,179.0,1989-09-24,36.0,Spain,full-back,70.0
+332,João Paulo Santos da Costa,31789,Portugal,Q21621085,185.0,1996-02-02,30.0,Portugal,goalkeeper,
+333,Sergio Barcia Laranxeira,52181,Spain,Q101337123,186.0,2000-12-31,25.0,Spain,,
+334,Luis Alberto Suárez Díaz,5246,Uruguay,Q26517,182.0,1987-01-24,39.0,Uruguay,forward,86.0
+335,Lucas Torreira Di Pascua,5266,Uruguay,,,,,,,
+336,Šime Vrsaljko,5461,Croatia,Q391628,183.0,1992-01-10,34.0,Croatia,defender,75.0
+337,Héctor Miguel Herrera López,5575,Mexico,Q2297174,180.0,1990-04-19,36.0,Mexico,midfielder,72.0
+338,Moussa Dembélé,12509,France,Q59194,185.0,1987-07-16,38.0,Belgium,midfielder,83.0
+339,Cheick Doukouré,6683,Côte d'Ivoire,Q5089627,180.0,1992-09-11,33.0,France,midfielder,82.0
+340,Enis Bardhi,6782,"Macedonia, Republic of",Q18391941,172.0,1995-07-02,30.0,North Macedonia,wing half,62.0
+341,Giorgi Kochorashvili,41202,Georgia,Q97303836,178.0,1999-06-29,26.0,Georgia,midfielder,
+342,Alejandro Cantero Sánchez,114272,Spain,,,,,,,
+343,Kevin Gameiro,6401,France,Q314028,172.0,1987-05-09,38.0,France,forward,69.0
+344,Antonio Latorre Grueso,6587,Spain,Q20898221,173.0,1997-11-21,28.0,Spain,defender,69.0
+345,Jasper Cillessen,8652,Netherlands,Q128719,187.0,1989-04-22,37.0,Kingdom of the Netherlands,goalkeeper,82.0
+346,Cristiano Piccini,11634,Italy,Q5186308,183.0,1992-09-26,33.0,Italy,defender,83.0
+347,Francisco Reis Ferreira,23445,Portugal,Q22959121,191.0,1997-03-26,29.0,Portugal,defender,
+348,Christian Gabriel Oliva Giménez,31931,Uruguay,,,,,,,
+349,Hugo Guillamón Sanmartín,35641,Spain,Q30346426,182.0,2000-01-31,26.0,Spain,centre-back,
+350,Sandro Ramírez Castillo,3508,Spain,Q18112619,175.0,1995-07-09,30.0,Spain,forward,71.0
+351,Pablo Maffeo Becerra,6564,Spain,Q22694710,173.0,1997-07-12,28.0,Spain,defender,68.0
+352,Borja García Freire,6567,Spain,Q1440615,175.0,1990-11-02,35.0,Spain,midfielder,73.0
+353,Denis Vavro,16298,Slovakia,Q12015613,190.0,1996-04-10,30.0,Slovakia,defender,88.0
+354,Darío Poveda Romera,8864,Spain,,,,,,,
+355,Sofian Chakla,35287,Morocco,Q20435993,188.0,1993-09-02,32.0,Spain,defender,
+356,Sabit Abdulai,41107,Ghana,Q96970840,187.0,1999-05-11,26.0,,midfielder,
+357,Juan Antonio Iglesias Sánchez,71519,Spain,Q104602884,185.0,1998-07-03,27.0,Spain,midfielder,
+358,Mamor Niang,75584,Spain,Q105077065,,2002-02-04,24.0,Spain,,
+359,Amankwaa Akurugu,79498,Ghana,Q107063601,,2001-11-20,24.0,,,
+360,José Antonio Miranda Boacho,105762,Equatorial Guinea,Q19757096,170.0,1998-07-22,27.0,Spain,midfielder,
+361,Mikel Merino Zazón,3042,Spain,Q17612631,188.0,1996-06-22,29.0,Spain,defensive midfielder,78.0
+362,Adnan Januzaj,6330,Belgium,Q14558450,182.0,1995-02-05,31.0,Belgium,wing half,75.0
+363,Cristian Portugués Manzanera,6582,Spain,Q15917247,167.0,1992-05-21,33.0,Spain,midfielder,70.0
+364,Andoni Gorosabel Espinosa,6670,Spain,Q40958022,174.0,1996-08-04,29.0,Spain,full-back,
+365,Asier Illarramendi Andonegi,6671,Spain,Q127499,179.0,1990-03-08,36.0,Spain,midfielder,76.0
+366,Igor Zubeldia Elorza,6676,Spain,Q23907908,185.0,1997-03-30,29.0,Spain,centre-back,79.0
+367,Mikel Oyarzabal Ugarte,6685,Spain,Q21195147,181.0,1997-04-21,29.0,Spain,inside forward,78.0
+368,Jon Bautista Orgilles,6906,Spain,Q19947838,180.0,1995-07-03,30.0,Spain,centre-forward,72.0
+369,Alexander Isak,8819,Sweden,Q23759917,192.0,1999-09-21,26.0,Sweden,forward,70.0
+370,Modibo Sagnan,10709,France,Q47523443,187.0,1999-04-14,27.0,France,defender,
+371,Robin Aime Robert Le Normand,22128,France,Q27469970,187.0,1996-11-11,29.0,Spain,defender,
+372,Ander Barrenetxea Muguruza,22321,Spain,Q59823403,178.0,2001-12-27,24.0,Spain,forward,
+373,Roberto López Alcaide,22801,Spain,Q59915061,179.0,2000-04-24,25.0,Spain,inside forward,70.0
+374,Martín Merquelanz Castellanos,23212,Spain,Q19948051,176.0,1995-06-12,30.0,Spain,winger,
+375,Ander Guevara Lajo,24236,Spain,Q42383726,180.0,1997-07-07,28.0,Spain,central midfielder,
+376,Martín Zubimendi Ibáñez,24921,Spain,Q63384759,181.0,1999-02-02,27.0,Spain,central midfielder,
+377,Alejandro Remiro Gargallo,32185,Spain,Q20492591,192.0,1995-03-24,31.0,Spain,goalkeeper,79.0
+378,Unai Marrero Larrañaga,65900,Spain,,,,,,,
+379,Ignacio Monreal Eraso,3498,Spain,Q342219,180.0,1986-02-26,40.0,Spain,centre-back,72.0
+380,Joseba Zaldúa Bengoetxea,6605,Spain,Q15407686,176.0,1992-06-24,33.0,Spain,full-back,73.0
+381,Willian José da Silva,6721,Brazil,Q2469796,186.0,1991-11-23,34.0,Brazil,forward,81.0
+382,Aihen Muñoz Capellán,22452,Spain,Q60466652,175.0,1997-08-16,28.0,Spain,full-back,68.0
+383,Robert Navarro Muñoz,47375,Spain,,,,,,,
+384,Urko González de Zarate Quirós,48647,Spain,,,,,,,
+385,Gaizka Ayesa Burgui,51205,Spain,Q106908442,185.0,2001-04-02,25.0,Spain,goalkeeper,
+386,Roque Mesa Quevedo,3610,Spain,Q16232770,171.0,1989-06-07,36.0,Spain,midfielder,68.0
+387,Roberto Jiménez Gago,6571,Spain,Q457527,192.0,1986-02-10,40.0,Spain,goalkeeper,85.0
+388,Raúl García Carnero,6601,Spain,Q3392426,175.0,1989-04-30,36.0,Spain,defender,72.0
+389,Bruno González Cabrera,6872,Spain,Q17335434,185.0,1990-05-24,35.0,Spain,defender,86.0
+390,Fabián Ariel Orellana Valenzuela,7105,Chile,Q367851,169.0,1986-01-27,40.0,Chile,wing half,70.0
+391,Jawad El Yamiq,7459,Morocco,Q28856040,193.0,1992-02-29,34.0,Morocco,centre-back,
+392,Laureano Antonio Villa Suárez,11291,Spain,Q28501370,175.0,1995-01-07,31.0,Spain,wing half,63.0
+393,Óscar Plano Pedreño,11296,Spain,Q4027141,180.0,1991-02-11,35.0,Spain,forward,72.0
+394,José Ignacio Martínez García,11298,Spain,Q6292503,175.0,1989-03-07,37.0,Spain,defender,76.0
+395,Rubén Alcaraz Jiménez,11300,Spain,Q20925501,180.0,1991-05-01,34.0,Spain,wing half,76.0
+396,Miguel Alfonso Herrero Javaloyas,11301,Spain,Q2075500,182.0,1988-07-29,37.0,Spain,midfielder,69.0
+397,Jordi Masip López,11302,Spain,Q3187831,179.0,1989-01-03,37.0,Spain,goalkeeper,72.0
+398,Pablo Hervías Ruiz,12073,Spain,Q12265430,174.0,1993-03-08,33.0,Spain,winger,68.0
+399,Sergio Guardiola Navarro,17027,Spain,Q20949568,185.0,1991-05-29,34.0,Spain,forward,
+400,Javier Sánchez de Felipe,21225,Spain,Q58756067,186.0,1997-03-14,29.0,Spain,defender,
+401,Joaquín Fernández Moreno,22020,Spain,Q21621601,190.0,1996-05-31,29.0,Spain,midfielder,70.0
+402,João Pedro Neves Filipe,23627,Portugal,Q26255495,175.0,1999-03-30,27.0,Portugal,forward,60.0
+403,Federico San Emeterio Díaz,24141,Spain,,,,,,,
+404,Luis Jesús Pérez Maqueda,24266,Spain,,,,,,,
+405,Waldo Rubio Martín,24777,Spain,Q47482035,181.0,1995-08-17,30.0,Spain,wing half,
+406,Shon Zalman Weissman,29310,Israel,Q16854411,175.0,1996-02-14,30.0,Israel,forward,72.0
+407,Marcos André de Sousa Mendonça,31235,Brazil,Q66973697,184.0,1996-10-20,29.0,Brazil,forward,
+408,Enrique Pérez Muñoz,40881,Spain,Q42909631,184.0,1997-02-14,29.0,Spain,midfielder,
+409,Yann Bodiger,2961,France,Q17496337,186.0,1995-02-09,31.0,France,wing half,78.0
+410,Pedro Alcalá Guirado,6579,Spain,Q7159428,196.0,1989-03-19,37.0,Spain,defender,93.0
+411,Alexander Mesa Travieso,6808,Spain,Q16745159,178.0,1995-02-05,31.0,Spain,forward,79.0
+412,Iván Alejo Peralta,6908,Spain,Q20993926,186.0,1995-02-10,31.0,Spain,wing half,77.0
+413,Anthony Rubén Lozano Colón,7578,Honduras,Q2702056,183.0,1993-04-25,32.0,Honduras,Defensa,74.0
+414,Carlos Akapo Martínez,17618,Equatorial Guinea,Q13420410,178.0,1993-03-12,33.0,Spain,defender,70.0
+415,Augusto Matías Fernández,19668,Argentina,Q545665,178.0,1986-04-10,40.0,Argentina,midfielder,71.0
+416,Álvaro Negredo Sánchez,20542,Spain,Q210916,186.0,1985-08-20,40.0,Spain,forward,87.0
+417,Alberto Perea Correoso,23811,Spain,Q4712159,177.0,1990-12-19,35.0,Spain,wing half,83.0
+418,Rafael Jiménez Jarque,23934,Spain,Q22082531,186.0,1993-08-12,32.0,Spain,midfielder,
+419,Alejandro Fernández Iglesias,23967,Spain,Q26536,180.0,1992-10-15,33.0,Spain,midfielder,74.0
+420,Jairo Izquierdo González,23971,Spain,Q20978034,165.0,1993-10-22,32.0,Spain,wing half,
+421,Jorge Marcos Pombo Escobar,24034,Spain,Q26838711,177.0,1994-02-22,32.0,Spain,midfielder,76.0
+422,Álvaro Giménez Candela,24053,Spain,Q4025163,183.0,1991-05-19,34.0,Spain,forward,80.0
+423,Filip Malbašić,24270,Serbia,Q552553,182.0,1992-11-18,33.0,Serbia,midfielder,78.0
+424,Isaac Carcelén Valencia,24322,Spain,,,,,,,
+425,Marcos Mauro López Gutiérrez,24593,Argentina,Q33001983,185.0,1991-01-09,35.0,Argentina,defender,
+426,Luis Alfonso Espino García,24616,Uruguay,Q16594121,172.0,1992-01-05,34.0,Uruguay,defender,
+427,Jon Ander Garrido Moracia,24712,Spain,Q25917363,185.0,1989-10-09,36.0,Spain,defensive midfielder,
+428,Jeremías Ledesma,29198,Argentina,Q16581359,186.0,1993-02-13,33.0,Argentina,goalkeeper,70.0
+429,Jens Jønsson,30370,Denmark,Q6179721,182.0,1993-01-10,33.0,Kingdom of Denmark,defender,
+430,David Gil Mohedano,31793,Spain,Q36989661,186.0,1994-01-11,32.0,Spain,goalkeeper,
+431,Omobolaji Habeeb Adekanye,31914,Netherlands,Q65500461,170.0,1999-02-14,27.0,Nigeria,forward,
+432,Yuri Berchiche Izeta,3023,Spain,Q4118260,181.0,1990-02-10,36.0,Spain,full-back,80.0
+433,Iñigo Córdoba Kerejeta,6387,Spain,,,,,,,
+434,Raúl García Escudero,6391,Spain,Q316772,184.0,1986-07-11,39.0,Spain,inside forward,81.0
+435,Íñigo Lekue Martínez,6392,Spain,,,,,,,
+436,Iñaki Williams Arthuer,6393,Ghana,Q18608497,186.0,1994-06-15,31.0,Spain,forward,77.0
+437,Unai Núñez Gestoso,6397,Spain,Q37506695,186.0,1997-01-30,29.0,Spain,centre-back,81.0
+438,Ibai Gómez Pérez,6617,Spain,,,,,,,
+439,Óscar de Marcos Arana,6649,Spain,,,,,,,
+440,Íñigo Martínez Berridi,6665,Spain,,,,,,,
+441,Mikel Vesga Arruti,6667,Spain,Q20492759,191.0,1993-04-08,33.0,Spain,defensive midfielder,86.0
+442,Ander Capa Rodríguez,6699,Spain,Q16230044,176.0,1992-02-08,34.0,Spain,winger,68.0
+443,Daniel García Carrillo,6775,Spain,Q16233165,180.0,1990-05-24,35.0,Spain,defensive midfielder,72.0
+444,Mikel Balenziaga Oruesagasti,6789,Spain,Q27889,177.0,1988-02-29,38.0,Spain,centre-back,70.0
+445,Iker Muniain Goñi,6842,Spain,Q314259,170.0,1992-12-19,33.0,Spain,forward,63.0
+446,Alejandro Berenguer Remiro,7478,Spain,Q18022026,175.0,1995-07-04,30.0,Spain,inside forward,69.0
+447,Kenan Kodro,8540,Bosnia and Herzegovina,Q17612521,190.0,1993-08-19,32.0,Spain,centre-forward,77.0
+448,Unai Simón Mendibil,11748,Spain,Q23908113,192.0,1997-06-11,28.0,Spain,goalkeeper,86.0
+449,Oihan Sancet Tirapu,30225,Spain,Q66466886,188.0,2000-04-25,25.0,Spain,central midfielder,
+450,Iñigo Vicente Elorduy,30468,Spain,,,,,,,
+451,Asier Villalibre Molina,32953,Spain,Q20492762,184.0,1997-09-30,28.0,Spain,centre-forward,82.0
+452,Jokin Ezkieta Mendiburu,35404,Spain,Q21772559,193.0,1996-08-17,29.0,Spain,goalkeeper,
+453,Unai Vencedor Paris,35473,Spain,Q85290934,176.0,2000-11-15,25.0,Spain,defensive midfielder,
+454,Jon Morcillo Conesa,47226,Spain,Q98929942,183.0,1998-09-15,27.0,Spain,forward,
+455,Pere Pons Riera,6565,Spain,Q6072262,177.0,1993-02-20,33.0,Spain,midfielder,70.0
+456,Facundo Pellistri Rebollo,36288,Uruguay,Q72091732,174.0,2001-12-20,24.0,Uruguay,midfielder,
+457,Javier López Carballo,41124,Spain,Q96483893,183.0,2002-03-25,24.0,Spain,full-back,
+458,Abdelkabir Abqar,82674,Morocco,Q56600183,188.0,1999-03-10,27.0,Morocco,defender,
+459,Álex Collado Gutiérrez,24949,Spain,Q50709615,177.0,1999-04-22,27.0,Spain,midfielder,
+460,Saidy Janko,3417,Gambia,Q17619317,178.0,1995-10-22,30.0,Italy,full-back,75.0
+461,Miguel Ángel Rubio Lestan,8651,Spain,,,,,,,
+462,Samuel Pérez Fariña,41126,Spain,Q54861064,,1997-04-26,28.0,Spain,goalkeeper,
+463,Oriol Rey Erenas,47372,Spain,Q105083031,177.0,1998-02-25,28.0,Spain,,
+464,José Luis Zalazar Martínez,47373,Spain,Q48688152,177.0,1998-05-05,27.0,Spain,forward,
+465,Francisco Javier Alvarez Rodríguez,105323,Spain,,,,,,,
+466,Mohamed Aiman Moukhliss Agmir,105324,Spain,Q30346721,169.0,2000-02-06,26.0,Spain,midfielder,65.0
+467,Aleix Vidal Parreu,6400,Spain,Q620792,175.0,1989-08-21,36.0,Spain,wing half,68.0
+468,Alejandro Darío Gómez,7006,Argentina,Q965846,165.0,1988-02-15,38.0,Argentina,forward,68.0
+469,Karim Rekik,8572,Netherlands,Q1523509,186.0,1994-12-02,31.0,Kingdom of the Netherlands,centre-back,80.0
+470,Joris Gnagnon,18921,France,Q22277955,182.0,1997-01-13,29.0,France,defender,95.0
+471,Yeray Álvarez López,6877,Spain,Q20492429,182.0,1995-01-24,31.0,Spain,centre-back,79.0
+472,Unai López Cabrera,11746,Spain,Q17627796,170.0,1995-10-30,30.0,Spain,central midfielder,64.0
+473,Raúl Rodríguez Navas,6693,Spain,Q16232304,185.0,1988-05-11,37.0,Spain,defender,83.0
+474,Rubén Iván Martínez Andrade,6730,Spain,,,,,,,
+475,Facundo Sebastián Roncaglia,6830,Argentina,Q430802,175.0,1987-02-10,39.0,Italy,full-back,76.0
+476,Iñigo Pérez Soto,23945,Spain,Q2499750,178.0,1988-01-18,38.0,Spain,inside forward,
+477,Javier Enrique Delgado Saverio,41408,Ecuador,Q96634577,178.0,1999-06-19,26.0,Spain,defender,
+478,Iñaki Álvarez Goñi,41573,Spain,Q79385706,183.0,1997-06-18,28.0,Spain,goalkeeper,
+479,José María Martín-Bejarano Serrano,23970,Spain,,,,,,,
+480,Salvador Sánchez Ponce,23973,Spain,Q23668318,175.0,1991-03-30,35.0,Spain,wing half,105.0
+481,Juan Flere Pizzuti,41176,Argentina,Q97587411,,1998-05-12,27.0,Argentina,goalkeeper,
+482,José Alejandro Martín Valerón,47344,Spain,Q65455738,183.0,1998-01-25,28.0,Spain,defender,
+483,Guido Marcelo Carrillo,3246,Argentina,Q3779221,187.0,1991-05-25,34.0,Italy,forward,86.0
+484,Paulo Dino Gazzaniga,5109,Argentina,Q93578,196.0,1992-01-02,34.0,Argentina,goalkeeper,87.0
+485,Johan Andrés Mojica Palacio,5691,Colombia,Q5932872,182.0,1992-08-21,33.0,Colombia,full-back,
+486,Antonio Barragán Fernández,6663,Spain,,,,,,,
+487,Lucas Ariel Boyé,7064,Argentina,Q16297897,179.0,1996-02-28,30.0,Argentina,forward,81.0
+488,Miguel Ángel Garrido Cifuentes,7897,Spain,Q18049717,174.0,1990-10-05,35.0,Spain,defender,65.0
+489,José Manuel Sánchez Guillén,9857,Spain,Q26838531,182.0,1996-06-06,29.0,Spain,defender,
+490,Pere Milla Peña,12072,Spain,Q19664487,184.0,1992-09-23,33.0,Spain,wing half,72.0
+491,Emiliano Ariel Rigoni,15880,Argentina,Q5830920,180.0,1993-02-04,33.0,Argentina,midfielder,70.0
+492,Omenuke Mfulu,18783,"Congo, (Kinshasa)",Q19662964,182.0,1994-03-20,32.0,France,defender,69.0
+493,Fidel Chaves de la Torre,23825,Spain,Q5446728,177.0,1989-10-27,36.0,Spain,wing half,70.0
+494,Edgar Badía Guardiola,24165,Spain,,,,,,,
+495,Juan Francisco Martínez Modesto,24166,Spain,Q513299,169.0,1980-06-10,45.0,Spain,forward,
+496,Gonzalo Cacicedo Verdú,24169,Spain,,,,,,,
+497,Daniel Pedro Calvo San Román,24175,Spain,Q18205393,193.0,1994-04-01,32.0,Spain,defender,82.0
+498,José Antonio Morente Oliva,24251,Spain,Q37518060,184.0,1996-12-02,29.0,Spain,wing half,
+499,José Raúl Gutiérrez Parejo,24517,Spain,Q30248549,177.0,1996-12-30,29.0,Spain,midfielder,
+500,Helibelton Palacios Zapata,27477,Colombia,Q5893752,180.0,1993-06-09,32.0,Colombia,defender,
+501,Luis Miguel Sánchez Benítez,34323,Spain,Q17811742,179.0,1992-05-05,33.0,Spain,midfielder,79.0
+502,Jonatan Carmona Alamo,41106,Spain,,,,,,,
+503,Gerard Barri Paytuvi,41650,Spain,,,,,,,
+504,Lluis Andreu i Ruiz,41859,Spain,,,,,,,
+505,John Nwankwo Donald Okeh,67040,Spain,Q104383796,185.0,2000-09-25,25.0,,,
+506,Alberto Moreno Pérez,3515,Spain,Q4712133,172.0,1992-07-05,33.0,Spain,full-back,64.0
+507,Etienne Capoue,3721,France,Q60595,189.0,1988-07-11,37.0,France,midfielder,80.0
+508,Alfonso Pedraza Sag,6737,Spain,Q19871936,182.0,1996-04-09,30.0,Spain,forward,75.0
+509,Juan Marcos Foyth,21081,Argentina,Q29841260,187.0,1998-01-12,28.0,Argentina,defender,77.0
+510,Yeremi Jesús Pino Santos,50494,Spain,,,,,,,
+511,Claudio Andrés Bravo Muñoz,4691,Chile,Q313161,184.0,1983-04-13,43.0,Spain,goalkeeper,77.0
+512,Arnaldo Antonio Sanabria Ayala,6880,Paraguay,Q10856523,180.0,1996-03-04,30.0,Paraguay,forward,76.0
+513,Marc Bartra Aregall,7068,Spain,Q310625,184.0,1991-01-15,35.0,Spain,defender,70.0
+514,Diego Lainez Leyva,22915,Mexico,Q28861970,168.0,2000-06-09,25.0,Mexico,wing half,58.0
+515,Carlos Marín Tomás,37892,Spain,Q119721026,,1997-02-20,29.0,Spain,,
+516,Nélson Cabral Semedo,6374,Portugal,Q16235823,177.0,1993-11-16,32.0,Portugal,full-back,65.0
+517,Arturo Erasmo Vidal Pardo,8206,Chile,Q192671,180.0,1987-05-22,38.0,Chile,midfielder,75.0
+518,Arthur Henrique Ramos de Oliveira Melo,11392,Brazil,Q39667548,171.0,1996-08-12,29.0,Brazil,midfielder,66.0
+519,Sergio Akieme Rodríguez,20734,Spain,,,,,,,
+520,Takashi Inui,5687,Japan,Q61886,169.0,1988-06-02,37.0,Japan,midfielder,66.0
+521,Marko Dmitrović,6698,Serbia,Q4162928,194.0,1992-01-24,34.0,Serbia,goalkeeper,94.0
+522,Sergio Enrich Ametller,6700,Spain,,,,,,,
+523,José Ángel Valdés Díaz,6705,Spain,,,,,,,
+524,Paulo André Rodrigues de Oliveira,6708,Portugal,Q7155269,187.0,1992-01-08,34.0,Portugal,defender,80.0
+525,Anaitz Arbilla Zabala,6709,Spain,Q4750948,178.0,1987-05-15,38.0,Spain,centre-back,76.0
+526,Gonzalo Escalante,6712,Argentina,Q15110613,175.0,1993-03-27,33.0,Italy,midfielder,72.0
+527,Papa Kouly Diop,6867,Senegal,Q124608,180.0,1986-03-19,40.0,Senegal,midfielder,73.0
+528,Pedro León Sánchez Gil,6907,Spain,Q310007,182.0,1986-11-24,39.0,Spain,wing half,70.0
+529,Eduardo Expósito Jaén,6910,Spain,Q29855603,178.0,1996-08-01,29.0,Spain,midfielder,
+530,Sebastián Carlos Cristóforo Pepe,7154,Uruguay,,,,,,,
+531,Pablo Ezequiel De Blasis,8555,Argentina,Q7121609,165.0,1988-02-04,38.0,Argentina,wing half,66.0
+532,Yoel Rodríguez Oterino,10612,Spain,Q3324787,185.0,1988-08-28,37.0,Spain,goalkeeper,78.0
+533,Sergio Álvarez Díaz,13107,Spain,,,,,,,
+534,Esteban Rodrigo Burgos,23803,Argentina,Q21207416,188.0,1992-01-08,34.0,Argentina,defender,77.0
+535,Enrique González Casín,23808,Spain,Q14616722,175.0,1990-05-16,35.0,Spain,forward,67.0
+536,Álvaro Tejero Sacristán,23981,Spain,Q21643725,173.0,1996-07-20,29.0,Spain,defender,
+537,Chidozie Collins Awaziem,3139,Nigeria,Q22958457,189.0,1997-01-01,29.0,Nigeria,midfielder,82.0
+538,Kenneth Josiah Omeruo,5830,Nigeria,Q182041,185.0,1993-10-17,32.0,Nigeria,defender,81.0
+539,Roberto José Rosales Altuve,6569,Venezuela (Bolivarian Republic),Q596146,174.0,1988-11-20,37.0,Venezuela,full-back,73.0
+540,José Luis García del Pozo,6580,Spain,,,,,,,
+541,Unai Bustinza Martínez,6598,Spain,,,,,,,
+542,Rubén Salvador Pérez Del Mármol,6599,Spain,,,,,,,
+543,Miguel Ángel Guerrero Martín,6602,Spain,,,,,,,
+544,Javier Eraso Goñi,6606,Spain,Q18043802,182.0,1990-03-22,36.0,Spain,inside forward,71.0
+545,Iván Cuéllar Sacristán,6610,Spain,,,,,,,
+546,Marc Navarro Ceciliano,6756,Spain,Q28474550,188.0,1995-07-02,30.0,Spain,defender,79.0
+547,Kévin Manuel Rodrigues,6885,Portugal,Q6453723,170.0,1994-03-05,32.0,Portugal,winger,70.0
+548,Ibrahim Amadou,11332,France,Q18016147,183.0,1993-04-06,33.0,France,midfielder,75.0
+549,Jonathan Cristian Silva,11730,Argentina,Q5934066,175.0,1994-06-29,31.0,Argentina,full-back,72.0
+550,Roger Claver Assalé Djapone,16024,Côte d'Ivoire,,,,,,,
+551,Rodrigo Tarín Higón,17818,Spain,Q20994343,182.0,1996-07-05,29.0,Spain,defender,
+552,Bryan Gil Salvatierra,22418,Spain,Q60687576,175.0,2001-02-11,25.0,Spain,midfielder,
+553,Juan Soriano Oropesa,23921,Spain,Q26704640,185.0,1997-08-23,28.0,Spain,goalkeeper,78.0
+554,Javier Avilés Cortés,30798,Spain,Q58010339,181.0,1997-08-17,28.0,Spain,wing half,
+555,Pablo Lombo Suárez,37006,Spain,Q94695675,,1999-05-24,26.0,,,
+556,Iván Amores Alonso,41291,Spain,,,,,,,
+557,Ramón Rodríguez Jiménez,41122,Spain,Q46672258,173.0,1999-09-13,26.0,Spain,midfielder,
+558,Jorge Cuenca Barreno,41543,Spain,Q28972640,189.0,1999-11-17,26.0,Spain,defender,
+559,Daniel Morer Cabrera,41641,Spain,Q37362537,169.0,1998-02-05,28.0,Spain,defender,
+560,Pape Cheikh Diop Gueye,4558,Senegal,Q22004066,180.0,1997-08-08,28.0,Spain,midfielder,68.0
+561,Fyodor Smolov,5194,Russia,Q1883203,187.0,1990-02-09,36.0,Russia,forward,80.0
+562,Filip Bradarić,6310,Croatia,Q16115059,185.0,1992-01-11,34.0,Croatia,midfielder,77.0
+563,Rubén Blanco Veiga,6795,Spain,Q12399305,188.0,1995-07-25,30.0,Spain,goalkeeper,70.0
+564,Jorge Sáenz de Miera Colmeiro,24273,Spain,Q18808639,192.0,1996-11-17,29.0,Spain,defender,75.0
+565,Juan Hernández García,25014,Spain,Q55023695,186.0,1994-12-06,31.0,Spain,wing half,
+566,Dragan Rosić,28194,Serbia,Q29478762,194.0,1996-11-15,29.0,Serbia,goalkeeper,
+567,Gabriel Matías Fernández Leites,30294,Uruguay,Q17123273,186.0,1994-05-13,31.0,Uruguay,forward,80.0
+568,Sergio Bermejo Lillo,32815,Spain,Q73507659,170.0,1997-08-17,28.0,Spain,midfielder,
+569,Jacobo González Rodrigañez,41116,Spain,,,,,,,
+570,Alphonse Areola,3379,France,Q2839693,195.0,1993-02-27,33.0,France,goalkeeper,88.0
+571,Daniel Carvajal Ramos,5721,Spain,Q127452,168.0,1992-01-11,34.0,Spain,,70.0
+572,Gareth Frank Bale,6399,Wales,Q184586,185.0,1989-07-16,36.0,United Kingdom,wing half,82.0
+573,Carles Pérez Sayol,25006,Spain,Q22082452,172.0,1998-02-16,28.0,Spain,wing half,
+574,André-Frank Zambo Anguissa,3141,Cameroon,Q21039587,184.0,1995-11-16,30.0,Cameroon,midfielder,79.0
+575,Karl Brillant Toko Ekambi,3551,Cameroon,Q18002292,183.0,1992-09-14,33.0,France,forward,70.0
+576,Rubén Peña Jiménez,6710,Spain,Q7376517,170.0,1991-07-18,34.0,Spain,wing half,65.0
+577,Manuel Morlanes Ariño,11384,Spain,Q45125744,178.0,1999-01-12,27.0,Spain,midfielder,
+578,Santiago Cazorla González,11386,Spain,,,,,,,
+579,Xavier Quintillà Guasch,24729,Spain,Q21042759,183.0,1996-08-23,29.0,Spain,defender,
+580,Andrei Florin Ratiu,24861,Romania,,,,,,,
+581,Jean-Clair Todibo,11532,France,Q56223972,190.0,1999-12-30,26.0,France,centre-back,71.0
+582,Sergio Lozano Lluch,15737,Spain,Q48999750,175.0,1999-03-24,27.0,Spain,midfielder,
+583,Bruno Soriano Llido,22819,Spain,Q370395,184.0,1984-06-12,41.0,Spain,midfielder,73.0
+584,José Ángel Gómez Campaña,6688,Spain,Q2406998,179.0,1993-05-31,32.0,Spain,midfielder,74.0
+585,Hernâni Jorge Santos Fortes,12020,Portugal,,,,,,,
+586,Borja Mayoral Moya,21147,Spain,Q18649709,181.0,1997-04-05,29.0,Spain,forward,68.0
+587,Moussa Wagué,5674,Senegal,Q28842103,177.0,1998-10-04,27.0,Senegal,defender,70.0
+588,Pablo Chavarría,7361,Argentina,,,,,,,
+589,Aleksandar Sedlar,8689,Serbia,Q21004915,180.0,1991-12-13,34.0,Serbia,midfielder,
+590,Fabricio Martín Agosto Ramírez,10277,Spain,,,,,,,
+591,Aleix Febas Pérez,23986,Spain,,,,,,,
+592,Abdón Prats Bastidas,24067,Spain,,,,,,,
+593,Salvador Sevilla López,24072,Spain,,,,,,,
+594,Manuel Reina Rodríguez,24083,Spain,,,,,,,
+595,Martin Valjent,24084,Slovakia,Q14806392,186.0,1995-12-11,30.0,Slovakia,midfielder,78.0
+596,Antonio José Raillo Arenas,24086,Spain,,,,,,,
+597,Iddrisu Baba Mohammed,24087,Ghana,,,,,,,
+598,Daniel José Rodríguez Vázquez,24088,Spain,,,,,,,
+599,Joan Sastre Vanrell,24089,Spain,Q21039380,174.0,1997-04-30,28.0,Spain,defender,
+600,Francisco Gámez López,24576,Spain,Q55023689,174.0,1991-07-27,34.0,Spain,defender,
+601,Francisco Javier Campos Coll,25061,Spain,Q3824898,180.0,1982-03-10,44.0,Spain,defender,98.0
+602,Josep Señé Escudero,27342,Spain,Q5936942,183.0,1991-10-12,34.0,Spain,wing half,67.0
+603,Diego Javier Llorente Ríos,6713,Spain,Q13382434,185.0,1993-08-16,32.0,Spain,defender,
+604,Miguel Ángel Moyà Rumbo,7069,Spain,,,,,,,
+605,Martin Ødegaard,8252,Norway,Q16902219,178.0,1998-12-17,27.0,Norway,midfielder,68.0
+606,Luca Sangalli Fuentes,16210,Spain,Q19948121,167.0,1995-02-10,31.0,Spain,inside forward,74.0
+607,Rodrigo Moreno Machado,5718,Spain,Q376394,180.0,1991-03-06,35.0,Spain,wing half,73.0
+608,Ferrán Torres García,6748,Spain,Q44297797,184.0,2000-02-29,26.0,Spain,forward,
+609,Ezequiel Marcelo Garay,6891,Argentina,Q296684,189.0,1986-10-10,39.0,Argentina,full-back,85.0
+610,José Manuel Arnáiz Díaz,6810,Spain,Q21621620,172.0,1995-04-15,31.0,Spain,wing half,70.0
+611,Aimar Oroz,40115,Spain,Q64735295,177.0,2001-11-27,24.0,Spain,central midfielder,
+612,José Javier Hualde Zaratiegui,41471,Spain,,,,,,,
+613,Oliver Burke,3513,Scotland,Q18125392,189.0,1997-04-07,29.0,United Kingdom,wing half,75.0
+614,José Luis Rodríguez Francis,5628,Panama,Q54512527,180.0,1998-06-19,27.0,Panama,wing half,
+615,Víctor Camarasa Ferrando,6659,Spain,Q16208283,183.0,1994-05-28,31.0,Spain,midfielder,76.0
+616,Rafael Jesús Navarro Mazuelos,6900,Spain,,,,,,,
+617,Ljubomir Fejsa,10318,Serbia,Q717999,185.0,1988-08-14,37.0,Serbia,midfielder,80.0
+618,Lisandro Magallán,23263,Argentina,Q2913439,181.0,1993-09-27,32.0,Argentina,centre-back,79.0
+619,Aritz Castro Pérez,37236,Spain,,,,,,,
+620,Paulino de la Fuente Gómez,41123,Spain,Q96573033,181.0,1997-06-27,28.0,Spain,wing half,
+621,Abdallahi Mohamed Mahmoud,41125,Mauritania,,,,,,,
+622,Mikel San José Domínguez,6389,Spain,,,,,,,
+623,Iago Herrerín Buisán,6662,Spain,Q658140,187.0,1988-01-25,38.0,Spain,goalkeeper,88.0
+624,Gaizka Larrazabal Goikoetxea,30715,Spain,Q64006653,181.0,1997-12-17,28.0,Spain,winger,
+625,Daniel Vivian Moreno,41542,Spain,Q63368196,184.0,1999-07-05,26.0,Spain,centre-back,
+626,Javier Moyano Lujano,11297,Spain,Q16231461,180.0,1986-02-23,40.0,Spain,defender,73.0
+627,Francisco José Olivas Alba,11304,Spain,Q2318645,189.0,1988-08-21,37.0,Spain,defender,83.0
+628,Antonio Jesús Regal Angulo,18164,Spain,Q16302286,174.0,1987-12-24,38.0,Spain,midfielder,64.0
+629,Miguel De la Fuente Escudero,20735,Spain,,,,,,,
+630,José Antonio Caro Díaz,24920,Spain,Q24827182,194.0,1994-05-03,31.0,Spain,goalkeeper,
+631,Diego Alende López,34728,Spain,Q22003066,184.0,1997-08-25,28.0,Spain,defender,
+632,Víctor García Raja,41610,Spain,Q56604038,175.0,1997-09-16,28.0,Spain,wing half,
+633,Sergi Darder Moll,3236,Spain,Q6125267,180.0,1993-12-22,32.0,Spain,midfielder,67.0
+634,Bernardo José Espinosa Zúñiga,6573,Colombia,Q2760431,192.0,1989-07-11,36.0,Spain,defender,86.0
+635,Leandro Daniel Cabrera Sasía,6635,Uruguay,,,,,,,
+636,Oier Olazábal Paredes,6692,Spain,,,,,,,
+637,David López Silva,6754,Spain,,,,,,,
+638,Víctor Sánchez Mata,6758,Spain,,,,,,,
+639,Diego López Rodríguez,6768,Spain,Q314617,196.0,1981-11-03,44.0,Spain,goalkeeper,88.0
+640,Edinaldo Gomes Pereira,6769,Brazil,Q3909869,188.0,1988-08-25,37.0,Brazil,defender,80.0
+641,Javier López Rodríguez,6791,Spain,Q1340550,180.0,1986-01-21,40.0,Spain,midfielder,74.0
+642,Marc Roca Junqué,6866,Spain,Q26708753,184.0,1996-11-26,29.0,Spain,midfielder,74.0
+643,Dídac Vilá Rosselló,6886,Spain,,,,,,,
+644,Óscar Melendo Jiménez,6902,Spain,Q27899247,167.0,1997-08-23,28.0,Spain,wing half,65.0
+645,Fernando Calero Villa,11293,Spain,Q38681499,184.0,1995-09-14,30.0,Spain,defender,79.0
+646,Adrián Embarba Blázquez,11539,Spain,Q15222370,173.0,1992-05-07,33.0,Spain,wing half,66.0
+647,Raúl de Tomás Gómez,16209,Spain,Q641387,180.0,1994-10-17,31.0,Spain,forward,72.0
+648,Adrià Giner Pedrosa,22287,Spain,Q58174944,172.0,1998-05-13,27.0,Spain,defender,
+649,Lei Wu,23343,China,,,,,,,
+650,Víctor Campuzano Bonilla,30420,Spain,Q29263290,174.0,1997-05-31,28.0,Spain,forward,
+651,Matías Ezequiel Vargas Martín,30421,Argentina,,,,,,,
+652,Pol Lozano Vizuete,31885,Spain,Q52192222,176.0,1999-10-06,26.0,Spain,forward,
+653,Víctor Gómez Perea,32670,Spain,Q72748114,171.0,2000-04-01,26.0,Spain,defender,
+654,Nicolás Melamed Ribaudo,41456,Spain,Q66498959,173.0,2001-04-11,25.0,Spain,midfielder,
+655,Daniel Villahermosa Martínez,41603,Spain,,,,,,,
+656,Álvaro Borja Morata Martín,3477,Spain,Q48770,187.0,1992-10-23,33.0,Spain,forward,85.0
+657,Santiago Arias Naranjo,5696,Colombia,Q2502118,175.0,1992-01-13,34.0,Colombia,full-back,72.0
+658,Thomas Teye Partey,6383,Ghana,Q15963873,185.0,1993-06-13,32.0,Ghana,midfielder,78.0
+659,Antonio Adán Garrido,6654,Spain,Q489111,190.0,1987-05-13,38.0,Spain,goalkeeper,85.0
+660,Álvaro García Segovia,41733,Spain,Q89425815,184.0,2000-06-01,25.0,Spain,defender,
+661,Pione Sisto Ifolo Emirmija,5516,Denmark,Q15060544,171.0,1995-02-04,31.0,Sudan,wing half,64.0
+662,Stanislav Lobotka,6798,Slovakia,Q7599020,170.0,1994-11-25,31.0,Slovakia,midfielder,68.0
+663,Sergio Álvarez Conde,6884,Spain,,,,,,,
+664,David Costas Cordal,17804,Spain,Q14742658,184.0,1995-03-26,31.0,Spain,defender,71.0
+665,Pedro Antonio Porro Sauceda,11292,Spain,Q44080929,176.0,1999-09-13,26.0,Spain,wing half,71.0
+666,Anuar Mohamed Tuhami,11303,Morocco,Q18330888,173.0,1995-01-15,31.0,Spain,midfielder,69.0
+667,Federico Barba,17520,Italy,Q5440960,188.0,1993-09-01,32.0,Italy,defender,77.0
+668,Mohamed Salisu,30519,Ghana,,,,,,,
+669,Yannis Salibur,3122,France,Q3571834,177.0,1991-01-24,35.0,France,midfielder,76.0
+670,Júnior Wakalibille Lago,24079,Côte d'Ivoire,,,,,,,
+671,Marc Pedraza Sarto,24269,Spain,Q1857363,183.0,1987-02-06,39.0,Spain,midfielder,
+672,Miquel Parera Pizá,25595,Spain,Q56600176,,1996-05-18,29.0,Spain,goalkeeper,
+673,Aleksandar Trajkovski,30512,"Macedonia, Republic of",Q535908,179.0,1992-09-05,33.0,North Macedonia,wing half,75.0
+674,Ander Iturraspe Derteano,6388,Spain,Q369764,187.0,1989-03-08,37.0,Spain,central midfielder,74.0
+675,Andrés Tomás Prieto Albert,6848,Spain,Q16150421,193.0,1993-10-17,32.0,Spain,goalkeeper,92.0
+676,Lluís López Mármol,22919,Spain,Q48688146,182.0,1997-03-05,29.0,Spain,defender,
+677,Marcos Paulo Mesquita Lopes,3218,Portugal,Q2811689,174.0,1995-12-28,30.0,Portugal,midfielder,70.0
+678,Éver Maximiliano David Banega,5504,Argentina,Q19392,174.0,1988-06-29,37.0,Argentina,midfielder,71.0
+679,Sergio Reguilón Rodríguez,18620,Spain,Q24258610,178.0,1996-12-16,29.0,Spain,defender,67.0
+680,José Mena Rodríguez,33146,Spain,Q37336452,,1998-05-15,27.0,Spain,midfielder,
+681,Genaro Rodríguez Serrano,33307,Spain,Q50936768,184.0,1998-03-23,28.0,Spain,defender,
+682,Pablo Pérez Rico,41409,Spain,,,,,,,
+683,Juan Brandariz Movilla,41407,Spain,,,,,,,
+684,Charles Días Barbosa de Oliveira,6707,Brazil,,,,,,,
+685,Enrique García Martínez,6711,Spain,,,,,,,
+686,Pedro Bigas Rigo,7907,Spain,Q3077818,180.0,1990-05-15,35.0,Spain,defender,78.0
+687,Daniel Martín Fernández,30518,Spain,Q40493824,187.0,1998-07-08,27.0,Spain,goalkeeper,
+688,Edgar González Estrada,33079,Spain,Q59915008,,1997-04-01,29.0,,,
+689,İsmail Köybaşı,16538,Turkey,Q344193,178.0,1989-07-10,36.0,Turkey,full-back,
+690,José Antonio Martínez Gil,24142,Spain,Q37370829,189.0,1993-02-12,33.0,Spain,defender,
+691,Gustavo Adrián Ramos Vásquez,24324,Colombia,Q370348,185.0,1986-01-22,40.0,Colombia,forward,81.0
+692,Oghenekaro Etebo,5466,Nigeria,Q16733640,176.0,1995-11-09,30.0,Nigeria,forward,70.0
+693,Amath Ndiaye,6621,Senegal,Q26714892,173.0,1996-07-16,29.0,Senegal,forward,63.0
+694,Leandro Chichizola,6931,Argentina,Q6509619,185.0,1990-03-27,36.0,Argentina,goalkeeper,80.0
+695,Rey Manaj,23987,Albania,Q18637686,182.0,1997-02-24,29.0,Albania,forward,76.0
+696,Mubarak Wakaso,6626,Ghana,Q980653,171.0,1990-07-25,35.0,Ghana,midfielder,68.0
+697,Javier Muñoz Jiménez,24078,Spain,Q18654709,175.0,1995-02-28,31.0,Spain,midfielder,
+698,Javier Hernández Balcázar,3058,Mexico,Q165125,175.0,1988-06-01,37.0,Mexico,forward,71.0
+699,Daniel Filipe Martins Carriço,6825,Portugal,Q772371,182.0,1988-08-04,37.0,Portugal,centre-back,71.0
+700,Héctor Alfredo Moreno Herrera,5573,Mexico,,,,,,,
+701,David Zurutuza Veillet,6669,Spain,Q2302580,184.0,1986-07-19,39.0,Spain,central midfielder,70.0
+702,Aritz Elustondo Irribaria,6679,Spain,,,,,,,
+703,Theo Bernard François Hernández,6704,France,,,,,,,
+704,Rubén Pardo Gutiérrez,6899,Spain,Q127480,182.0,1992-10-22,33.0,Spain,central midfielder,68.0
+705,Thomas Vermaelen,6332,Belgium,Q184177,183.0,1985-11-14,40.0,Belgium,centre-back,80.0
+706,Malcom Filipe Silva de Oliveira,3109,Brazil,Q16745198,171.0,1997-02-26,29.0,Brazil,wing half,65.0
+707,Nabil El Zhar,6608,Morocco,Q311162,170.0,1986-08-27,39.0,France,forward,67.0
+708,Sabin Merino Zuloaga,6666,Spain,Q20727311,187.0,1992-01-04,34.0,Spain,centre-forward,
+709,Juan Francisco Moreno Fuertes,6738,Spain,Q1361823,179.0,1988-09-11,37.0,Spain,wing half,72.0
+710,Diego Alejandro Rolan Silva,6739,Uruguay,Q3014830,179.0,1993-03-24,33.0,Uruguay,forward,74.0
+711,Gerard Gumbau Garriga,6834,Spain,Q17593940,187.0,1994-12-18,31.0,Spain,midfielder,78.0
+712,Jon Ander Serantes Simon,9879,Spain,,,,,,,
+713,Michael Nicolás Santos Rosadilla,11745,Uruguay,Q17622376,175.0,1993-03-13,33.0,Uruguay,forward,62.0
+714,André Miguel Valente Silva,5218,Portugal,Q15113616,185.0,1995-11-06,30.0,Portugal,forward,75.0
+715,Simon Thorup Kjær,5534,Denmark,Q208638,190.0,1989-03-26,37.0,Kingdom of Denmark,defender,86.0
+716,Gabriel Iván Mercado,5742,Argentina,Q1372491,181.0,1987-03-18,39.0,Argentina,centre-back,83.0
+717,Luis Fernando Muriel Fruto,6334,Colombia,Q1032597,178.0,1991-04-16,35.0,Colombia,forward,79.0
+718,Pablo Sarabia García,6720,Spain,Q510165,176.0,1992-05-11,33.0,Spain,midfielder,70.0
+719,Wissam Ben Yedder,6723,France,Q137128,170.0,1990-08-12,35.0,France,forward,66.0
+720,Guilherme Antonio Arana Lopes,6919,Brazil,Q19559974,180.0,1997-04-14,29.0,Brazil,full-back,68.0
+721,Quincy Anton Promes,13360,Netherlands,Q2092290,174.0,1992-01-04,34.0,Kingdom of the Netherlands,midfielder,72.0
+722,Lucas Hernández Pi,5484,France,,,,,,,
+723,Gelson Dany Batalha Martins,5723,Portugal,Q17560793,173.0,1995-05-11,30.0,Portugal,wing half,72.0
+724,Filipe Luís Kasmirski,6320,Brazil,Q350547,182.0,1985-08-09,40.0,Brazil,full-back,77.0
+725,Rodrigo Hernández Cascante,6765,Spain,Q20994118,190.0,1996-06-22,29.0,Spain,defensive midfielder,78.0
+726,Nikola Kalinić,7033,Croatia,Q311368,187.0,1988-01-05,38.0,Croatia,forward,80.0
+727,Leonardo Carrilho Baptistão,6761,Brazil,Q326387,181.0,1992-08-26,33.0,Spain,forward,71.0
+728,Pablo Daniel Piatti,6763,Argentina,Q319890,163.0,1989-03-31,37.0,Italy,wing half,63.0
+729,Sergio García De La Fuente,6767,Spain,,,,,,,
+730,Esteban Félix Granero Molina,6770,Spain,Q282990,180.0,1987-07-02,38.0,Spain,midfielder,77.0
+731,Hernán Arsenio Pérez González,6838,Paraguay,,,,,,,
+732,Marko Rog,7040,Croatia,Q18201931,180.0,1995-07-19,30.0,Croatia,midfielder,73.0
+733,Maximilian Wöber,8068,Austria,,,,,,,
+734,Sofiane Boufal,3625,Morocco,Q18637185,175.0,1993-09-17,32.0,France,midfielder,75.0
+735,Gustavo Daniel Cabral Cáceres,6794,Argentina,,,,,,,
+736,Jozabed Sánchez Ruiz,6852,Spain,Q17996881,180.0,1991-03-08,35.0,Spain,midfielder,65.0
+737,Róbert Mazáň,6876,Slovakia,,,,,,,
+738,Andrew Hjulsager,10759,Denmark,Q14639070,175.0,1995-01-15,31.0,Kingdom of Denmark,midfielder,73.0
+739,Samuel Sáiz Alonso,4712,Spain,,,,,,,
+740,Vitorino Gabriel Pacheco Antunes,6619,Portugal,Q442821,175.0,1987-04-01,39.0,Portugal,defender,69.0
+741,Mathieu Flamini,6631,France,Q204848,178.0,1984-03-07,42.0,France,midfielder,67.0
+742,Robert Ibáñez Castro,18721,Spain,Q17708640,168.0,1993-03-22,33.0,Spain,wing half,60.0
+743,Kevin-Prince Boateng,8668,Ghana,Q151034,186.0,1987-03-06,39.0,Ghana,midfielder,77.0
+744,Sergio Gontán Gallardo,6742,Spain,Q2110721,171.0,1991-12-28,34.0,Spain,wing half,71.0
+745,Daniele Verde,7699,Italy,Q18811046,169.0,1996-06-20,29.0,Italy,forward,64.0
+746,Duje Čop,8419,Croatia,Q1283439,187.0,1990-02-01,36.0,Croatia,forward,71.0
+747,Borja Fernández Fernández,11294,Spain,Q562637,188.0,1981-01-14,45.0,Spain,midfielder,
+748,Stiven Ricardo Plaza Castillo,23492,Ecuador,Q56164129,188.0,1999-03-11,27.0,Ecuador,forward,
+749,Giovani Lo Celso,3313,Argentina,Q20743436,177.0,1996-04-09,30.0,Italy,midfielder,
+750,Jesé Rodríguez Ruiz,3990,Spain,Q513911,178.0,1993-02-26,33.0,Spain,forward,73.0
+751,Zouhair Feddal,6647,Morocco,Q4024844,191.0,1989-12-23,36.0,Spain,defender,83.0
+752,Pau López Sabata,6792,Spain,Q17466615,188.0,1994-12-13,31.0,Spain,goalkeeper,77.0
+753,Wilfrid Jaures Kaptoum,22235,Cameroon,Q17593975,170.0,1996-01-07,30.0,Cameroon,midfielder,
+754,Markel Susaeta Laskurain,6390,Spain,Q350684,179.0,1987-12-14,38.0,Spain,inside forward,66.0
+755,Beñat Etxebarria Urkiaga,6396,Spain,Q454950,177.0,1987-02-19,39.0,Spain,central midfielder,72.0
+756,Borja González Tomás,6566,Spain,Q2701593,191.0,1992-08-25,33.0,Spain,forward,82.0
+757,Daniel Alejandro Torres Rojas,6839,Colombia,Q18359621,181.0,1989-11-15,36.0,Colombia,midfielder,80.0
+758,Guillermo Alfonso Maripán Loaysa,6855,Chile,,,,,,,
+759,Patrick Twumasi,12190,Ghana,Q15977201,176.0,1994-05-09,31.0,Ghana,forward,69.0
+760,Antonio Perera Calderón,50547,Spain,Q103790405,186.0,1997-06-08,28.0,,,
+761,Vasyl Kravets,23561,Ukraine,Q19902584,183.0,1997-08-20,28.0,Ukraine,defender,79.0
+762,Diego Roberto Godín Leal,5249,Uruguay,Q214903,188.0,1986-02-16,40.0,Uruguay,centre-back,78.0
+763,Juan Francisco Torres Belén,6375,Spain,Q210914,180.0,1985-01-09,41.0,Spain,full-back,72.0
+764,Antonio Manuel Luna Rodríguez,6675,Spain,,,,,,,
+765,Raphael Dwamena,11305,Ghana,Q21523340,184.0,1995-09-12,30.0,Ghana,forward,100.0
+766,Moses Daddy-Ajala Simon,18163,Nigeria,,,,,,,
+767,Daniel Raba Antolín,6753,Spain,,,,,,,
+768,Álvaro González Soberón,6762,Spain,,,,,,,
+769,Pablo Fornals Malla,6764,Spain,Q21027331,160.0,1996-02-22,30.0,Spain,midfielder,67.0
+770,Santiago Cáseres,11385,Argentina,Q29908620,177.0,1997-02-25,29.0,Argentina,midfielder,80.0
+771,Cristhian Ricardo Stuani Curbelo,6351,Uruguay,Q2608851,186.0,1986-10-12,39.0,Italy,forward,75.0
+772,Marc Muniesa Martínez,6560,Spain,Q313111,181.0,1992-03-27,34.0,Spain,full-back,66.0
+773,Alejandro Granell Nogué,6570,Spain,Q10853624,175.0,1988-08-02,37.0,Spain,midfielder,70.0
+774,Juan Pedro Ramírez López,6572,Spain,,,,,,,
+775,Douglas Luiz Soares de Paulo,6574,Brazil,Q28363823,175.0,1998-05-09,27.0,Brazil,midfielder,66.0
+776,Gorka Iraizoz Moreno,6576,Spain,Q266021,191.0,1981-03-06,45.0,Spain,goalkeeper,
+777,Aleix García Serrano,6888,Spain,Q19968626,173.0,1997-06-28,28.0,Spain,wing half,61.0
+778,Valery Fernández Estrada,22129,Spain,Q58100326,179.0,1999-11-23,26.0,Spain,wing half,
+779,Seung-Ho Paik,23264,Korea (South),Q12597820,180.0,1997-03-17,29.0,South Korea,midfielder,68.0
+780,Alejandro Pachón Párraga,42283,Spain,,,,,,,
+781,Carlos Martín Vigaray,6856,Spain,Q16236636,182.0,1994-09-07,31.0,Spain,defender,
+782,Rúben Afonso Borges Semedo,6857,Portugal,Q16236521,189.0,1994-04-04,32.0,Portugal,defender,84.0
+783,Axel Werner,9747,Argentina,Q19360297,191.0,1996-02-28,30.0,Argentina,goalkeeper,86.0
+784,Samuele Longo,11672,Italy,Q500782,185.0,1992-01-12,34.0,Italy,forward,78.0
+785,Alejandro Gallar Falguera,11673,Spain,Q25917302,176.0,1992-03-19,34.0,Spain,wing half,71.0
+786,Damián Marcelo Musto,11674,Argentina,Q3701299,184.0,1987-06-09,38.0,Argentina,midfielder,82.0
+787,Luis Ezequiel Ávila,11678,Argentina,Q19949691,179.0,1994-02-06,32.0,Argentina,forward,81.0
+788,Serdar Gürler,12554,Turkey,Q472488,173.0,1991-09-14,34.0,Turkey,wing half,72.0
+789,Lluis Sastre Reus,19396,Spain,Q27531,175.0,1986-03-26,40.0,Spain,midfielder,
+790,Roberto Santamaría Cipriain,22332,Spain,,,,,,,
+791,Abel Ruiz Ortega,24976,Spain,Q38103648,182.0,2000-01-28,26.0,Spain,forward,
+792,Iván Ramis Barrios,6778,Spain,,,,,,,
+793,Asier Riesgo Unamuno,10763,Spain,Q519528,185.0,1983-10-06,42.0,Spain,goalkeeper,
+794,Marc Cardona Rovira,13108,Spain,Q26837681,182.0,1995-07-08,30.0,Spain,forward,
+795,Jordi Calavera Espinach,24948,Spain,Q20977914,182.0,1995-08-02,30.0,Spain,defender,74.0
+796,Gilbert Gianelli Imbula Wanga,4346,"Congo, (Kinshasa)",,,,,,,
+797,Luis Jan Piers Advíncula Castrillón,5521,Peru,,,,,,,
+798,Jordi Amat Maas,6652,Spain,Q1157022,185.0,1992-03-21,34.0,Indonesia,defender,80.0
+799,Roberto Román Triguero,6914,Spain,,,,,,,
+800,Alejandro Gálvez Jimena,6924,Spain,,,,,,,
+801,Tiago Manuel Dias Correia,7900,Cape Verde,Q299450,190.0,1990-07-12,35.0,Portugal,wing half,80.0
+802,Franco Matías Di Santo,8512,Argentina,,,,,,,
+803,José Ángel Pozo la Rosa,11535,Spain,,,,,,,
+804,Alberto García Cabrera,11537,Spain,,,,,,,
+805,Óscar Guido Trejo,11540,Argentina,,,,,,,
+806,Álvaro García Rivera,12192,Spain,Q14777639,168.0,1992-10-27,33.0,Spain,midfielder,58.0
+807,Santiago Comesaña Veiga,12194,Spain,Q26743343,184.0,1996-10-05,29.0,Spain,midfielder,75.0
+808,Emiliano Daniel Velázquez Maldonado,17054,Uruguay,Q5371729,185.0,1994-04-30,31.0,Uruguay,defender,79.0
+809,Stole Dimitrievski,21397,"Macedonia, Republic of",Q3973800,188.0,1993-12-25,32.0,North Macedonia,goalkeeper,81.0
+810,Mario Suárez Mata,23488,Spain,,,,,,,
+811,Sanjin Prcić,4407,Bosnia and Herzegovina,Q14778301,181.0,1993-11-20,32.0,France,midfielder,76.0
+812,Emmanuel Okyere Boateng,6678,Ghana,Q17501919,175.0,1996-05-23,29.0,Ghana,forward,69.0
+813,Gaku Shibasaki,5693,Japan,Q2011456,175.0,1992-05-28,33.0,Japan,midfielder,64.0
+814,Ignasi Miquel i Pons,6741,Spain,Q538897,193.0,1992-09-28,33.0,Spain,defender,85.0
+815,Hugo Duro Perales,7621,Spain,Q42332208,180.0,1999-11-10,26.0,Spain,forward,
+816,Aritz Aduriz Zubeldia,6394,Spain,Q54105,182.0,1981-02-11,45.0,Spain,centre-forward,77.0
+817,Peru Nolaskoain Esnal,11744,Spain,Q54657180,186.0,1998-10-25,27.0,Spain,wide midfielder,80.0
+818,Hodei Oleaga Alarcia,349946,Spain,Q56045107,198.0,1996-12-29,29.0,Spain,goalkeeper,
+819,Francesc Aday Benítez Caraballo,6578,Spain,Q16146666,179.0,1987-09-16,38.0,Spain,wing half,75.0
+820,Patrick Roberts,11295,England,Q15980269,167.0,1997-02-05,29.0,United Kingdom,wing half,58.0
+821,Seydou Doumbia,17276,Côte d'Ivoire,Q299244,179.0,1987-12-31,38.0,Ivory Coast,forward,77.0
+822,Èric Montes Arce,34694,Spain,,,,,,,
+823,Daniele Bonera,6827,Italy,Q234885,183.0,1981-05-31,44.0,Italy,full-back,74.0
+824,Iván Martín Núñez,42275,Spain,Q60667184,178.0,1999-02-14,27.0,Spain,inside forward,
+825,Michy Batshuayi Tunga,3457,Belgium,Q2301910,185.0,1993-10-02,32.0,Belgium,forward,78.0
+826,Keylor Navas Gamboa,5597,Costa Rica,,,,,,,
+827,Daniel Ceballos Fernández,6697,Spain,Q16972254,179.0,1996-08-07,29.0,Spain,central midfielder,65.0
+828,Alfa Semedo Esteves,10323,Guinea-Bissau,Q35083837,190.0,1997-08-30,28.0,Guinea-Bissau,midfielder,75.0
+829,Andrés Iniesta Luján,5216,Spain,Q43729,171.0,1984-05-11,41.0,Spain,midfielder,68.0
+830,José Paulo Bezzera Maciel Júnior,5542,Brazil,,,,,,,
+831,André Filipe Tavares Gomes,10802,Portugal,Q519008,188.0,1993-07-30,32.0,Portugal,midfielder,84.0
+832,Simone Zaza,6584,Italy,Q3961288,186.0,1991-06-25,34.0,Italy,forward,83.0
+833,Luciano Vietto,6744,Argentina,Q335026,173.0,1993-12-05,32.0,Spain,forward,68.0
+834,Andreas Hoelgebaum Pereira,6846,Brazil,,,,,,,
+835,Fabian Lukas Schär,5537,Switzerland,Q673691,186.0,1991-12-20,34.0,Switzerland,centre-back,85.0
+836,Celso Borges Mora,5582,Costa Rica,Q2208497,186.0,1988-05-27,37.0,Costa Rica,midfielder,81.0
+837,Michael Krohn-Dehli,6356,Denmark,Q221570,170.0,1983-06-06,42.0,Kingdom of Denmark,midfielder,68.0
+838,Raúl Albentosa Redal,6727,Spain,Q16149018,193.0,1988-09-07,37.0,Spain,defender,86.0
+839,Federico Nicolás Cartabia,6728,Argentina,,,,,,,
+840,Guilherme dos Santos Torres,6729,Brazil,Q2288822,177.0,1991-04-05,35.0,Brazil,stopper,75.0
+841,Florin Andone,6731,Romania,Q18223242,182.0,1993-04-11,33.0,Romania,forward,79.0
+842,Borja Valle Balonga,6774,Spain,Q12384560,178.0,1992-07-09,33.0,Spain,wing half,78.0
+843,Emre Çolak,6779,Turkey,Q1339629,168.0,1991-05-20,34.0,Turkey,wing half,62.0
+844,Fernando Navarro i Corbacho,6913,Spain,Q310022,178.0,1982-06-25,43.0,Spain,full-back,70.0
+845,Sulley Ali Muntari,7914,Ghana,Q193768,179.0,1984-08-27,41.0,Ghana,midfielder,76.0
+846,Maksym Koval,8097,Ukraine,Q328731,188.0,1992-12-09,33.0,Ukraine,goalkeeper,85.0
+847,Cristiano Ronaldo dos Santos Aveiro,5207,Portugal,Q11571,185.0,1985-02-05,41.0,Portugal,forward,85.0
+848,Mateo Kovačić,5456,Croatia,Q701297,177.0,1994-05-06,31.0,Croatia,midfielder,75.0
+849,Francisco Casilla Cortés,6706,Spain,Q721600,190.0,1986-10-02,39.0,Spain,goalkeeper,84.0
+850,Yerry Fernando Mina González,6196,Colombia,Q16648816,195.0,1994-09-23,31.0,Colombia,centre-back,94.0
+851,Lucas Digne,6849,France,Q72648,178.0,1993-07-20,32.0,France,full-back,74.0
+852,Kepa Arrizabalaga Revuelta,6395,Spain,Q3195361,188.0,1994-10-03,31.0,Spain,goalkeeper,88.0
+853,Enric Saborit Teixidor,6660,Spain,Q14778389,187.0,1992-04-27,33.0,Spain,centre-back,72.0
+854,Alberto Aquilani,6920,Italy,Q191151,186.0,1984-07-07,41.0,Italy,midfielder,77.0
+855,Matías Aguirregaray Guruceaga,6921,Uruguay,Q932851,174.0,1989-04-01,37.0,Uruguay,defender,78.0
+856,Míchel Macedo Rocha Machado,6922,Brazil,,,,,,,
+857,Jairo Samperio Bustara,6925,Spain,Q3806209,170.0,1993-07-11,32.0,Spain,wing half,65.0
+858,Alen Halilović,6926,Croatia,Q137856,170.0,1996-06-18,29.0,Croatia,wing half,61.0
+859,David García Santana,6927,Spain,,,,,,,
+860,Pedro Taunausú Domínguez Placeres,6928,Spain,,,,,,,
+861,José Vicente Gómez Umpiérrez,6929,Spain,,,,,,,
+862,Dani Castellano Betancor,6932,Spain,,,,,,,
+863,Erik Alexander Expósito Hernández,6936,Spain,Q29578671,192.0,1996-06-23,29.0,Spain,forward,
+864,Javi Castellano Betancor,7904,Spain,,,,,,,
+865,Raúl Lizoáin Cruz,7905,Spain,,,,,,,
+866,Hernán Darío Toledo,8099,Argentina,,,,,,,
+867,David Rodríguez Lombán,6702,Spain,Q2095355,188.0,1987-06-05,38.0,Spain,defender,84.0
+868,Gerard Deulofeu Lázaro,3726,Spain,Q356126,176.0,1994-03-13,32.0,Spain,wing half,72.0
+869,Javier Alejandro Mascherano,5506,Argentina,Q161571,174.0,1984-06-08,41.0,Italy,midfielder,74.0
+870,Oussama Tannane,4265,Morocco,Q3375006,177.0,1994-03-23,32.0,Morocco,forward,80.0
+871,Mauricio Lemos Merladet,7692,Uruguay,,,,,,,
+872,David Simón Rodríguez Santana,7906,Spain,Q17595377,179.0,1988-12-16,37.0,Spain,defender,75.0
+873,Borja Herrera González,8204,Spain,Q39885292,175.0,1993-01-08,33.0,Spain,wing half,
+874,Aythami Artiles Oliva,8440,Spain,Q1121014,185.0,1986-04-02,40.0,Spain,defender,79.0
+875,Jonathan Viera Ramos,10755,Spain,Q2296133,170.0,1989-10-21,36.0,Spain,midfielder,64.0
+876,Hernán Daniel Santana Trujillo,15805,Spain,Q5896277,180.0,1990-08-26,35.0,Spain,midfielder,74.0
+877,Christian Rivera Hernández,6703,Spain,Q20994284,190.0,1997-07-09,28.0,Spain,midfielder,80.0
+878,Arda Turan,11094,Turkey,Q487459,175.0,1987-01-30,39.0,Turkey,midfielder,76.0
+879,Riza Durmisi,6646,Denmark,Q13543997,168.0,1994-01-08,32.0,Kingdom of Denmark,full-back,67.0
+880,Fabián Ruiz Peña,6655,Spain,Q18637930,189.0,1996-04-03,30.0,Spain,midfielder,70.0
+881,Francisco Javier Guerrero Martín,6831,Spain,Q37519064,185.0,1996-03-11,30.0,Spain,wing half,
+882,Alin Dorinel Toșca,6835,Romania,Q4726699,180.0,1992-03-14,34.0,Romania,full-back,75.0
+883,Francisco Javier García Fernández,6836,Spain,,,,,,,
+884,Daniel Giménez Hernández,8803,Spain,,,,,,,
+885,Matías Nahuel Leiva Esquivel,18867,Spain,Q15627765,175.0,1996-10-22,29.0,Spain,wing half,67.0
+886,Juan José Narváez Solarte,20062,Colombia,Q5162376,178.0,1995-02-12,31.0,Colombia,forward,76.0
+887,Javier Fuego Martínez,6751,Spain,,,,,,,
+888,Samuel Castillejo Azuaga,6829,Spain,Q17708755,182.0,1995-01-18,31.0,Spain,wing half,67.0
+889,Nicola Sansone,6859,Italy,Q457302,173.0,1991-09-10,34.0,Italy,forward,73.0
+890,Jefferson Andrés Lerma Solís,5678,Colombia,Q16300824,179.0,1994-10-25,31.0,Colombia,midfielder,70.0
+891,Saša Lukić,6687,Serbia,Q19594166,183.0,1996-08-13,29.0,Serbia,midfielder,77.0
+892,Iván López Álvarez,6780,Spain,Q16236221,174.0,1994-06-29,31.0,Spain,forward,74.0
+893,Raúl Fernández-Cavada Mateos,6781,Spain,,,,,,,
+894,Samuel García Sánchez,6783,Spain,Q14568381,179.0,1990-07-13,35.0,Spain,wing half,73.0
+895,Shaquell Moore,6806,United States of America,Q20902179,180.0,1996-11-02,29.0,United States,defender,70.0
+896,Moctar Sidi El Hacen El Ide,7183,Mauritania,Q18210261,181.0,1997-12-31,28.0,Mauritania,midfielder,79.0
+897,Ryad Boudebouz,6661,Algeria,Q314395,177.0,1990-02-19,36.0,France,midfielder,59.0
+898,Rubén Castro Martín,6832,Spain,,,,,,,
+899,Oriol Busquets Mas,13597,Spain,Q37727287,185.0,1999-01-20,27.0,Spain,midfielder,
+900,Aymeric Laporte,4353,Spain,Q3855340,191.0,1994-05-27,31.0,Spain,centre-back,85.0
+901,Eneko Bóveda Altube,6386,Spain,,,,,,,
+902,José Manuel Jurado Marín,6870,Spain,Q365934,176.0,1986-06-29,39.0,Spain,midfielder,72.0
+903,Nordin Amrabat,3302,Morocco,Q374523,169.0,1987-03-31,39.0,Morocco,defensive midfielder,87.0
+904,Gabriel Appelt Pires,6597,Brazil,Q10545642,186.0,1993-09-18,32.0,Brazil,midfielder,80.0
+905,Claudio Beauvue,6600,Guadeloupe,Q2978523,174.0,1988-04-16,38.0,France,wing half,64.0
+906,Julián Omar Ramos Suárez,6607,Spain,,,,,,,
+907,Ezequiel Muñoz,6894,Argentina,,,,,,,
+908,Nereo Champagne,8642,Argentina,Q2059054,188.0,1985-01-20,41.0,Argentina,goalkeeper,88.0
+909,Carlos Alberto Sánchez Moreno,5685,Colombia,Q116602,182.0,1986-02-06,40.0,France,midfielder,80.0
+910,Pedro Pablo Hernández,6801,Chile,,,,,,,
+911,Andreu Fontàs Prat,6890,Spain,Q218982,186.0,1989-11-14,36.0,Spain,centre-back,89.0
+912,Miguel Arturo Layún Prado,5556,Mexico,Q2358664,178.0,1988-06-25,37.0,Mexico,full-back,69.0
+913,Steven N''Kemboanza Mike Christopher Nzonzi,5737,France,,,,,,,
+914,Guido Hernán Pizarro,6715,Argentina,,,,,,,
+915,Carlos Joaquín Correa,6822,Argentina,,,,,,,
+916,Sergio Rico González,6823,Spain,Q6125605,194.0,1993-09-01,32.0,Spain,goalkeeper,90.0
+917,Ignacio Gil de Pareja Vicent,6586,Spain,Q28967882,170.0,1995-09-09,30.0,Spain,midfielder,69.0
+918,Fayçal Fajr,5724,Morocco,Q3067712,178.0,1988-08-01,37.0,France,midfielder,72.0
+919,Loïc Rémy,6623,France,Q114859,185.0,1987-01-02,39.0,France,forward,75.0
+920,Vicente Guaita Panadero,6625,Spain,Q19365,191.0,1987-01-10,39.0,Spain,goalkeeper,80.0
+921,Sergio Mora Sánchez,6858,Spain,,,,,,,
+922,Juan Torres Ruiz,6861,Spain,Q941072,187.0,1989-11-26,36.0,Spain,defender,72.0
+923,Damián Emiliano Martínez,6909,Argentina,,,,,,,
+924,Antonio Rukavina,5588,Serbia,Q321567,177.0,1984-01-26,42.0,Serbia,defender,73.0
+925,Roberto Soriano,6759,Italy,Q507614,182.0,1991-02-08,35.0,Italy,midfielder,76.0
+926,Ramiro Guerra Pereyra,6854,Uruguay,Q20994113,183.0,1997-03-21,29.0,Uruguay,midfielder,71.0
+927,Mariano Damián Barbosa,6860,Argentina,Q937234,187.0,1984-07-27,41.0,Argentina,goalkeeper,77.0
+928,Cédric Bakambu,6862,"Congo, (Kinshasa)",Q932982,183.0,1991-04-11,35.0,France,forward,74.0
+929,Víctor Moya Martínez,6889,Spain,Q39454626,182.0,1997-06-10,28.0,Spain,midfielder,
+930,Paulo Henrique Chagas de Lima,6714,Brazil,Q313835,184.0,1989-10-12,36.0,Brazil,midfielder,73.0
+931,Sébastien Corchia,6716,France,Q969529,174.0,1990-11-01,35.0,Italy,full-back,65.0
+932,Johannes Geis,6717,Germany,Q2107476,181.0,1993-08-17,32.0,Germany,midfielder,81.0
+933,Lionel Jules Carole,6824,France,Q3241831,182.0,1991-04-12,35.0,France,full-back,77.0
+934,Paul Baysse,4443,France,Q44739,184.0,1988-05-18,37.0,France,defender,82.0
+935,Adrián González Morales,6557,Spain,,,,,,,
+936,Alejandro Miguel Mula Sanchez,6558,Spain,,,,,,,
+937,Juan Carlos Pérez López,6559,Spain,Q1961360,174.0,1945-02-14,81.0,Spain,midfielder,
+938,Luis Hernández Rodríguez,6561,Spain,,,,,,,
+939,Juan Pablo Añor Acosta,6563,Venezuela (Bolivarian Republic),Q3792950,171.0,1994-01-24,32.0,Spain,midfielder,
+940,Emanuel Cecchini,6575,Argentina,Q28004743,182.0,1996-12-24,29.0,Argentina,midfielder,76.0
+941,Gonzalo Castro Irizábal,6740,Uruguay,,,,,,,
+942,Esteban Rolón,6843,Argentina,Q37749749,178.0,1995-03-25,31.0,Argentina,midfielder,74.0
+943,Adalberto Peñaranda Maestre,6847,Venezuela (Bolivarian Republic),Q20656034,183.0,1997-05-31,28.0,Venezuela,forward,78.0
+944,Alejandro Robles García,8789,Spain,Q42331706,,1999-01-28,27.0,Spain,defender,
+945,Cenk Gönen,10817,Turkey,Q1053402,190.0,1988-02-21,38.0,Turkey,goalkeeper,
+946,Marlos Moreno Durán,6896,Colombia,Q20994192,172.0,1996-09-20,29.0,Colombia,wing half,66.0
+947,Michael Olunga Ogada,6897,Kenya,Q21067115,190.0,1994-03-26,32.0,Kenya,forward,84.0
+948,Olarenwaju Ayoba Kayode,18616,Nigeria,,,,,,,
+949,Fernando José Torres Sanz,6382,Spain,Q42731,186.0,1984-03-20,42.0,Spain,forward,78.0
+950,Gabriel Fernández Arenas,6384,Spain,,,,,,,
+951,Carles Planas Antolínez,7577,Spain,,,,,,,
+952,Osvaldo Nicolás Fabián Gaitán,19669,Argentina,,,,,,,
+953,Alexis Ruano Delgado,6614,Spain,Q312942,183.0,1985-08-04,40.0,Spain,defender,75.0
+954,Álvaro Medrán Just,6736,Spain,,,,,,,
+955,Ermedin Demirović,6874,Bosnia and Herzegovina,,,,,,,
+956,Adrián Diéguez Grande,7062,Spain,,,,,,,
+957,Markel Bergara Larrañaga,6633,Spain,,,,,,,
+958,Álvaro José Jiménez Guerrero,6864,Spain,Q24258611,176.0,1995-05-19,30.0,Spain,wing half,62.0
+959,Francisco José Molinero Calderón,6865,Spain,,,,,,,
+960,Alberto De La Bella Madureño,6674,Spain,,,,,,,
+961,Xabier Prieto Argarate,6690,Spain,Q358407,185.0,1983-08-29,42.0,Spain,midfielder,77.0
+962,Mauro Javier Dos Santos,6837,Argentina,,,,,,,
+963,Alexander Szymanowski,6875,Argentina,Q4720191,175.0,1988-10-13,37.0,Argentina,wing half,63.0
+964,Diego Rico Salguero,6895,Spain,Q15696580,181.0,1993-02-23,33.0,Spain,defender,75.0
+965,Óscar David Romero Villamayor,6628,Paraguay,Q15960512,176.0,1992-07-04,33.0,Paraguay,wing half,74.0
+966,Enzo Alan Zidane Fernández,6726,France,,,,,,,
+967,Christian Robert Santos Kwasniewski,6881,Venezuela (Bolivarian Republic),Q1081678,184.0,1988-03-24,38.0,Germany,midfielder,70.0
+968,Zakaria Bakkali,6725,Belgium,Q14375620,164.0,1996-01-26,30.0,Belgium,wing half,
+969,Carles Gil de Pareja Vicent,6800,Spain,Q5041170,170.0,1992-11-22,33.0,Spain,wing half,69.0
+970,Przemysław Tytoń,9082,Poland,Q299525,195.0,1987-01-04,39.0,Poland,goalkeeper,80.0
+971,Imanol Agirretxe Arruti,6677,Spain,Q941863,187.0,1987-02-24,39.0,Spain,forward,77.0
+972,Antonio Miguel Ramírez Martínez,8170,Spain,,,,,,,
+973,Jonathan Castro Otto,6802,Spain,Q3180002,175.0,1994-03-03,32.0,Spain,full-back,70.0
+974,Adil Rami,3253,France,Q1909,190.0,1985-12-27,40.0,France,centre-back,88.0
+975,Salvatore Sirigu,7469,Italy,Q299779,192.0,1987-01-12,39.0,Italy,goalkeeper,80.0
+976,Claudio Matías Kranevitter,18904,Argentina,Q3559484,179.0,1993-05-21,32.0,Argentina,midfielder,74.0
+977,Samir Nasri,20253,France,Q1920,175.0,1987-06-26,38.0,France,midfielder,75.0
+978,Mariano Ferreira Filho,21210,Brazil,Q31766,177.0,1986-06-23,39.0,Brazil,full-back,69.0
+979,Hiroshi Kiyotake,38524,Japan,Q733494,172.0,1989-11-12,36.0,Japan,midfielder,63.0
+980,Marlon Santos da Silva Barbosa,3362,Brazil,Q17318574,185.0,1995-09-07,30.0,Brazil,defender,81.0
+981,Neymar da Silva Santos Junior,4320,Brazil,Q142794,175.0,1992-02-05,34.0,Brazil,wing half,69.0
+982,Francisco José Perdomo Borges,27251,Spain,Q20641232,185.0,1994-02-18,32.0,Spain,defender,71.0
+983,Emmanuel Rivière,3165,Martinique,Q60596,182.0,1990-03-03,36.0,France,forward,76.0
+984,Juan Rafael Fuentes Hernández,4741,Spain,Q3810839,176.0,1990-01-05,36.0,Spain,defender,72.0
+985,Goran Čaušić,15955,Serbia,Q2867390,180.0,1992-05-05,33.0,Serbia,midfielder,74.0
+986,Iván Márquez Álvarez,18160,Spain,,,,,,,
+987,Miguel Ángel De las Cuevas Barberá,23991,Spain,,,,,,,
+988,Miguel Flaño Bezunartea,24313,Spain,Q459738,177.0,1984-08-19,41.0,Spain,centre-back,72.0
+989,Cecilio Nauzet Pérez González,24872,Spain,Q4350856,190.0,1985-03-01,41.0,Spain,goalkeeper,82.0
+990,Mario Fernández Cuesta,26786,Spain,Q3848573,184.0,1988-04-30,37.0,Spain,goalkeeper,74.0
+991,Oriol Riera Magem,27243,Spain,Q2105658,184.0,1986-07-03,39.0,Spain,forward,
+992,Cayetano Bartolomé Bonnín Vásquez,27566,Dominican Republic,Q10556614,186.0,1990-06-30,35.0,Spain,defender,76.0
+993,Danilo Luiz da Silva,3063,Brazil,Q437329,184.0,1991-07-15,34.0,Brazil,defender,77.0
+994,James David Rodríguez Rubio,5695,Colombia,Q368441,180.0,1991-07-12,34.0,Spain,forward,77.0
+995,Jérémy Mathieu,10609,France,Q312892,189.0,1983-10-29,42.0,France,centre-back,83.0
+996,Martín Maximiliano Mantovani,6833,Argentina,Q18207374,185.0,1984-07-07,41.0,Italy,defender,78.0
+997,Alberto Brignoli,7804,Italy,Q16524787,187.0,1991-08-19,34.0,Italy,goalkeeper,74.0
+998,Alberto Martín Romo García Adámez,24704,Spain,,,,,,,
+999,Mamadou Koné,26553,Côte d'Ivoire,,,,,,,
+1000,Carl Medjani,27656,Algeria,Q368416,183.0,1985-05-15,40.0,France,defender,77.0
+1001,Francisco Femenía Far,3269,Spain,Q2269948,174.0,1991-02-02,35.0,Spain,full-back,61.0
+1002,Cristian Omar Espinoza,23747,Argentina,Q17628109,172.0,1995-04-03,31.0,Argentina,midfielder,70.0
+1003,Gaizka Toquero Pinedo,26619,Spain,Q439128,182.0,1984-08-09,41.0,Spain,forward,79.0
+1004,Adrián Ortolá Vañó,30594,Spain,Q2825328,185.0,1993-08-20,32.0,Spain,goalkeeper,
+1005,André Campos Moreira,23317,Portugal,Q18746588,192.0,1995-12-02,30.0,Portugal,goalkeeper,85.0
+1006,Jonas Martin,2950,France,Q2412107,182.0,1990-04-09,36.0,France,defender,70.0
+1007,Charly Musonda Junior,3601,Belgium,,,,,,,
+1008,Alexander Alegría Moreno,6883,Spain,,,,,,,
+1009,Germán Alejandro Pezzella,7161,Argentina,,,,,,,
+1010,Felipe Alejandro Gutiérrez Leiva,12789,Chile,Q195292,170.0,1990-10-08,35.0,Chile,midfielder,68.0
+1011,José Carlos Ramírez Suárez,24253,Spain,Q27929658,185.0,1996-05-10,29.0,Spain,defender,74.0
+1012,Álvaro Cejudo Carmona,26723,Spain,Q2707128,180.0,1984-01-29,42.0,Spain,midfielder,72.0
+1013,Petros Matheus dos Santos Araújo,27346,Brazil,,,,,,,
+1014,Sergi Samper Montaña,21229,Spain,Q14623217,182.0,1995-01-20,31.0,Spain,midfielder,71.0
+1015,Douglas Pereira dos Santos,27318,Brazil,Q1988686,171.0,1990-08-06,35.0,Brazil,full-back,60.0
+1016,Roman Zozulya,11001,Ukraine,Q926533,176.0,1989-11-17,36.0,Soviet Union,forward,62.0
+1017,Ryan Donk,16000,Suriname,Q687372,192.0,1986-03-30,40.0,Kingdom of the Netherlands,centre-back,80.0
+1018,Alejandro Martínez Sánchez,25022,Spain,,,,,,,
+1019,Jerónimo Figueroa Cabrera,6934,Spain,,,,,,,
+1020,Javier Varas Herrera,26753,Spain,Q51514,182.0,1982-09-10,43.0,Spain,goalkeeper,73.0
+1021,Hélder Filipe Oliveira Lopes,27565,Portugal,,,,,,,
+1022,Mateo Ezequiel García,27567,Argentina,,,,,,,
+1023,Alfred John Momar N''Diaye,5671,Senegal,,,,,,,
+1024,Jonathan dos Santos Ramírez,6357,Mexico,Q17492,172.0,1990-04-26,35.0,Spain,midfielder,74.0
+1025,Mateo Pablo Musacchio,7034,Argentina,Q1153411,182.0,1990-08-26,35.0,Argentina,full-back,75.0
+1026,Alexandre Rodrigues da Silva,25351,Brazil,Q138075,180.0,1989-09-02,36.0,Brazil,forward,77.0
+1027,Rafael Santos Borré Amaury,28266,Colombia,,,,,,,
+1028,Fausto Antonio Tienza Nuñez,23821,Spain,,,,,,,
+1029,Francisco Mérida Pérez,23931,Spain,Q313786,175.0,1990-03-04,36.0,Spain,wing half,70.0
+1030,Miguel Olavide Montes,23946,Spain,Q18637826,178.0,1996-03-05,30.0,Spain,inside forward,70.0
+1031,Jaime Romero Gómez,23995,Spain,Q2735245,176.0,1990-07-31,35.0,Spain,wing half,74.0
+1032,Aitor Buñuel Redrado,27563,Spain,Q19956593,173.0,1998-02-10,28.0,Spain,full-back,65.0
+1033,Jhon Stiven Mondragón Dosman,27564,Colombia,,,,,,,
+1034,Aymen Abdennour,4406,Tunisia,Q60597,188.0,1989-08-06,36.0,Tunisia,defender,79.0
+1035,Enzo Nicolás Pérez,5741,Argentina,Q926353,175.0,1986-02-22,40.0,Argentina,goalkeeper,65.0
+1036,João Pedro Cavaco Cancelo,7005,Portugal,,,,,,,
+1037,Diego Alves Carreira,25144,Brazil,Q313082,188.0,1985-06-24,40.0,Italy,goalkeeper,83.0
+1038,Guilherme Magdalena Siqueira,26780,Brazil,Q375703,181.0,1986-04-28,39.0,Brazil,full-back,76.0
+1039,Luís Carlos Almeida da Cunha,8281,Portugal,Q482947,175.0,1986-11-17,39.0,Portugal,wing half,66.0
+1040,Gaël Kakuta,3130,"Congo, (Kinshasa)",Q299703,173.0,1991-06-21,34.0,France,wing half,66.0
+1041,Bruno Alexandre Vilela Gama,6868,Portugal,Q682127,175.0,1987-11-15,38.0,Portugal,wing half,64.0
+1042,Alejandro Arribas Garrido,6869,Spain,Q2699666,182.0,1989-05-01,36.0,Spain,defender,75.0
+1043,Ola John,10333,Netherlands,Q552097,180.0,1992-05-19,33.0,Kingdom of the Netherlands,wing half,78.0
+1044,Laureano Sanabria Ruiz,23800,Spain,Q1068653,168.0,1985-03-22,41.0,Spain,defender,66.0
+1045,Alejandro Bergantiños García,23806,Spain,Q2545958,177.0,1985-06-07,40.0,Spain,midfielder,71.0
+1046,Germán Darío Lux,27305,Argentina,,,,,,,
+1047,Aleksandar Katai,6903,Serbia,Q6552144,182.0,1991-02-06,35.0,Serbia,wing half,
+1048,Nenad Krstičić,15959,Serbia,,,,,,,
+1049,Marko Livaja,22041,Croatia,Q591443,182.0,1993-08-26,32.0,Croatia,forward,81.0
+1050,Francisco Manuel Rico Castro,25707,Spain,Q2486129,178.0,1987-08-03,38.0,Spain,midfielder,71.0
+1051,Markel Areitio Cedrún,40802,Spain,,,,,,,
+1052,Felipe Salvador Caicedo Corozo,7781,Ecuador,Q351473,183.0,1988-09-05,37.0,Spain,forward,84.0
+1053,Diego Antonio Reyes Rosales,16539,Mexico,Q672388,193.0,1992-09-19,33.0,Mexico,defender,70.0
+1054,José Antonio Reyes Calderón,23816,Spain,Q276399,178.0,1983-09-01,42.0,Spain,wing half,75.0
+1055,Álvaro Vázquez García,24035,Spain,,,,,,,
+1056,Stevan Jovetić,3434,Montenegro,,,,,,,
+1057,Nicolás Martín Pareja,7909,Argentina,Q357766,181.0,1984-01-19,42.0,Italy,centre-back,70.0
+1058,Borja López Menéndez,30476,Spain,Q5732251,192.0,1994-02-02,32.0,Spain,defender,84.0
+1059,Kléper Laveran Lima Ferreira,20016,Portugal,,,,,,,
+1060,Federico Ricca Rostagnol,6844,Uruguay,Q15551265,176.0,1994-12-01,31.0,Italy,defender,71.0
+1061,Ignacio Camacho Barnola,8234,Spain,Q47487,182.0,1990-05-04,35.0,Spain,midfielder,75.0
+1062,Denys Boyko,16508,Ukraine,Q2425800,194.0,1988-01-29,38.0,Ukraine,goalkeeper,82.0
+1063,Martín Gastón Demichelis,19288,Argentina,Q150947,184.0,1980-12-20,45.0,Italy,centre-back,80.0
+1064,Mikel Villanueva Álvarez,23940,Venezuela (Bolivarian Republic),,,,,,,
+1065,Sérgio Paulo Barbosa Valente,25859,Portugal,Q329533,175.0,1980-06-27,45.0,Portugal,wing half,71.0
+1066,Idriss Carlos Kameni,26103,Cameroon,Q213106,186.0,1984-02-18,42.0,Cameroon,goalkeeper,86.0
+1067,Alejandro Carbonell Vallés,24194,Spain,,,,,,,
+1068,Carlos Alberto Vela Garrido,5560,Mexico,Q47950,177.0,1989-03-01,37.0,Mexico,forward,73.0
+1069,Giuseppe Rossi,7141,Italy,Q221216,174.0,1987-02-01,39.0,United States,forward,72.0
+1070,Théo Bongonda Mbul''Ofeko Batombo,23785,"Congo, (Kinshasa)",,,,,,,
+1071,Marcelo Alfonso Díaz Rojas,27341,Chile,,,,,,,
+1072,Carlos Martínez Díez,8724,Spain,Q2528896,188.0,1986-04-09,40.0,Spain,centre-back,78.0
+1073,Mikel González de Martín Martínez,16622,Spain,,,,,,,
+1074,David Concha Salas,40778,Spain,Q18043695,172.0,1996-11-20,29.0,Spain,wing half,61.0
+1075,Lacina Traoré,3553,Côte d'Ivoire,Q45134,203.0,1990-08-20,35.0,Ivory Coast,forward,87.0
+1076,Jean-Sylvain Claude Babin,4498,Martinique,Q514145,182.0,1986-10-14,39.0,France,defender,84.0
+1077,Víctor Rodríguez Romero,15893,Spain,,,,,,,
+1078,Ignacio Cases Mora,18925,Spain,Q2634422,174.0,1987-12-22,38.0,Spain,midfielder,64.0
+1079,Diego Mariño Villar,23843,Spain,Q1220527,185.0,1990-05-09,35.0,Spain,goalkeeper,75.0
+1080,Xavier Torres Buigues,24162,Spain,Q1147102,184.0,1986-11-21,39.0,Spain,midfielder,82.0
+1081,Carlos Castro García,24173,Spain,Q18203117,176.0,1995-06-01,30.0,Spain,forward,68.0
+1082,Ismael López Blanco,24263,Spain,,,,,,,
+1083,Manuel Castellano Castro,24508,Spain,Q2003954,180.0,1989-03-17,37.0,Spain,defender,
+1084,Juan Rodríguez Martínez,25591,Spain,Q27861847,,1995-05-08,30.0,Spain,defender,
+1085,Alberto Lora Ramos,26633,Spain,Q2411059,168.0,1987-03-25,39.0,Spain,defender,67.0
+1086,Elderson Uwa Echiejile,27558,Nigeria,Q370568,184.0,1988-01-20,38.0,Nigeria,defender,76.0
+1087,Ryan Guno Babel,16441,Netherlands,Q184218,185.0,1986-12-19,39.0,Kingdom of the Netherlands,wing half,85.0
+1088,Alberto Bueno Calvo,6879,Spain,Q27691,178.0,1988-03-20,38.0,Spain,wing half,81.0
+1089,Erik Morán Arribas,10753,Spain,,,,,,,
+1090,Luciano da Rocha Neves,25566,Brazil,Q15966749,178.0,1965-10-13,60.0,Brazil,forward,69.0
+1091,Gabriel Moisés Antunes da Silva,3416,Brazil,Q2017085,179.0,1991-05-13,34.0,Brazil,full-back,75.0
+1092,Omer Atzili,4551,Israel,Q19366883,180.0,1993-07-27,32.0,Romania,midfielder,72.0
+1093,Jeremie Boga,4909,Côte d'Ivoire,Q20925240,172.0,1997-01-03,29.0,France,midfielder,74.0
+1094,Francisco Guillermo Ochoa Magaña,5577,Mexico,Q215522,183.0,1985-07-13,40.0,Mexico,goalkeeper,78.0
+1095,Mehdi Carcela-González,5725,Morocco,,,,,,,
+1096,Jon Miquel Toral Harper,10488,Spain,Q9012558,184.0,1995-02-05,31.0,Spain,midfielder,80.0
+1097,Victorien Angban,12162,Côte d'Ivoire,Q20711307,180.0,1996-09-29,29.0,Ivory Coast,midfielder,
+1098,Matthieu Saunier,13730,France,Q60627,183.0,1990-02-07,36.0,France,defender,78.0
+1099,Uche Henry Agbo,16338,Nigeria,Q17627759,185.0,1995-12-04,30.0,Nigeria,defensive midfielder,
+1100,David Barral Torres,26248,Spain,Q737044,183.0,1983-05-10,42.0,Spain,forward,78.0
+1101,Juan Isaac Cuenca López,26776,Spain,,,,,,,
+1102,Artem Kravets,27639,Ukraine,Q512820,189.0,1989-06-03,36.0,Ukraine,forward,79.0
+1103,Iván López Mendoza,8801,Spain,Q16235582,175.0,1993-08-23,32.0,Spain,defender,69.0
+1104,Víctor Casadesús Castaño,23791,Spain,Q2305996,180.0,1985-02-28,41.0,Spain,forward,77.0
+1105,José Antonio García Rabasco,24149,Spain,Q2840907,177.0,1986-09-29,39.0,Spain,midfielder,68.0
+1106,Ángel Trujillo Canorea,25824,Spain,,,,,,,
+1107,Juan Francisco García García,26023,Spain,Q372879,183.0,1976-07-15,49.0,Spain,full-back,78.0
+1108,Nikolaos Karabelas,27154,Greece,Q2814369,180.0,1984-12-20,41.0,Greece,defender,76.0
+1109,Nabil Ghilas,27250,Algeria,Q8314759,183.0,1990-04-20,36.0,France,forward,85.0
+1110,Simone Verdi,7170,Italy,Q4202251,171.0,1992-07-12,33.0,Italy,midfielder,61.0
+1111,Eddy Silvestre Pascual İsrafilov,23799,Azerbaijan,,,,,,,
+1112,Saúl Berjón Pérez,24070,Spain,Q2914412,178.0,1986-05-24,39.0,Spain,forward,84.0
+1113,Borja Ekiza Imaz,26736,Spain,Q2529019,182.0,1988-03-06,38.0,Spain,centre-back,73.0
+1114,Aleksandar Pantić,27239,Serbia,Q3609469,180.0,1978-10-01,47.0,Serbia,defender,
+1115,Xabier Iruretagoiena Aranzamendi,27462,Spain,Q6169054,180.0,1986-03-21,40.0,Spain,goalkeeper,74.0
+1116,Mikel Arruabarrena Aranbide,197493,Spain,Q2606572,188.0,1983-02-09,43.0,Spain,centre-forward,79.0
+1117,Fernando Llorente Torres,3486,Spain,Q187891,195.0,1985-02-26,41.0,Spain,centre-forward,87.0
+1118,Grzegorz Krychowiak,3637,Poland,Q1354322,186.0,1990-01-29,36.0,Poland,midfielder,85.0
+1119,Ciro Immobile,7788,Italy,Q458101,182.0,1990-02-20,36.0,Italy,forward,85.0
+1120,Marco Andreolli,7948,Italy,Q382168,187.0,1986-06-10,39.0,Italy,centre-back,80.0
+1121,Timothée Kolodziejczak,10476,France,Q177595,185.0,1991-10-01,34.0,Poland,full-back,79.0
+1122,Juan Muñoz Muñoz,23802,Spain,Q18637771,198.0,1995-11-12,30.0,Spain,forward,75.0
+1123,Benoît Trémoulinas,27483,France,Q31907,172.0,1985-12-28,40.0,France,full-back,64.0
+1124,Sergio Ezequiel Araújo,8167,Argentina,,,,,,,
+1125,Juan Carlos Valerón Santana,15602,Spain,,,,,,,
+1126,Juan Emmanuel Culio,27521,Argentina,Q466161,176.0,1983-08-30,42.0,Italy,midfielder,
+1127,Antolín Alcáraz Viveros,27522,Paraguay,,,,,,,
+1128,Luis Alberto Romero Alconchel,7782,Spain,Q248228,182.0,1992-09-28,33.0,Spain,attacking midfielder,73.0
+1129,Stipe Pletikosa,20086,Croatia,Q208706,193.0,1979-01-08,47.0,Croatia,goalkeeper,83.0
+1130,Rubén Gracia Calmache,25921,Spain,,,,,,,
+1131,Jonás Manuel Gutiérrez,25997,Argentina,,,,,,,
+1132,Alberto Lopo García,26107,Spain,,,,,,,
+1133,Manuel Fernández Muñíz,27457,Spain,,,,,,,
+1134,Mehdi Lacen,6745,Algeria,Q431562,175.0,1984-03-15,42.0,France,defensive midfielder,
+1135,Wanderson Maciel Sousa Campos,16426,Brazil,Q17327541,175.0,1994-10-07,31.0,Belgium,wing half,71.0
+1136,Stefan Šćepović,23416,Serbia,Q1728973,186.0,1990-01-10,36.0,Serbia,forward,79.0
+1137,Juan Antonio Rodríguez Villamuela,25881,Spain,Q439805,185.0,1982-04-01,44.0,Spain,midfielder,78.0
+1138,Abdoul Karim Yoda,27092,France,Q2821352,182.0,1988-10-25,37.0,France,midfielder,73.0
+1139,Bernard Mensah,27401,Ghana,Q16236347,,1994-12-29,31.0,United Kingdom,forward,
+1140,Santiago Vergini,27403,Argentina,Q3949436,191.0,1988-08-03,37.0,Argentina,defender,83.0
+1141,Balázs Megyeri,31478,Hungary,,,,,,,
+1142,Miguel Ángel Muñoz Alonso,220761,Spain,,,,,,,
+1143,Christian Atsu Twasam,3084,Ghana,Q919182,165.0,1992-01-10,34.0,Ghana,midfielder,68.0
+1144,Miguel Torres Gómez,6878,Spain,,,,,,,
+1145,Ricardo Jorge Luz Horta,10868,Portugal,Q14258335,173.0,1994-09-15,31.0,Portugal,wing half,
+1146,Egor Filipenko,16723,Belarus,Q2545997,194.0,1988-04-10,38.0,Russia,defender,85.0
+1147,Ikechukwu Uche,23930,Nigeria,Q376183,172.0,1984-01-05,42.0,Spain,forward,70.0
+1148,Arthur Etienne Boka,27335,Côte d'Ivoire,Q312508,166.0,1983-04-02,43.0,Ivory Coast,full-back,67.0
+1149,Joan Verdú Fernández,26211,Spain,Q359038,178.0,1983-05-05,42.0,Spain,midfielder,72.0
+1150,Simão Mate,27122,Mozambique,Q703613,178.0,1988-06-23,37.0,Mozambique,midfielder,78.0
+1151,Mauricio Andrés Cuero Castillo,27463,Colombia,Q6006915,176.0,1993-01-28,33.0,Colombia,wing half,77.0
+1152,Lucas Alfonso Orbán Alegre,27480,Argentina,,,,,,,
+1153,Enzo Pablo Roco Roco,16456,Chile,Q948512,188.0,1992-08-16,33.0,Chile,centre-back,81.0
+1154,Mamadou Sylla Diallo,23924,Senegal,Q19968695,184.0,1994-03-20,32.0,Spain,forward,84.0
+1155,Roberto Antonio Correa Silva,23974,Spain,Q20641393,180.0,1992-09-20,33.0,Spain,defender,77.0
+1156,Francisco Montañés Claverías,24578,Spain,Q27748,172.0,1986-10-08,39.0,Spain,midfielder,73.0
+1157,Víctor Guillermo Álvarez Delgado,27241,Spain,Q3564470,178.0,1993-03-14,33.0,Spain,defender,69.0
+1158,Giedrius Arlauskis,31904,Lithuania,Q983975,184.0,1987-12-01,38.0,Lithuania,goalkeeper,
+1159,Jon Ansotegi Gorostola,26764,Spain,,,,,,,
+1160,Weligton Róbson Pena de Oliveira,26669,Brazil,,,,,,,
+1161,Javier Garrido Behovide,26448,Spain,,,,,,,
+1162,Eric Bertrand Bailly,3324,Côte d'Ivoire,Q18637352,187.0,1994-04-12,32.0,Ivory Coast,centre-back,77.0
+1163,Jorge Meré Pérez,8818,Spain,Q19796920,182.0,1997-04-17,29.0,Spain,defender,78.0
+1164,Pablo Pérez Rodríguez,23838,Spain,,,,,,,
+1165,Carlos Carmona Bonet,23848,Spain,Q2388119,177.0,1987-07-05,38.0,Spain,wing half,
+1166,Roberto Canella Suárez,24686,Spain,,,,,,,
+1167,Alejandro Barrera García,25057,Spain,Q6172643,190.0,1991-05-12,34.0,Spain,midfielder,
+1168,Igor Lichnovsky Osorio,26256,Chile,Q2056439,187.0,1994-03-07,32.0,Chile,defender,78.0
+1169,Rachid Aït-Atmane,27526,Algeria,Q16144725,190.0,1993-02-04,33.0,France,midfielder,76.0
+1170,Pablo Hernández Domínguez,4711,Spain,Q277533,173.0,1985-04-11,41.0,Spain,wing half,64.0
+1171,Răzvan Dincă Raț,10727,Romania,,,,,,,
+1172,Javier Guerra Rodríguez,11542,Spain,,,,,,,
+1173,José Ángel Crespo Rincón,18404,Spain,Q513874,183.0,1987-02-09,39.0,Spain,defender,78.0
+1174,Juan Carlos Martín Corral,24255,Spain,,,,,,,
+1175,Jonhatan Montiel Caballero,24782,Spain,,,,,,,
+1176,Nicolás Ladislao Fedor Flores,26685,Venezuela (Bolivarian Republic),,,,,,,
+1177,Alberto Mateus Contreiras Gonçalves,26690,Angola,,,,,,,
+1178,Roberto Trashorras Gayoso,26848,Spain,Q18753,177.0,1981-02-28,45.0,Spain,midfielder,
+1179,Antonio Amaya Carazo,27144,Spain,Q2705705,192.0,1983-05-31,42.0,Spain,defender,81.0
+1180,David Navarro Pedrós,26012,Spain,,,,,,,
+1181,Jordi Xumetra Feliu,27123,Spain,Q4889446,172.0,1985-10-24,40.0,Spain,wing half,70.0
+1182,Pedro López Galisteo,8567,Spain,Q16864142,,1995-01-21,31.0,Spain,goalkeeper,
+1183,Francisco Miguel Varela Martín,24132,Spain,Q16236138,174.0,1994-10-26,31.0,Spain,defender,68.0
+1184,Juan Manuel Vargas Risco,27347,Peru,Q311391,180.0,1983-10-05,42.0,Peru,full-back,77.0
+1185,Ricky van Wolfswinkel,27348,Netherlands,Q251966,185.0,1989-01-27,37.0,Kingdom of the Netherlands,forward,70.0
+1186,Heiko Westermann,27349,Germany,Q115341,190.0,1983-08-14,42.0,Germany,full-back,80.0
+1187,Emiliano Buendía,11813,Argentina,Q18637343,172.0,1996-12-25,29.0,Argentina,attacking midfielder,
+1188,Álvaro Daniel Pereira Barragán,27402,Uruguay,,,,,,,
+1189,Manuel Pablo García Díaz,26209,Spain,,,,,,,
+1190,Jonathan Javier Rodríguez Portillo,26288,Uruguay,Q5934050,178.0,1993-07-06,32.0,Uruguay,forward,78.0
+1191,Diego González Polanco,6749,Spain,Q22004593,184.0,1995-01-28,31.0,Spain,defender,77.0
+1192,Yevhen Konoplyanka,8523,Ukraine,Q284078,176.0,1989-09-29,36.0,Ukraine,attacking midfielder,69.0
+1193,David Carmona Sierra,24711,Spain,Q24083866,180.0,1997-01-11,29.0,Spain,defender,72.0
+1194,Francisco José Sánchez Rodríguez,30454,Spain,Q22003827,178.0,1996-01-03,30.0,Spain,midfielder,
+1195,Gorka Elustondo Urkola,12191,Spain,Q562129,184.0,1987-03-18,39.0,Spain,centre-back,73.0
+1196,Borja Viguera Manzanares,23833,Spain,Q3296951,184.0,1987-03-26,39.0,Spain,forward,80.0
+1197,Carlos Gurpegi Nausia,26087,Spain,Q358684,181.0,1980-08-19,45.0,Spain,centre-back,75.0
+1198,Dejan Dražić,27340,Serbia,Q16236732,175.0,1995-09-26,30.0,Serbia,wing half,69.0
+1199,Tiago Cardoso Mendes,20669,Portugal,Q210944,183.0,1981-05-02,44.0,Portugal,midfielder,71.0
+1200,Armindo Tué Na Bangna,8522,Portugal,Q1185419,173.0,1994-10-24,31.0,Portugal,winger,70.0
+1201,Jonathas Cristian de Jesus,8584,Brazil,Q2689047,190.0,1989-03-06,37.0,Brazil,forward,85.0
+1202,Mathew Ryan,3240,Australia,Q1587689,184.0,1992-04-08,34.0,Australia,goalkeeper,73.0
+1203,Danilo Barbosa da Silva,10037,Brazil,Q18124343,182.0,1996-02-28,30.0,Brazil,midfielder,73.0
+1204,Carlos Carbonell Gil,27481,Spain,Q18920270,173.0,1995-05-12,30.0,Spain,midfielder,
+1205,Aderllan Leandro de Jesus Santos,27482,Brazil,Q15830921,193.0,1989-04-09,37.0,Brazil,defender,83.0
+1206,Andrés Pascual Santoja,31469,Spain,Q24084664,180.0,1996-11-18,29.0,Spain,wing half,
+1207,Jesús Gámez Duarte,4788,Spain,Q720908,182.0,1985-04-10,41.0,Spain,defender,77.0
+1208,Óscar Francisco García Quintela,30433,Spain,Q23771491,171.0,1996-01-17,30.0,Spain,wing half,
+1209,Izet Hajrović,9403,Bosnia and Herzegovina,Q679318,177.0,1991-08-04,34.0,Switzerland,wing half,71.0
+1210,Josip Radošević,24453,Croatia,Q82196,180.0,1994-04-03,32.0,Croatia,midfielder,74.0
+1211,Iñigo Barrenetxea García,197562,Spain,Q21407198,177.0,1994-01-01,32.0,Spain,central midfielder,
+1212,Foued Kadir,186264,Algeria,Q116997,179.0,1983-12-05,42.0,France,midfielder,73.0
+1213,Ognjen Vranješ,16332,Bosnia and Herzegovina,,,,,,,
+1214,Omar Mascarell González,18398,Spain,Q7089760,181.0,1993-02-02,33.0,Spain,midfielder,
+1215,Alejandro Menéndez Díez,23994,Spain,Q8076650,181.0,1991-07-15,34.0,Spain,defender,
+1216,Rene Krhin,3160,Slovenia,Q298491,189.0,1990-05-21,35.0,Slovenia,forward,78.0
+1217,Matheus Dória Macedo,4418,Brazil,,,,,,,
+1218,Isaac Ajayi Success,6918,Nigeria,,,,,,,
+1219,Cristiano Biraghi,7158,Italy,Q824938,184.0,1992-09-01,33.0,Italy,full-back,80.0
+1220,Hugo Miguel Almeida Costa Lopes,20064,Portugal,Q326452,182.0,1986-12-19,39.0,Portugal,full-back,72.0
+1221,Diego Mainz García,26781,Spain,,,,,,,
+1222,Youssef El-Arabi,27109,Morocco,Q456482,183.0,1987-02-03,39.0,France,forward,70.0
+1223,Ivan Kelava,158769,Croatia,Q222808,195.0,1988-02-20,38.0,Croatia,goalkeeper,90.0
+1224,Héctor Hernández Ortega,10754,Spain,Q20871407,173.0,1991-05-23,34.0,Spain,defender,71.0
+1225,Federico Julián Fazio,6349,Argentina,Q342350,195.0,1987-03-17,39.0,Argentina,full-back,88.0
+1226,Roque Luis Santa Cruz Cantero,26783,Paraguay,Q152492,191.0,1981-08-16,44.0,Paraguay,forward,
+1227,Mickaël Ciani,15297,France,,,,,,,
+1228,Abraham González Casanova,27148,Spain,Q3772947,174.0,1985-07-16,40.0,Spain,midfielder,69.0
+1229,Abdoulaye Doucouré,3292,Mali,,,,,,,
+1230,Ricardo Miguel Moreira da Costa,19454,Portugal,Q154390,183.0,1981-05-16,44.0,Portugal,full-back,80.0
+1231,Jesús Fernández Collado,27240,Spain,,,,,,,
+1232,Ander Bardaji Maiza Lasgar,40864,Spain,,,,,,,
+1233,Roberto Lago Soto,27054,Spain,Q741743,178.0,1985-08-30,40.0,Spain,midfielder,76.0
+1234,José Antonio Dorado Ramírez,11543,Spain,Q609637,180.0,1982-07-10,43.0,Spain,defender,
+1235,Aras Özbiliz,16073,Armenia,Q541542,175.0,1990-03-09,36.0,Turkey,forward,72.0
+1236,José Eduardo Rosa Vale de Castro,26222,Portugal,,,,,,,
+1237,José Raúl Baena Urdiales,26607,Spain,Q647576,180.0,1989-03-02,37.0,Spain,midfielder,70.0
+1238,Alejandro Campos Tablado,197526,Spain,,,,,,,
+1239,Diogo José Rosário Gomes Figueiras,10881,Portugal,Q5279198,171.0,1991-01-07,35.0,Portugal,defender,62.0
+1240,Daniel Arnaud N''Di	,40822,Cameroon,,,,,,,
+1241,Shkodran Mustafi,3638,Germany,Q694014,184.0,1992-04-17,34.0,Germany,centre-back,82.0
+1242,Ángel Domingo López Ruano,25984,Spain,,,,,,,
+1243,António Alberto Bastos Pimparel,27111,Portugal,Q313955,183.0,1982-05-01,43.0,Portugal,goalkeeper,80.0
+1244,Álvaro Arbeloa Coca,20215,Spain,Q250901,184.0,1983-01-17,43.0,Spain,full-back,78.0
+1245,Francisco Medina Luna,26797,Spain,Q26480,174.0,1981-05-26,44.0,Spain,wing half,69.0
+1246,Henok Goitom,26647,Unknown,Q372336,189.0,1984-09-22,41.0,Sweden,forward,87.0
+1247,Sofiane Feghouli,18724,Algeria,Q334890,178.0,1989-12-26,36.0,France,wing half,71.0
+1248,Diego Caballo Alonso,23805,Spain,Q56223416,171.0,1994-02-17,32.0,Spain,defender,
+1249,Salvador Ruiz Rodríguez,24577,Spain,Q3470314,177.0,1995-05-17,30.0,Spain,defender,
+1250,Pablo Íñiguez de Heredia Larraz,197492,Spain,Q7121804,186.0,1994-01-20,32.0,Spain,centre-back,76.0
+1251,José Alberto Cañas Ruiz Herrera,18407,Spain,,,,,,,
+1252,Antonio Jesús Cotán Pérez,23936,Spain,,,,,,,
+1253,Wilfried Aimeric Zahibo,12349,Central African Republic,Q21872057,189.0,1993-08-21,32.0,France,midfielder,77.0
+1254,Manuel Rolando Iturra Urrutia,6743,Chile,Q583773,174.0,1984-06-23,41.0,Italy,midfielder,73.0
+1255,Ignacio Monsalve Vicente,21877,Spain,Q23703394,180.0,1994-04-27,31.0,Spain,defender,
+1256,Leandro Damião da Silva dos Santos,37212,Brazil,Q62733,187.0,1989-07-22,36.0,Brazil,forward,82.0
+1257,Asier Etxaburu Diz,133637,Spain,Q21751036,182.0,1994-04-07,32.0,Spain,inside forward,
+1258,Francisco Carlos González Cabrera,40117,Spain,Q64743460,,1997-05-20,28.0,Spain,wing half,
+1259,Samuel Villa Rodríguez,219317,Spain,,,,,,,
+1260,Dennis Díaz Fernánadez,197560,Spain,,,,,,,
+1261,Sergio Mendigutxia Iglesias,197595,Spain,Q16235631,183.0,1993-06-12,32.0,Spain,forward,
+1262,Eneko Capilla González,31467,Spain,,,,,,,
+1263,Didier Digard,27345,France,Q267128,184.0,1986-07-12,39.0,France,midfielder,73.0
+1264,Jefté Betancor Sánchez,11775,Spain,,,,,,,
+1265,Imanol Corral Matellán,206604,Spain,,,,,,,
+1266,Fernando Damián Tissone,19431,Argentina,,,,,,,
+1267,Rodrigo Javier De Paul,7797,Argentina,Q6110670,180.0,1994-05-24,31.0,Italy,wing half,74.0
+1268,Alhassane Bangoura,23761,Guinea,Q2408067,174.0,1992-03-30,34.0,Guinea,wing half,69.0
+1269,Marcos Alberto Angeleri,27184,Argentina,Q924269,182.0,1983-04-07,43.0,Argentina,centre-back,76.0
+1270,Félix Asdrúbal Padrón Hernández,40915,Spain,,,,,,,
+1271,Alberto Guitián Ceballos,24318,Spain,,,,,,,
+1272,José Carlos Lazo Romero,24252,Spain,,,,,,,
+1273,Nauzet Alemán Viera,26689,Spain,,,,,,,
+1274,Jackson Arley Martínez Valencia,17622,Colombia,,,,,,,
+1275,Haris Medunjanin,12358,Bosnia and Herzegovina,Q361153,188.0,1985-03-08,41.0,Bosnia and Herzegovina,midfielder,83.0
+1276,David Gómez Vázquez,197490,Spain,,,,,,,
+1277,Javier Márquez Moreno,24783,Spain,Q1188833,174.0,1986-05-11,39.0,Spain,midfielder,72.0
+1278,Nicolás Federico López Alonso,25126,Uruguay,Q1572467,175.0,1993-10-01,32.0,Uruguay,forward,67.0
+1279,Ángel Lafita Castillo,26020,Spain,,,,,,,
+1280,Francisco Javier García Noblejas Hernanz,26941,Spain,,,,,,,
+1281,Bojan Jokić,27155,Slovenia,Q314736,176.0,1986-05-17,39.0,Slovenia,full-back,76.0
+1282,Ager Aketxe Barrutia,6845,Spain,Q18009284,174.0,1993-12-30,32.0,Spain,inside forward,
+1283,Enrique Sola Clemente,26518,Spain,Q562192,185.0,1986-02-25,40.0,Spain,forward,82.0
+1284,Vincenzo Renato Rennella,24277,Italy,Q670600,188.0,1988-10-08,37.0,Italy,forward,80.0
+1285,Lévy Clément Madinda,27052,Gabon,,,,,,,
+1286,Miguel Filipe Nunes Cardoso,10852,Portugal,Q20535706,176.0,1994-06-19,31.0,Portugal,wing half,71.0
+1287,Juan Domínguez Lamas,24234,Spain,,,,,,,
+1288,Chengdong Zhang,43354,China,Q711270,183.0,1989-02-09,37.0,People's Republic of China,wing half,80.0
+1289,Francesco Bardi,13614,Italy,Q500138,188.0,1992-01-18,34.0,Italy,goalkeeper,82.0
+1290,Rafael van der Vaart,19724,Netherlands,Q163974,176.0,1983-02-11,43.0,Kingdom of the Netherlands,midfielder,74.0
+1291,Francisco José Villalba Rodrigo,23849,Spain,Q21977948,168.0,1998-05-11,27.0,Spain,midfielder,
+1292,Ousseynou Cissé,3863,Mali,Q7111366,195.0,1991-04-07,35.0,France,midfielder,
+1293,Jordi Figueras Montel,26801,Spain,Q2016846,185.0,1987-05-16,38.0,Spain,defender,78.0
+1294,Miguel Juan Llambrich,16337,Spain,Q22006870,170.0,1996-01-18,30.0,Spain,full-back,
+1295,Patrick Ebert,9246,Germany,Q27572,170.0,1987-03-17,39.0,Germany,midfielder,68.0
+1296,Juan Muñiz Gallego,24249,Spain,Q3816793,174.0,1992-03-14,34.0,Spain,wing half,
+1297,Hugo Fraile Martín,30429,Spain,Q2586621,176.0,1987-03-16,39.0,Spain,wing half,
+1298,Adnane Tighadouini,8264,Morocco,Q2719229,179.0,1992-10-30,33.0,Kingdom of the Netherlands,wing half,
+1299,Daniel Alves da Silva,4324,Brazil,Q111112114,,2002-01-04,24.0,Brazil,,
+1300,Adriano Correia Claro,22102,Brazil,Q94850,172.0,1984-10-26,41.0,Brazil,full-back,67.0
+1301,Fábio Ricardo Gomes Fonseca,11212,Portugal,Q15649089,171.0,1985-08-18,40.0,Portugal,midfielder,
+1302,Hachim Mastour,49433,Morocco,Q12208555,181.0,1998-06-15,27.0,Italy,midfielder,77.0
+1303,Néstor Díaz García,79615,Spain,,,,,,,
+1304,Julen López Salas,197561,Spain,Q65707407,192.0,1995-07-20,30.0,Spain,centre-back,
+1305,Luis Carlos Fariña Olivera,11146,Argentina,,,,,,,
+1306,Antonio Rodríguez Martínez,26070,Spain,,,,,,,
+1307,José Carrillo Mancilla,46465,Spain,,,,,,,
+1308,Thievy Guivane Bifouma Koulossa,26775,Congo (Brazzaville),Q2637074,180.0,1992-05-13,33.0,France,forward,74.0
+1309,Jhon Andrés Córdoba Copete,8817,Colombia,Q209847,188.0,1993-05-11,32.0,Colombia,forward,84.0
+1310,Jon Errasti Zabalete,27343,Spain,Q12260515,181.0,1988-06-06,37.0,Spain,defensive midfielder,70.0
+1311,Jorge Gómez Mediavilla,76375,Spain,,,,,,,
+1312,Pablo Clavería Herráiz,30427,Spain,,,,,,,
+1313,Ander Gayoso Reina,166764,Spain,Q24007036,171.0,1993-07-20,32.0,Spain,full-back,
+1314,Francisco Borja Lasso de la Vega Gayán,23218,Spain,,,,,,,
+1315,José Joaquín Matos García,23972,Spain,Q24007347,170.0,1995-05-06,30.0,Spain,defender,68.0
+1316,Ángel de la Calzada Ramos,169765,Spain,,,,,,,
+1317,David Goldar Gómez,75537,Spain,Q16864077,180.0,1994-09-15,31.0,Spain,defender,
+1318,José Luis García Vayá,30054,Spain,Q22007369,185.0,1998-08-11,27.0,Spain,midfielder,
+1319,Juan David Victoria López,25826,Colombia,Q56283869,,1996-01-24,30.0,Colombia,forward,
+1320,Álvaro Traver Navarrete,23837,Spain,,,,,,,
+1321,Philipp Lienhart,8931,Austria,Q20078774,189.0,1996-07-11,29.0,Austria,defender,83.0
+1322,Juan del Cármen Cámara Mesa,19392,Spain,,,,,,,
+1323,Daniel Lorenzo Lorenzo,197559,Spain,,,,,,,
+1324,Ibrahim Diallo,197491,Mali,Q21613814,175.0,1996-08-12,29.0,Mali,defender,70.0
+1325,David Cobeño Iglesias,26438,Spain,,,,,,,
+1326,Ian González Nieto,27970,Spain,Q20978028,190.0,1993-02-11,33.0,Spain,forward,
+1327,Borja Galán González,24391,Spain,,,,,,,
+1328,Iker Casillas Fernández,11179,Spain,Q11584,185.0,1981-05-20,44.0,Spain,goalkeeper,84.0
+1329,Lucas Silva Borges,25199,Brazil,Q6696318,182.0,1993-02-16,33.0,Brazil,midfielder,80.0
+1330,Pedro Eliezer Rodríguez Ledesma,3958,Spain,,,,,,,
+1331,Xavier Hernández Creus,20131,Spain,Q17500,170.0,1980-01-25,46.0,Spain,midfielder,68.0
+1332,Sergio Sánchez Ortega,6904,Spain,,,,,,,
+1333,Álvaro Arroyo Martínez,24506,Spain,Q6172727,180.0,1988-07-22,37.0,Spain,defender,71.0
+1334,Papa Babacar Diawara,27112,Senegal,Q923225,185.0,1988-01-05,38.0,Senegal,forward,79.0
+1335,Fredy Hinestroza Arias,27179,Colombia,Q8962775,178.0,1990-04-05,36.0,Colombia,wing half,70.0
+1336,Alejandro Felip Selma,27204,Spain,,,,,,,
+1337,Pedro Astray López,297256,Spain,Q18763835,184.0,1992-03-18,34.0,Spain,central midfielder,
+1338,Jonathan López Pérez,297257,Spain,Q10547163,182.0,1981-04-16,45.0,Spain,goalkeeper,
+1339,Luís Carlos Ramos Martins,11169,Portugal,Q870710,176.0,1992-06-10,33.0,Portugal,defender,65.0
+1340,Héctor Yuste Cantón,22811,Spain,,,,,,,
+1341,Roberto Fernández Alvarellos,26659,Spain,,,,,,,
+1342,Luis Carlos Pereira Carneiro,10851,Portugal,,,,,,,
+1343,Abdoulaye Ba,11536,Senegal,Q2528624,197.0,1991-01-01,35.0,Senegal,defender,79.0
+1344,Emiliano Adrián Insúa Zapata,12626,Argentina,,,,,,,
+1345,Alejandro Pozuelo Melero,16558,Spain,Q26051,170.0,1991-09-20,34.0,Spain,midfielder,63.0
+1346,Cristian Darío Álvarez,24040,Argentina,,,,,,,
+1347,Javier Ignacio Aquino Carmona,27153,Mexico,Q2408770,165.0,1990-02-11,36.0,Mexico,wing half,62.0
+1348,Hélder Wander Sousa Azevedo Costa,9931,Angola,,,,,,,
+1349,José Rodríguez Martínez,16083,Spain,Q554882,180.0,1994-12-16,31.0,Spain,midfielder,72.0
+1350,Ivan Ricardo Neves Abreu Cavaleiro,18243,Portugal,Q6096043,175.0,1993-10-18,32.0,Portugal,wing half,72.0
+1351,Hélder Manuel Marques Postiga,20011,Portugal,Q214117,182.0,1982-08-02,43.0,Portugal,forward,79.0
+1352,Diogo Ferreira Salomão,27191,Portugal,,,,,,,
+1353,Juan Valera Espín,26195,Spain,,,,,,,
+1354,Diego Castro Giménez,26252,Spain,Q553163,174.0,1982-07-02,43.0,Spain,wing half,60.0
+1355,Jordi Codina Rodríguez,26686,Spain,,,,,,,
+1356,Jorge Sammir Cruz Campos,27091,Croatia,Q166506,178.0,1987-04-23,39.0,Brazil,midfielder,75.0
+1357,Joaquín Oscar Larrivey,27190,Argentina,,,,,,,
+1358,Abraham Minero Fernández,23942,Spain,,,,,,,
+1359,Dejan Lekić,23975,Serbia,Q554845,193.0,1985-06-07,40.0,Serbia,forward,
+1360,Federico Piovaccari,23988,Italy,Q1093394,181.0,1984-09-01,41.0,Italy,forward,77.0
+1361,Javier Lara Grande,24190,Spain,Q6165379,179.0,1985-12-04,40.0,Spain,midfielder,71.0
+1362,Daniel Nieto Vela,24641,Spain,Q5216245,173.0,1991-05-04,34.0,Spain,wing half,60.0
+1363,Derek Owusu Boateng,26684,Ghana,Q299542,183.0,1983-05-02,42.0,Ghana,midfielder,78.0
+1364,Jaime Jiménez Merlo,27517,Spain,,,,,,,
+1365,Luis Eduardo Delgado Pacheco,24139,Spain,Q6700495,179.0,1984-12-04,41.0,Spain,midfielder,75.0
+1366,David Omar Rodríguez Barrera,24811,Spain,,,,,,,
+1367,Abel Gómez Moreno,26503,Spain,,,,,,,
+1368,Íñigo López Montaña,26573,Spain,Q2698115,185.0,1982-07-23,43.0,Spain,defender,74.0
+1369,Patrick Claude Ekeng Ekeng,27236,Cameroon,Q3369416,180.0,1990-03-26,36.0,Cameroon,midfielder,71.0
+1370,Adrián Javier Gunino Duque,27237,Uruguay,,,,,,,
+1371,Edimar Curitiba Fraga,27238,Brazil,Q2080087,180.0,1986-05-21,39.0,Brazil,full-back,
+1372,Héldon Augusto Almeida Ramos,51259,Cape Verde,Q2067333,174.0,1988-11-14,37.0,Cape Verde,forward,
+1373,Mikel Saizar Soroa,133626,Spain,Q6849411,190.0,1983-01-18,43.0,Spain,goalkeeper,
+1374,Tomer Hemed,3040,Israel,Q553074,182.0,1987-05-02,38.0,Israel,forward,81.0
+1375,Javier Espinosa González,21445,Spain,Q2568023,174.0,1992-09-19,33.0,Spain,midfielder,70.0
+1376,Wellington Alves da Silva,25723,Brazil,Q644235,169.0,1993-01-06,33.0,Spain,forward,65.0
+1377,Miguel Ángel García Pérez Roldán,26432,Spain,,,,,,,
+1378,Fernando Soriano Marco,26435,Spain,Q1332402,189.0,1979-09-24,46.0,Spain,midfielder,81.0
+1379,José Manuel Jiménez Ortiz,26436,Spain,,,,,,,
+1380,José Manuel Casado Bizcocho,26612,Spain,,,,,,,
+1381,Jonathan Sundy Zongo,27458,Burkina Faso,Q9012597,183.0,1989-04-06,37.0,Burkina Faso,wing half,72.0
+1382,Antonio Marín Molina,27459,Spain,Q18637694,179.0,1996-06-17,29.0,Spain,defender,
+1383,Julián Cuesta Díaz,27460,Spain,,,,,,,
+1384,José Ángel Jurado de la Torre,47340,Spain,Q18637524,182.0,1992-06-21,33.0,Spain,midfielder,
+1385,Giovani dos Santos Ramírez,5987,Mexico,Q562337,174.0,1989-05-11,36.0,Mexico,midfielder,71.0
+1386,Sami Khedira,5566,Germany,Q54094,189.0,1987-04-04,39.0,Germany,midfielder,90.0
+1387,Jorge García Morcillo,27396,Spain,,,,,,,
+1388,Alfreð Finnbogason,5514,Iceland,Q40771,184.0,1989-02-01,37.0,Iceland,forward,78.0
+1389,Eñaut Zubikarai Goñi,297290,Spain,Q2468719,185.0,1984-02-26,42.0,Spain,goalkeeper,73.0
+1390,Mario Mandžukić,5472,Croatia,Q187171,190.0,1986-05-21,39.0,Croatia,forward,85.0
+1391,João Miranda de Souza Filho,5551,Brazil,Q318119,186.0,1984-09-07,41.0,Brazil,centre-back,77.0
+1392,Jon Gaztañaga Arrospide,41091,Spain,Q12260517,182.0,1991-06-28,34.0,Spain,centre-back,73.0
+1393,Juan Carlos Sánchez Martínez,23854,Spain,,,,,,,
+1394,Mario Pašalić,11603,Croatia,Q14625183,188.0,1995-02-09,31.0,Croatia,midfielder,82.0
+1395,Cristian Ignacio Herrera Pérez,24258,Spain,,,,,,,
+1396,Aarón Níguez Esclapez,25849,Spain,,,,,,,
+1397,Ferrán Corominas Telechea,26102,Spain,Q517943,173.0,1983-01-05,43.0,Spain,forward,70.0
+1398,Domingo Cisma González,26238,Spain,,,,,,,
+1399,Sergio Pelegrín López,27206,Spain,,,,,,,
+1400,Manuel Herrera Yagüe,27207,Spain,Q962045,182.0,1981-09-29,44.0,Spain,goalkeeper,75.0
+1401,José Eduardo Albácar Gallego,27245,Spain,,,,,,,
+1402,José Ángel Alonso Martín,27464,Spain,Q5946534,185.0,1989-03-02,37.0,Spain,defender,76.0
+1403,Daniel João Santos Candeias,13456,Portugal,Q1161275,180.0,1988-02-25,38.0,Portugal,wing half,66.0
+1404,Raúl Alonso Jiménez Rodríguez,5568,Mexico,,,,,,,
+1405,José Verdú Nicolás,24080,Spain,Q2687046,184.0,1983-01-01,43.0,Spain,forward,
+1406,Cezary Stefan Wilk,297223,Poland,Q538660,180.0,1986-02-12,40.0,Poland,midfielder,74.0
+1407,Nicolás Hernán Otamendi,3090,Argentina,,,,,,,
+1408,Filipe Augusto Carvalho Souza,23451,Brazil,Q15831013,182.0,1993-08-12,32.0,Brazil,midfielder,77.0
+1409,Daniel Pinillos González,4740,Spain,,,,,,,
+1410,Eduard Campabadal Claros,24617,Spain,Q14609886,183.0,1993-01-26,33.0,Spain,defender,77.0
+1411,José María López de Silva Sánchez,27248,Spain,,,,,,,
+1412,Fausto Rossi,27249,Italy,Q3740405,177.0,1990-12-03,35.0,Italy,midfielder,67.0
+1413,Diego Daniel Colotto,26623,Argentina,Q238873,184.0,1981-03-10,45.0,Argentina,defender,81.0
+1414,Garry Mendes Rodrigues,16001,Cape Verde,Q4621784,173.0,1990-11-27,35.0,Cape Verde,wing half,72.0
+1415,Sebastián Dubarbier,27246,Argentina,Q1334239,179.0,1986-02-19,40.0,France,full-back,
+1416,Francisco Manuel Vélez Jiménez,27461,Spain,,,,,,,
+1417,Loukas Vyntra,20539,Greece,Q318553,184.0,1981-02-05,45.0,Greece,full-back,76.0
+1418,Kalu Uche,26495,Nigeria,Q215474,179.0,1982-11-15,43.0,Nigeria,midfielder,71.0
+1419,Jon Aurtenetxe Borde,26788,Spain,Q439158,183.0,1992-01-03,34.0,Spain,centre-back,82.0
+1420,Manuel del Moral Fernández,24507,Spain,,,,,,,
+1421,Jose Maria Añibarro Astondoa,402733,Spain,,,,,,,
+1422,Alejandro López Sánchez,27200,Spain,,,,,,,
+1423,Andreas Ivanschitz,20494,Austria,Q296837,184.0,1983-10-15,42.0,Austria,midfielder,82.0
+1424,Mohamed Lamine Sissoko Gillan,23382,Mali,Q216557,191.0,1985-01-22,41.0,France,midfielder,86.0
+1425,Héctor Rodas Ramírez,24860,Spain,Q3116924,190.0,1988-03-07,38.0,Spain,defender,80.0
+1426,Stéphane M''Bia Etoundi,20603,Cameroon,,,,,,,
+1427,Alexis Alejandro Sánchez Sánchez,3385,Chile,,,,,,,
+1428,Francesc Fàbregas i Soler,3478,Spain,Q17499,179.0,1987-05-04,38.0,Spain,midfielder,76.5
+1429,José Manuel Pinto Colorado,26005,Spain,Q17508,186.0,1975-11-08,50.0,Spain,goalkeeper,84.0
+1430,Alexandre Dimitri Song-Billong,27053,Cameroon,Q189012,185.0,1987-09-09,38.0,France,defender,74.0
+1431,José Antonio Delgado Villar,26782,Spain,Q2356332,178.0,1993-03-30,33.0,Spain,midfielder,72.0
+1432,Braian Damián Rodríguez Carballo,27337,Uruguay,Q4955633,190.0,1986-08-14,39.0,Uruguay,forward,84.0
+1433,Lorenzo Enrique Reyes Vicencio,27338,Chile,Q2068490,175.0,1991-06-13,34.0,Chile,midfielder,76.0
+1434,Cedric Mabwati Gerard,27339,"Congo, (Kinshasa)",Q5057128,167.0,1992-03-08,34.0,Democratic Republic of the Congo,wing half,62.0
+1435,Víctor Valdés Arribas,20176,Spain,,,,,,,
+1436,Marko Marin,15962,Germany,Q150921,170.0,1989-03-13,37.0,Germany,midfielder,65.0
+1437,Piotr Trochowski,26790,Germany,Q154303,169.0,1984-03-22,42.0,Germany,midfielder,70.0
+1438,Bryan Martín Rabello Mella,27189,Chile,,,,,,,
+1439,Jonas Gonçalves Oliveira,17083,Brazil,Q326476,181.0,1984-04-01,42.0,Italy,wing half,75.0
+1440,João Pedro da Silva Pereira,20138,Portugal,Q192565,172.0,1984-02-25,42.0,Portugal,full-back,64.0
+1441,Dorlan Mauricio Pabón Ríos,26257,Colombia,Q520695,168.0,1988-01-24,38.0,Colombia,forward,68.0
+1442,Christian Alberto Cueva Bravo,5519,Peru,Q648744,170.0,1991-11-23,34.0,Peru,wing half,
+1443,Leonel Ezequiel Galeano,28699,Argentina,,,,,,,
+1444,Wilfredo Daniel Caballero,3659,Argentina,,,,,,,
+1445,Bartlomiej Pawłowski,8000,Poland,,,,,,,
+1446,Pedro Andrés Morales Flores,27181,Chile,Q718771,181.0,1985-05-25,40.0,Chile,midfielder,72.0
+1447,Flávio Nunes Ferreira,27182,Portugal,Q3074658,180.0,1991-10-19,34.0,Portugal,midfielder,71.0
+1448,Pablo Javier Pérez,27183,Argentina,,,,,,,
+1449,Ibrahim Afellay,4891,Netherlands,Q165014,180.0,1986-04-02,40.0,Kingdom of the Netherlands,wing half,76.0
+1450,Orestis Karnezis,3742,Greece,Q179457,189.0,1985-07-11,40.0,Greece,goalkeeper,79.0
+1451,Alexandre Coeff,7428,France,Q2833554,185.0,1992-02-20,34.0,France,defender,67.0
+1452,Tiago Abiola Delfim Almeida Ilori,9542,Portugal,Q7800063,190.0,1993-02-26,33.0,Portugal,centre-back,80.0
+1453,Yacine Brahimi,11165,Algeria,Q767469,175.0,1990-02-08,36.0,France,midfielder,65.0
+1454,Christian Daniel Bravo Araneda,27252,Chile,Q5109350,168.0,1993-10-01,32.0,Chile,wing half,70.0
+1455,Haris Seferović,5543,Switzerland,,,,,,,
+1456,Liassine Cadamuro-Bentaïba,7321,Algeria,Q2526070,186.0,1988-03-05,38.0,Italy,defender,
+1457,Marco Sangalli Fuentes,23796,Spain,Q15911247,179.0,1992-02-07,34.0,Spain,winger,66.0
+1458,Javier Ros Añón,24042,Spain,Q3751968,172.0,1990-02-16,36.0,Spain,defensive midfielder,67.0
+1459,Daniel Estrada Agirrezablaga,26441,Spain,,,,,,,
+1460,Jonathan Pereira Rodríguez,23804,Spain,,,,,,,
+1461,Jérémy Perbet,23865,France,Q1714982,183.0,1984-12-12,41.0,France,forward,79.0
+1462,Carles Puyol i Saforcada,20125,Spain,Q17158,178.0,1978-04-13,48.0,Spain,centre-back,78.0
+1463,Hélder Jorge Leal Rodrigues Barbosa,18948,Portugal,Q137794,172.0,1987-05-25,38.0,Portugal,wing half,
+1464,Rodrigo Ríos Lozano,24145,Spain,,,,,,,
+1465,Esteban Andrés Suárez,25971,Spain,,,,,,,
+1466,Marcos Tébar Ramiro,27247,Spain,,,,,,,
+1467,Marco Natanel Torsiglieri,27515,Argentina,Q675104,189.0,1988-01-12,38.0,Italy,defender,86.0
+1468,Rafael Ramos Lozano,27516,Spain,Q3823621,177.0,1982-09-18,43.0,Spain,defender,70.0
+1469,Jean Marie Dongou Tsafack,25831,Cameroon,Q17490,173.0,1995-04-20,31.0,Cameroon,forward,78.0
+1470,Issam El Adoua,12063,Morocco,Q2761473,189.0,1986-12-09,39.0,Morocco,centre-back,76.0
+1471,Pedro Ríos Maestre,26657,Spain,,,,,,,
+1472,Sérgio da Silva Pinto,27124,Portugal,,,,,,,
+1473,Javier Jiménez Camarero,282513,Spain,,,,,,,
+1474,Cristian Lobato Villegas,16250,Spain,Q2192702,180.0,1989-03-07,37.0,Spain,midfielder,74.0
+1475,Carlos Javier Acuña Caballero,24091,Paraguay,Q364833,175.0,1988-06-23,37.0,Spain,forward,70.0
+1476,Jordan Lotiès,24106,France,Q2399800,190.0,1984-08-05,41.0,France,defender,82.0
+1477,Francisco Puñal Martínez,25874,Spain,Q439792,180.0,1975-09-06,50.0,Spain,inside forward,73.0
+1478,Damià Abella Pérez,25896,Spain,,,,,,,
+1479,Emiliano Daniel Armenteros,26611,Argentina,Q989340,184.0,1986-01-18,40.0,Italy,midfielder,74.0
+1480,Raoul Cédric Loé,27089,Cameroon,Q2681416,192.0,1989-01-31,37.0,France,midfielder,83.0
+1481,Francisco Andrés Silva Gajardo,27244,Chile,,,,,,,
+1482,Ander Herrera Agüera,3606,Spain,Q1639968,182.0,1989-08-14,36.0,Spain,central midfielder,73.0
+1483,Richmond Yiadom Boakye,15960,Ghana,Q980185,180.0,1993-01-28,33.0,Ghana,forward,77.0
+1484,Alberto Rivera Pizarro,25893,Spain,Q736915,170.0,1978-02-16,48.0,Spain,midfielder,
+1485,Borja Oubiña Meléndez,25986,Spain,Q392718,180.0,1982-05-17,43.0,Spain,midfielder,71.0
+1486,Mario Bermejo Castanedo,26617,Spain,Q2280134,180.0,1978-10-07,47.0,Spain,centre-forward,75.0
+1487,Ángel Fabián Di María Hernández,2995,Argentina,Q251683,180.0,1988-02-14,38.0,Italy,wing half,71.0
+1488,Iago Falqué Silva,7468,Spain,,,,,,,
+1489,Miguel Pallardó González,26026,Spain,,,,,,,
+1490,Gabriel Andrei Torje,10731,Romania,Q455905,167.0,1989-11-22,36.0,Romania,wing half,63.0
+1491,Raúl Rodríguez Navarro,26667,Spain,Q2300769,183.0,1987-09-22,38.0,Spain,defender,70.0
+1492,Manuel Lanzarote Bruno,27147,Spain,Q6752677,178.0,1984-01-20,42.0,Spain,wing half,69.0
+1493,Luís Miguel Afonso Fernandes,10325,Portugal,,,,,,,
+1494,Simão Pedro Fonseca Sabrosa,19765,Portugal,Q203665,170.0,1979-10-31,46.0,Portugal,wing half,70.0
+1495,David Villa Sánchez,12737,Spain,Q83006,175.0,1981-12-03,44.0,Spain,forward,69.0
+1496,José Ernesto Sosa,20883,Argentina,Q314241,183.0,1985-06-19,40.0,Argentina,wing half,79.0
+1497,Oriol Romeu Vidal,3272,Spain,Q274523,183.0,1991-09-24,34.0,Spain,midfielder,83.0
+1498,Juan Bernat Velasco,15651,Spain,Q19367,172.0,1993-03-01,33.0,Spain,full-back,67.0
+1499,Eduardo Jesús Vargas Rojas,27317,Chile,,,,,,,
+1500,Miguel Marcos Madera,16478,Spain,Q561099,183.0,1985-11-08,40.0,Spain,midfielder,72.0
+1501,Jaime Gavilán Martínez,24580,Spain,,,,,,,
+1502,Rafael López Gómez,24614,Spain,,,,,,,
+1503,Adrián Colunga Pérez,26652,Spain,,,,,,,
+1504,Júlio César Jacobi,26849,Brazil,,,,,,,
+1505,Cristian Gabriel Rodríguez Barrotti,5256,Uruguay,,,,,,,
+1506,Xabier Alonso Olano,20133,Spain,Q208104,183.0,1981-11-25,44.0,Spain,midfielder,76.0
+1507,Stephan Maigaard Andersen,18851,Denmark,Q299536,188.0,1981-11-26,44.0,Kingdom of Denmark,goalkeeper,
+1508,José Antonio Caro Martínez,23985,Spain,Q16230081,182.0,1993-03-08,33.0,Spain,defender,70.0
+1509,Manuel Jesús Vázquez Florido,24505,Spain,Q4718298,178.0,1991-01-25,35.0,Spain,forward,67.0
+1510,Ignacio Pérez Santamaría,25892,Spain,,,,,,,
+1511,Javier Magro Matilla,26794,Spain,Q2632726,176.0,1988-08-16,37.0,Spain,midfielder,72.0
+1512,Guillermo Sara,27202,Argentina,Q9001359,182.0,1987-09-30,38.0,Argentina,goalkeeper,80.0
+1513,Markus Steinhöfer,27203,Germany,Q130075,176.0,1986-03-07,40.0,Germany,full-back,73.0
+1514,Zakarya Bergdich,7216,Morocco,Q1443059,178.0,1989-01-07,37.0,France,defender,69.0
+1515,Stefan Mitrović,10477,Serbia,,,,,,,
+1516,Óscar Javier González Marcos,25911,Spain,,,,,,,
+1517,Álvaro Rubio Robles,26190,Spain,,,,,,,
+1518,Javier Baraja Vegas,26693,Spain,Q862607,179.0,1980-08-24,45.0,Spain,midfielder,
+1519,Marc Valiente Hernández,26695,Spain,,,,,,,
+1520,Valdet Skënder Rama,27311,Albania,,,,,,,
+1521,Jesús Rueda Ambrosio,27312,Spain,Q2268122,181.0,1987-02-19,39.0,Spain,defender,87.0
+1522,Carlos González Peña,27313,Spain,Q4348738,181.0,1983-07-28,42.0,Spain,defender,81.0
+1523,Daniel Larsson,30991,Sweden,Q787677,176.0,1987-01-25,39.0,Sweden,wing half,77.0
+1524,Humberto Segundo Osorio Botello,41726,Colombia,Q3787591,178.0,1988-06-24,37.0,Colombia,forward,77.0
+1525,Sisinio González Martínez,26189,Spain,,,,,,,
+1526,Manuel Jesús Ortiz Toribio,26254,Spain,,,,,,,
+1527,Marc Bertrán Vilanova,26807,Spain,,,,,,,
+1528,Manuel Onwu Villafranca,27242,Spain,Q44157,187.0,1988-01-11,38.0,Spain,centre-forward,
+1529,Antonio Rodríguez Dovale,27194,Spain,,,,,,,
+1530,Christian Fernández Salas,24075,Spain,Q977383,182.0,1985-10-15,40.0,Spain,defender,78.0
+1531,Hernán Darío Pellerano,26494,Argentina,Q2552057,183.0,1984-06-04,41.0,Argentina,defender,74.0
+1532,Nélson Augusto Tomar Marcos,26589,Portugal,,,,,,,
+1533,Thiago Alcântara do Nascimento,5208,Spain,,,,,,,
+1534,Daniel Hernández Santos,24264,Venezuela (Bolivarian Republic),Q549921,197.0,1985-10-21,40.0,Venezuela,goalkeeper,85.0
+1535,Henrique Sereno Fonseca,26692,Portugal,Q716336,188.0,1985-05-18,40.0,Portugal,defender,75.0
+1536,Víctor Pérez Alonso,27201,Spain,,,,,,,
+1537,Iriney Santos Da Silva,25978,Brazil,,,,,,,
+1538,Juan Manuel Ortiz Palazón,26440,Spain,,,,,,,
+1539,Borja Gómez Pérez,26851,Spain,,,,,,,
+1540,Antonio Floro Flores,27110,Italy,Q510039,183.0,1983-06-18,42.0,Italy,forward,78.0
+1541,Adrián San Miguel del Castillo,3623,Spain,Q3557182,190.0,1987-01-03,39.0,Spain,goalkeeper,78.0
+1542,Joel Nathaniel Campbell Samuels,5581,Costa Rica,Q356797,178.0,1992-06-26,33.0,Costa Rica,wing half,78.0
+1543,Pedro Mario Álvarez Abrante,26081,Spain,,,,,,,
+1544,Francisco Javier Chica Torres,26170,Spain,Q443447,176.0,1985-05-17,40.0,Spain,defender,78.0
+1545,Emmanuel Nosakhare Igiebor,27145,Nigeria,Q2534154,182.0,1990-11-09,35.0,Nigeria,midfielder,79.0
+1546,Enrique de Lucas Martínez,26511,Spain,,,,,,,
+1547,Chu-Young Park,27055,Korea (South),,,,,,,
+1548,Jonathan Vila Pereira,27196,Spain,Q741809,186.0,1986-03-06,40.0,Spain,midfielder,78.0
+1549,Andrés José Túñez Arceo,27198,Venezuela (Bolivarian Republic),,,,,,,
+1550,Alberto Facundo Costa,26728,Argentina,Q366556,176.0,1985-01-09,41.0,France,wing half,70.0
+1551,Aly Cissokho,27146,France,Q18881,182.0,1987-09-15,38.0,France,full-back,75.0
+1552,Emilio Nsue López,13581,Equatorial Guinea,Q581058,178.0,1989-09-30,36.0,Spain,wing half,
+1553,Marc Fernández Gràcia,16093,Spain,,,,,,,
+1554,Alejandro Alfaro Ligero,24191,Spain,Q385686,173.0,1986-11-23,39.0,Spain,midfielder,71.0
+1555,Pedro Tonon Geromel,25261,Brazil,Q266410,190.0,1985-09-21,40.0,Brazil,centre-back,84.0
+1556,Jose Luis Martí Soler,25948,Spain,,,,,,,
+1557,Dudú Aouate,26146,Israel,,,,,,,
+1558,Michaël Pereira,26671,France,,,,,,,
+1559,Anderson Conceição Benedito,27456,Brazil,Q2846132,188.0,1989-10-24,36.0,Brazil,centre-back,83.0
+1560,José María Callejón Bueno,7029,Spain,Q54084,178.0,1987-02-11,39.0,Spain,wing half,73.0
+1561,Fábio Alexandre da Silva Coentrão,19047,Portugal,Q484384,178.0,1988-03-11,38.0,Portugal,full-back,72.0
+1562,Ricardo Izecson dos Santos Leite,26712,Brazil,Q531814,186.0,1982-04-22,44.0,Italy,midfielder,83.0
+1563,Michael Essien,27113,Ghana,Q969520,177.0,1982-12-03,43.0,Ghana,midfielder,85.0
+1564,Abel Enrique Aguilar Tapia,6192,Colombia,Q318416,186.0,1985-01-06,41.0,Colombia,midfielder,82.0
+1565,Carlos Marchena López,20127,Spain,,,,,,,
+1566,Nélson Miguel Castro Oliveira,20137,Portugal,,,,,,,
+1567,Daniel Aranzubia Aguado,26029,Spain,Q311938,186.0,1979-09-18,46.0,Spain,goalkeeper,82.0
+1568,Iván Sánchez Rico Soto,26055,Spain,,,,,,,
+1569,Ayoze Díaz Díaz,26147,Spain,,,,,,,
+1570,Javier Camuñas Gallego,26169,Spain,,,,,,,
+1571,Gustavo Adolfo Munúa Vera,26221,Uruguay,,,,,,,
+1572,José Javier Barkero Saludes,26226,Spain,,,,,,,
+1573,Sergio Martínez Ballesteros,26444,Spain,,,,,,,
+1574,Juan Luis Gómez López,26843,Spain,,,,,,,
+1575,Christian Lell,27142,Germany,Q157839,180.0,1984-08-29,41.0,Germany,full-back,74.0
+1576,Obafemi Akinwunmi Martins,27143,Nigeria,Q207548,170.0,1984-10-28,41.0,Nigeria,forward,70.0
+1577,Radamel Falcao García Zárate,3445,Colombia,Q138172,177.0,1986-02-10,40.0,Venezuela,forward,73.0
+1578,Daniel Alberto Díaz,26496,Argentina,,,,,,,
+1579,Federico Fernández,3290,Argentina,Q713501,189.0,1989-02-21,37.0,Argentina,centre-back,81.0
+1580,Abdelaziz Barrada,23933,Morocco,Q685385,185.0,1989-06-19,36.0,France,midfielder,78.0
+1581,Alberto Manuel Domínguez Rivas,148129,Spain,Q17198108,,1988-02-11,38.0,Spain,goalkeeper,
+1582,Joan Capdevila Méndez,20134,Spain,Q188793,182.0,1978-02-03,48.0,Spain,full-back,79.0
+1583,Juan Daniel Forlín,24744,Argentina,,,,,,,
+1584,Juan Ángel Albín Leites,26425,Uruguay,Q519484,179.0,1986-07-17,39.0,Uruguay,midfielder,77.0
+1585,Christian Alfonso López,27205,Spain,,,,,,,
+1586,Danijel Pranjić,20088,Croatia,Q154512,172.0,1981-12-02,44.0,Croatia,wing half,67.0
+1587,Vadim Demidov,26701,Norway,Q520116,185.0,1986-10-10,39.0,Norway,defender,
+1588,Ignacio Insa Bohigues,27056,Malaysia,Q2744475,177.0,1986-06-09,39.0,Spain,midfielder,69.0
+1589,Masoud Shojaei Soleimani,5238,"Iran, Islamic Republic of",Q350867,184.0,1984-06-09,41.0,Iran,midfielder,73.0
+1590,Rubén González Rocha,26068,Spain,,,,,,,
+1591,Joseba Llorente Etxarri,26191,Spain,Q219048,185.0,1979-11-24,46.0,Spain,centre-forward,
+1592,Fernando Macedo Da Silva Rodilla,27088,Spain,,,,,,,
+1593,Fernando Amorebieta Mardaras,26028,Venezuela (Bolivarian Republic),Q314250,192.0,1985-03-29,41.0,Spain,centre-back,85.0
+1594,Sergio Rodríguez García,26409,Spain,,,,,,,
+1595,Alejandro Damián Domínguez,26646,Argentina,,,,,,,
+1596,José Carlos Fernández Vázquez,26694,Spain,,,,,,,
+1597,Nicki Niels Bille Nielsen,27120,Denmark,Q531413,181.0,1988-02-07,38.0,Kingdom of Denmark,forward,75.0
+1598,Andrija Delibašić,27121,Montenegro,Q442347,188.0,1981-04-24,44.0,Montenegro,forward,84.0
+1599,Diego Ifrán Sala,26700,Uruguay,Q2533061,173.0,1987-06-08,38.0,Uruguay,forward,
+1600,Gary Alexis Medel Soto,16453,Chile,Q329524,171.0,1987-08-03,38.0,Chile,midfielder,76.0
+1601,Andrés Palop Cervera,25946,Spain,,,,,,,
+1602,Hedwiges Maduro,26396,Netherlands,Q216260,185.0,1985-02-13,41.0,Kingdom of the Netherlands,midfielder,78.0
+1603,Alberto Botía Rabasco,26638,Spain,,,,,,,
+1604,Emir Spahić,26791,Bosnia and Herzegovina,Q253163,186.0,1980-08-18,45.0,Bosnia and Herzegovina,centre-back,77.0
+1605,Alex Sandro Mendonça Dos Santos,27119,Brazil,,,,,,,
+1606,David Albelda Aliqués,20128,Spain,,,,,,,
+1607,Fernando Rubén Gago,26036,Argentina,Q187426,178.0,1986-04-10,40.0,Argentina,defensive midfielder,70.0
+1608,Nelson Antonio Haedo Valdez,26748,Paraguay,Q157584,178.0,1983-11-28,42.0,Paraguay,forward,71.0
+1609,Franco Zuculini,7701,Argentina,Q27525,176.0,1990-09-05,35.0,Italy,midfielder,68.0
+1610,Ádám Pintér,10815,Hungary,,,,,,,
+1611,Jose María Movilla Cubero,25920,Spain,,,,,,,
+1612,Antonio Galdeano Benítez,26234,Spain,,,,,,,
+1613,Javier Paredes Arango,26429,Spain,Q27688,175.0,1982-07-05,43.0,Spain,full-back,
+1614,Carlos Reina Aranda,26522,Spain,Q27699,184.0,1980-07-27,45.0,Spain,forward,82.0
+1615,Stefan Babović,27195,Serbia,Q27719,178.0,1987-01-07,39.0,Serbia,midfielder,62.0
+1616,Lucas Antonio Wílchez,27197,Argentina,,,,,,,
+1617,Raúl Goni Bayo,27199,Spain,,,,,,,
+1618,Mesut Özil,3496,Germany,Q83488,180.0,1988-10-15,37.0,Turkey,midfielder,76.0
+1619,Gonzalo Gerardo Higuaín,5497,Argentina,Q483846,184.0,1987-12-10,38.0,France,forward,89.0
+1620,Raúl Tamudo Montero,26109,Spain,Q312946,180.0,1977-10-19,48.0,Spain,forward,74.0
+1621,Isaac Gómez Sánchez,27193,Spain,,,,,,,
+1622,Sílvio Manuel Azevedo Ferreira Sá Pereira,23364,Portugal,Q713507,178.0,1987-09-28,38.0,Portugal,defender,72.0
+1623,Paulo Assunção da Silva,26502,Brazil,Q164575,173.0,1980-01-25,46.0,Portugal,midfielder,
+1624,Jérémy Toulalan,3406,France,Q1944,183.0,1983-09-10,42.0,France,midfielder,77.0
+1625,Eliseu Pereira dos Santos,10798,Portugal,Q72802,176.0,1983-10-01,42.0,Portugal,defender,76.0
+1626,Diego Mario Buonanotte Rende,26809,Argentina,Q316594,157.0,1988-04-19,38.0,Argentina,midfielder,56.0
+1627,Eric-Sylvain Bilal Abidal,20177,France,,,,,,,
+1628,Andoni Iraola Sagarna,26031,Spain,Q317216,182.0,1982-06-22,43.0,Spain,central midfielder,74.0
+1629,Xabier Castillo Aranburu,41724,Spain,Q562403,185.0,1986-03-29,40.0,Spain,full-back,74.0
+1630,Odion Jude Ighalo,5458,Nigeria,Q928969,188.0,1989-06-16,36.0,Nigeria,forward,74.0
+1631,Roland Conde Lamah,16718,Belgium,Q2083351,180.0,1987-12-31,38.0,Belgium,wing half,71.0
+1632,David Ángel Abraham,8678,Argentina,,,,,,,
+1633,Mehmet Topal,11084,Turkey,Q348199,189.0,1986-03-03,40.0,Turkey,midfielder,76.0
+1634,Luís Miguel Brito Garcia Monteiro,20070,Portugal,Q295315,180.0,1980-01-04,46.0,Portugal,defender,77.0
+1635,Seydou Kéita,20169,Mali,,,,,,,
+1636,José Martín Cáceres Silva,5248,Uruguay,Q194107,178.0,1987-04-07,39.0,Uruguay,centre-back,75.0
+1637,Frédéric Oumar Kanouté,25960,Mali,,,,,,,
+1638,Julien Escudé,26018,France,Q313172,184.0,1979-08-17,46.0,France,defender,76.0
+1639,Rúben Micael Freitas da Ressurreição,11161,Portugal,Q328869,175.0,1986-08-19,39.0,Portugal,midfielder,73.0
+1640,Ivan Obradović,23651,Serbia,Q27680,181.0,1988-07-25,37.0,Serbia,full-back,74.0
+1641,Maurizio Lanzaro,26715,Italy,Q27704,183.0,1982-03-14,44.0,Italy,defender,80.0
+1642,Paulo César Da Silva Barrios,26761,Paraguay,,,,,,,
+1643,Pablo Sebastián Valeira Álvarez,26837,Argentina,,,,,,,
+1644,Maxwell Scherrer Cabelino Andrade,26613,Brazil,Q215040,176.0,1981-08-27,44.0,Brazil,full-back,74.0
+1645,Efraín Juárez Váldez,16268,Mexico,,,,,,,
+1646,Fernando José da Silva Freitas Meira,20264,Portugal,Q310206,190.0,1978-06-05,47.0,Portugal,defender,85.0
+1647,Luis García Fernández,23916,Spain,,,,,,,
+1648,Leonardo Daniel Ponzio,25922,Argentina,Q964030,165.0,1982-01-29,44.0,Argentina,midfielder,75.0
+1649,Pablo Edson Barrera Acosta,26796,Mexico,Q310226,175.0,1987-06-21,38.0,Mexico,wing half,
+1650,David Mateos Ramajo,26798,Spain,Q314652,190.0,1987-04-22,39.0,Spain,defender,81.0
+1651,Eduardo Antonio Salvio,5513,Argentina,Q367644,171.0,1990-07-13,35.0,Argentina,wing half,67.0
+1652,Khouma El Hadji Babacar,7125,Senegal,Q456868,185.0,1993-03-17,33.0,Senegal,forward,85.0
+1653,Pedro Manuel Munitis Álvarez,19577,Spain,Q372326,167.0,1975-06-19,50.0,Spain,forward,68.0
+1654,Gonzalo Colsa Albendea,26073,Spain,Q634861,185.0,1977-05-11,48.0,Spain,midfielder,
+1655,Francisco Jesús Pérez Malia,26615,Spain,,,,,,,
+1656,Manuel Jesús Arana Rodríguez,26665,Spain,,,,,,,
+1657,Marcos Gullón Ferrera,26787,Spain,,,,,,,
+1658,Mikel Aranburu Eizagirre,26449,Spain,Q562684,178.0,1979-02-18,47.0,Spain,defensive midfielder,
+1659,Rafael García García,26799,Spain,,,,,,,
+1660,Mikel Labaka Zurriarain,26800,Spain,Q562171,185.0,1980-08-10,45.0,Spain,centre-back,
+1661,Miguel Ángel Sánchez Muñoz,26802,Spain,Q2637295,174.0,1975-10-30,50.0,Spain,midfielder,66.0
+1662,Pedro Roberto Silva Botelho,26803,Brazil,Q359071,186.0,1989-12-14,36.0,Brazil,defender,80.0
+1663,Miguel Pérez Cuesta,26804,Spain,,,,,,,
+1664,José Salomón Rondón Giménez,4041,Venezuela (Bolivarian Republic),Q357613,189.0,1989-09-16,36.0,Venezuela,forward,86.0
+1665,Ruud van Nistelrooy,19729,Netherlands,Q45626,188.0,1976-07-01,49.0,Kingdom of the Netherlands,forward,80.0
+1666,Joris Mathijsen,20269,Netherlands,Q126461,183.0,1980-04-05,46.0,Kingdom of the Netherlands,centre-back,72.0
+1667,Enzo Maresca,25954,Italy,Q317282,180.0,1980-02-10,46.0,Italy,midfielder,77.0
+1668,Sebastián Bruno Fernández Miglierina,26806,Uruguay,Q315681,166.0,1985-05-23,40.0,Uruguay,forward,
+1669,Javier Martínez Aginaga,9399,Spain,Q201752,192.0,1988-09-02,37.0,Spain,centre-back,89.0
+1670,Diego Ribas da Cunha,25145,Brazil,Q109428,173.0,1985-02-28,41.0,Italy,midfielder,73.0
+1671,Antonio López Guerrero,26118,Spain,,,,,,,
+1672,Luis Amaranto Perea Mosquera,26120,Colombia,Q316631,180.0,1979-01-30,47.0,Colombia,defender,76.0
+1673,José Carlos de Araújo Nunes,25992,Portugal,Q721149,181.0,1977-03-07,49.0,Portugal,defender,
+1674,José Manuel Flores Moreno,26653,Spain,,,,,,,
+1675,Pablo Domingo Cáceres Rodríguez,26789,Uruguay,,,,,,,
+1676,David Cortés Caballero,25994,Spain,,,,,,,
+1677,Moisés Hurtado Pérez,26162,Spain,,,,,,,
+1678,Carlos Jorge Neto Martins,26171,Portugal,Q360213,173.0,1982-04-29,43.0,Portugal,midfielder,103.0
+1679,Alexandre Geijo Pazos,26182,Spain,Q10772,188.0,1982-03-11,44.0,Spain,forward,82.0
+1680,Daniel González Benítez,26779,Spain,,,,,,,
+1681,Franco Daniel Jara,26850,Argentina,Q654690,179.0,1988-07-15,37.0,Argentina,forward,70.0
+1682,Alexandros Tziolis,20538,Greece,Q313544,190.0,1985-02-13,41.0,Greece,midfielder,85.0
+1683,Marc Torrejón Moya,26163,Spain,,,,,,,
+1684,Eduardo Bedia Peláez,26754,Spain,Q2635900,,1989-03-23,37.0,Spain,midfielder,
+1685,Valmiro Lópes Rocha,25872,Cape Verde,,,,,,,
+1686,Javier Rodríguez Venta,25937,Spain,,,,,,,
+1687,Francisco Javier Farinós Zapata,25998,Spain,Q763807,172.0,1978-03-29,48.0,Spain,midfielder,
+1688,Asier del Horno Cosgaya,26398,Spain,Q312120,183.0,1981-01-19,45.0,Spain,centre-back,81.0
+1689,Arouna Koné,26696,Côte d'Ivoire,,,,,,,
+1690,Rubén Suárez Estrada,26805,Spain,,,,,,,
+1691,MacDonald Mariga Wanyama,26717,Kenya,,,,,,,
+1692,Francisco Javier Casquero Paredes,26144,Spain,Q718878,180.0,1976-03-11,50.0,Spain,midfielder,73.0
+1693,Tsepo Peter Masilela,26815,South Africa,,,,,,,
+1694,Mate Bilić,26227,Croatia,Q445484,184.0,1980-10-23,45.0,Croatia,forward,81.0
+1695,Juan Pablo Colinas Ferreras,26228,Spain,Q2531218,187.0,1978-09-02,47.0,Spain,goalkeeper,85.0
+1696,Ayoze García Pérez,26628,Spain,,,,,,,
+1697,Iván Hernández Soto,26661,Spain,Q2635943,185.0,1980-02-27,46.0,Spain,defender,80.0
+1698,André de Castro Pereira,26703,Portugal,Q517701,180.0,1988-04-02,38.0,Portugal,midfielder,75.0
+1699,Jefferson Antonio Montero Vite,7063,Ecuador,Q2300455,169.0,1989-09-01,36.0,Ecuador,wing half,64.0
+1700,Casto Espinosa Barriga,23815,Spain,Q392612,181.0,1982-06-18,43.0,Spain,goalkeeper,
+1701,José Isidoro Gómez Torres,26455,Spain,,,,,,,
+1702,Paulo Afonso Santos Júnior,26784,Brazil,,,,,,,
+1703,Lassana Diarra,3181,France,Q485196,173.0,1985-03-10,41.0,France,midfielder,73.0
+1704,Ustaritz Aldekoaotalora Astarloa,26100,Spain,Q442559,183.0,1983-02-16,43.0,Spain,centre-back,75.0
+1705,Jukka Raitala,15416,Finland,Q327479,181.0,1988-09-15,37.0,Finland,midfielder,77.0
+1706,Ibrahima Baldé,24069,Senegal,,,,,,,
+1707,Sergio Fernández González,25969,Spain,,,,,,,
+1708,Javad Nekounam,26002,"Iran, Islamic Republic of",Q315008,186.0,1980-09-07,45.0,Iran,midfielder,76.0
+1709,Diego Perotti,7456,Argentina,Q438340,179.0,1988-07-26,37.0,Argentina,forward,70.0
+1710,Cristian Eduardo Zapata Valencia,6360,Colombia,Q316762,186.0,1986-09-30,39.0,Colombia,centre-back,78.0
+1711,Borja Valero Iglesias,6997,Spain,Q283824,175.0,1985-01-12,41.0,Spain,midfielder,73.0
+1712,Marcos Antonio Senna da Silva,20135,Spain,Q194439,177.0,1976-07-17,49.0,Spain,midfielder,70.0
+1713,Gonzalo Javier Rodríguez,25931,Argentina,,,,,,,
+1714,Nilmar Honorato da Silva,26698,Brazil,Q208687,180.0,1984-07-14,41.0,Brazil,forward,
+1715,Joan Oriol i Gràcia,26721,Spain,Q969516,175.0,1986-11-05,39.0,Spain,defender,69.0
+1716,Vladimír Weiss,10922,Slovakia,Q217507,173.0,1989-11-30,36.0,Slovakia,wing half,71.0
+1717,Rui Pedro da Rocha Fonte,15867,Portugal,Q955451,181.0,1990-04-23,36.0,Portugal,wing half,73.0
+1718,Cristian Gómez García,26785,Spain,,,,,,,
+1719,Christian Koffi Romaric N''Dri,26480,Côte d'Ivoire,,,,,,,
+1720,Martí Crespí Pascual,26672,Spain,,,,,,,
+1721,João Victor de Albuquerque Bruno,26675,Brazil,Q2635032,182.0,1988-11-07,37.0,Brazil,midfielder,82.0
+1722,Pablo Cendrós López,26737,Spain,,,,,,,
+1723,Gianni Michel Eugene Zuiverloon,26777,Netherlands,Q936442,178.0,1986-12-30,39.0,Kingdom of the Netherlands,defender,70.0
+1724,Yohan Mollo,23315,France,Q1362018,175.0,1989-07-18,36.0,France,wing half,74.0
+1725,José Luis Moreno Barroso,24068,Spain,,,,,,,
+1726,Marco Gastón Ruben Rodríguez,25426,Argentina,,,,,,,
+1727,Gonzalo Pablo Castellani,26808,Argentina,Q3773320,179.0,1987-08-10,38.0,Argentina,stopper,75.0
+1728,Rovérsio Rodrigues de Barros,26842,Brazil,,,,,,,
+1729,Daniel Pacheco Lobato,6620,Spain,Q311947,168.0,1991-01-05,35.0,Spain,forward,65.0
+1730,Pape Maly Diamanka,23855,Senegal,Q2070872,184.0,1990-01-09,36.0,Senegal,midfielder,
+1731,Diego Benito Rey,26846,Spain,Q5274576,,1988-08-25,37.0,Spain,midfielder,
+1732,Aitor Núñez Martín,26847,Spain,,,,,,,
+1733,Abdelkader Mohamed Ghezzal,26844,Algeria,Q307958,183.0,1984-12-05,41.0,France,forward,78.0
+1734,Sergio Leonel Agüero del Castillo,3237,Argentina,Q119562,170.0,1988-06-02,37.0,Argentina,centre-forward,70.0
+1735,David de Gea Quintana,3333,Spain,Q150268,189.0,1990-11-07,35.0,Spain,goalkeeper,76.0
+1736,Tomáš Ujfaluši,19731,Czech Republic,Q221129,183.0,1978-03-24,48.0,Czech Republic,centre-back,78.0
+1737,Elias Mendes Trindade,25435,Brazil,Q510123,173.0,1985-05-16,40.0,Brazil,midfielder,75.0
+1738,Diego Forlán Corazo,26199,Uruguay,,,,,,,
+1739,Álvaro Domínguez Soto,26677,Spain,Q182482,189.0,1989-05-15,36.0,Spain,centre-back,83.0
+1740,Bojan Krkíc Pérez,4913,Spain,,,,,,,
+1741,Gabriel Alejandro Milito,25919,Argentina,Q193221,179.0,1980-09-07,45.0,Argentina,centre-back,78.0
+1742,José Manuel Catalá Mazuecos,26765,Spain,,,,,,,
+1743,José Romero Urtasun,25865,Spain,,,,,,,
+1744,Ricardo López Felipe,25912,Spain,,,,,,,
+1745,Walter Gerardo Pandiani Urquiza,26516,Uruguay,Q316778,184.0,1976-04-27,49.0,Uruguay,forward,81.0
+1746,Krisztián Vadócz,26660,Hungary,,,,,,,
+1747,Jeffren Isaac Suárez Bermúdez,26624,Venezuela (Bolivarian Republic),,,,,,,
+1748,Javier Calleja Revilla,26668,Spain,Q1332523,171.0,1978-05-12,47.0,Spain,midfielder,70.0
+1749,Marcelo Andrés Silva Fernández,16688,Uruguay,Q1754991,185.0,1989-03-21,37.0,Uruguay,defender,
+1750,Juan Jesús Gutiérrez Robles,25883,Spain,,,,,,,
+1751,Santiago Wilmer Acasiete Ariadela,26434,Peru,,,,,,,
+1752,Albert Crusat Domene,26437,Spain,Q459701,165.0,1982-05-13,43.0,Spain,wing half,
+1753,Hernán Darío Bernardello,26651,Argentina,,,,,,,
+1754,Júlio César Clement Baptista,25923,Brazil,Q204895,185.0,1981-10-01,44.0,Brazil,forward,86.0
+1755,Hélder Miguel Do Rosario Data,26224,Portugal,,,,,,,
+1756,Manuel Gaspar Haro,26233,Spain,Q1333599,176.0,1981-02-03,45.0,Spain,full-back,
+1757,Fernando Miguel Fernández Escribano,26249,Spain,,,,,,,
+1758,Francesc Arnau,26460,Spain,Q204640,185.0,1975-03-23,51.0,Spain,goalkeeper,
+1759,Quincy Owusu-Abeyie,26730,Ghana,Q313140,180.0,1986-04-15,40.0,Ghana,forward,74.0
+1760,Patrick Jan Mtiliga,26731,Denmark,Q367941,171.0,1981-01-28,45.0,Kingdom of Denmark,full-back,
+1761,Kris Stadsgaard,351523,Denmark,Q923200,185.0,1985-08-01,40.0,Kingdom of Denmark,centre-back,78.0
+1762,David García De La Cruz,26138,Spain,,,,,,,
+1763,Iván Daniel Alonso Vallejo,26243,Uruguay,,,,,,,
+1764,Pablo Daniel Osvaldo,26609,Italy,Q313927,183.0,1986-01-12,40.0,Argentina,forward,81.0
+1765,Jesús Alberto Dátolo,26729,Argentina,Q438684,177.0,1984-05-19,41.0,Argentina,midfielder,67.0
+1766,Markus Rosenberg,16567,Sweden,Q107796,184.0,1982-09-27,43.0,Sweden,forward,81.0
+1767,Henrique Adriano Buss,25358,Brazil,Q313576,185.0,1986-10-14,39.0,Brazil,defender,73.0
+1768,Ariel Gerardo Nahuelpán Osten,26743,Argentina,,,,,,,
+1769,Kennedy Bakircioglu,26746,Sweden,Q442178,181.0,1980-11-02,45.0,Sweden,midfielder,77.0
+1770,Julián Luque Conde,26756,Spain,,,,,,,
+1771,Ángel Javier Arizmendi de Lucas,26217,Spain,,,,,,,
+1772,Pablo César Pintos Cabral,26722,Uruguay,Q2045253,182.0,1987-07-01,38.0,Uruguay,defender,78.0
+1773,Ivan Marcano Sierra,13157,Spain,,,,,,,
+1774,Adrián Sardinero Corpa,20001,Spain,,,,,,,
+1775,Ricardo Alberto Silveira de Carvalho,10805,Portugal,Q570811,182.0,1978-05-18,47.0,Portugal,centre-back,79.0
+1776,Emmanuel Adebayor,26699,Togo,Q386876,191.0,1984-02-26,42.0,Togo,forward,84.0
+1777,David Sergio Trézéguet,19311,France,,,,,,,
+1778,Royston Ricky Drenthe,21568,Netherlands,Q287815,168.0,1987-04-08,39.0,Kingdom of the Netherlands,goalkeeper,67.0
+1779,Juan Jesús Calatayud Sánchez,25870,Spain,Q519569,191.0,1979-12-21,46.0,Spain,goalkeeper,
+1780,Francisco Peña Romero,25900,Spain,Q1442163,170.0,1978-07-25,47.0,Spain,defender,
+1781,Javier García Portillo,26050,Spain,,,,,,,
+1782,Francisco Joaquín Pérez Rufete,26167,Spain,,,,,,,
+1783,Jorge López Marco,26744,Spain,Q2534721,177.0,1978-11-23,47.0,Spain,forward,
+1784,Sendoa Aguirre Basterretxea,26745,Spain,Q2533069,176.0,1975-12-31,50.0,Spain,forward,75.0
+1785,Noé Elias Pamarot,26747,France,,,,,,,
+1786,Abraham Paz Cruz,26749,Spain,Q480542,178.0,1979-06-29,46.0,Spain,defender,
+1787,Tiago Filipe Figueiras Gomes,26750,Portugal,Q973230,178.0,1985-08-18,40.0,Portugal,midfielder,71.0
+1788,Matías Lionel Fritzler,26751,Argentina,Q543271,188.0,1986-08-23,39.0,Argentina,midfielder,73.0
+1789,Piet Velthuizen,93981,Netherlands,Q715811,189.0,1986-11-03,39.0,Kingdom of the Netherlands,goalkeeper,
+1790,Cristian Hidalgo González,26212,Spain,,,,,,,
+1791,Mohamed Adama Sarr,26757,Senegal,Q438593,184.0,1983-12-23,42.0,Senegal,defender,84.0
+1792,Bruno Saltor Grau,3095,Spain,Q440431,181.0,1980-10-01,45.0,Spain,defender,76.0
+1793,Juan Manuel Mata García,3294,Spain,,,,,,,
+1794,Manuel Henrique Tavares Fernandes,6350,Portugal,Q297845,176.0,1986-02-05,40.0,Portugal,wing half,75.0
+1795,Vicente Rodríguez Guillén,20124,Spain,,,,,,,
+1796,César Sánchez Domínguez,25917,Spain,,,,,,,
+1797,Diego Rivas Gutiérrez,26060,Spain,,,,,,,
+1798,Jeffrey Sarpong,26763,Netherlands,Q722299,176.0,1988-08-03,37.0,Kingdom of the Netherlands,midfielder,
+1799,David López Moreno,25869,Spain,,,,,,,
+1800,Igor Gabilondo del Campo,26034,Spain,Q432303,185.0,1979-02-10,47.0,Spain,winger,
+1801,Koikili Lertxundi Del Campo,26479,Spain,Q719636,168.0,1980-12-23,45.0,Spain,full-back,
+1802,Ángel Dealbert Ibáñez,26645,Spain,,,,,,,
+1803,Marius Stankevičius,26681,Lithuania,Q380021,190.0,1981-07-15,44.0,Lithuania,defender,85.0
+1804,Rubén Miño Peralta,47490,Spain,,,,,,,
+1805,Jonathan de Guzmán,8675,Netherlands,Q372470,173.0,1987-09-13,38.0,Kingdom of the Netherlands,midfielder,70.0
+1806,Sergio Tejera Rodríguez,24073,Spain,Q2706690,181.0,1990-05-28,35.0,Spain,midfielder,76.0
+1807,Enrique Corrales Martín,25860,Spain,,,,,,,
+1808,Pierre Achille Webó Kouamo,25876,Cameroon,Q314740,181.0,1982-01-20,44.0,Spain,forward,80.0
+1809,Kevin Martín García Martínez,26673,Spain,,,,,,,
+1810,Akihiro Ienaga,26735,Japan,Q418121,173.0,1986-06-13,39.0,Japan,wing half,70.0
+1811,Antonio Tomás González,26064,Spain,,,,,,,
+1812,Saúl Fernández García,26175,Spain,,,,,,,
+1813,Pablo Álvarez Nuñez,26487,Spain,,,,,,,
+1814,Knut Olav Rindarøy,26732,Norway,Q2713456,177.0,1985-07-17,40.0,Norway,defender,71.0
+1815,Yves Hadley Desmarets,26733,Haiti,Q1364245,178.0,1979-07-19,46.0,France,midfielder,72.0
+1816,Pablo Pinillos Caro,25889,Spain,Q939434,173.0,1974-07-09,51.0,Spain,defender,71.0
+1817,Fabio Coltorti,26488,Switzerland,Q458024,197.0,1980-12-03,45.0,Switzerland,goalkeeper,95.0
+1818,Mohamed Gasana Tchité,26490,Belgium,,,,,,,
+1819,Diego Ángel Capel Trinidad,24683,Spain,,,,,,,
+1820,Alain Didier Zokora-Déguy,26682,Côte d'Ivoire,Q207397,179.0,1980-12-14,45.0,Ivory Coast,midfielder,72.0
+1821,Edson Ramos de Silva,26674,Brazil,,,,,,,
+1822,Fernando Ezequiel Cavenaghi,26676,Argentina,Q317223,181.0,1983-09-21,42.0,Argentina,forward,78.0
+1823,Ernesto Galán Iñigo,24147,Spain,,,,,,,
+1824,Isaías Sánchez Cortés,26666,Australia,Q10514669,173.0,1987-02-09,39.0,Spain,midfielder,
+1825,Francisco Sebastián Nadal Martorell,25927,Spain,Q671234,178.0,1986-06-27,39.0,Spain,wing half,
+1826,Victoriano Rivas Álvaro,26131,Spain,,,,,,,
+1827,Gorka Larrea García,26724,Spain,Q954926,184.0,1984-04-07,42.0,Spain,defensive midfielder,78.0
+1828,Mahamadou Diarra,26021,Mali,Q219768,183.0,1981-05-18,44.0,Mali,midfielder,76.0
+1829,Jerzy Dudek,34390,Poland,Q190651,187.0,1973-03-23,53.0,Poland,goalkeeper,
+1830,José Edmílson Gomes de Moraes,25910,Brazil,Q296058,185.0,1976-07-10,49.0,Brazil,defender,75.0
+1831,Carlos Andrés Diogo Enseñat,26022,Uruguay,Q358309,185.0,1983-07-18,42.0,Italy,defender,79.0
+1832,Jorge López Montaña,26025,Spain,Q528557,182.0,1978-09-19,47.0,Spain,midfielder,
+1833,Florent Sinama-Pongolle,26083,France,Q342690,176.0,1984-10-20,41.0,France,forward,71.0
+1834,Antonio Baltasar Doblas Santana,26484,Spain,Q27755,184.0,1980-08-05,45.0,Spain,goalkeeper,78.0
+1835,Jirí Jarošík,26655,Czech Republic,,,,,,,
+1836,Marco Jhonnier Pérez Murillo,26714,Colombia,Q955239,185.0,1990-09-18,35.0,Colombia,forward,
+1837,Guirane N''Daw,26760,Senegal,,,,,,,
+1838,Nicolás Santiago Bertolo,26762,Argentina,Q1191497,179.0,1986-01-02,40.0,Argentina,wing half,75.0
+1839,Pablo Alcolea Guerrero,41725,Spain,Q7121557,,1989-03-23,37.0,Spain,goalkeeper,
+1840,Kevin Lacruz Coscolín,351525,Spain,,,,,,,
+1841,Luca Cigarini,8420,Italy,Q440031,175.0,1986-06-20,39.0,Italy,midfielder,72.0
+1842,Daniel Jiménez López,23795,Spain,Q21812545,,1996-03-18,30.0,Mexico,midfielder,
+1843,Luís Fabiano Clemente,25943,Brazil,,,,,,,
+1844,Renato Dirnei Florencio,26015,Brazil,Q29097,177.0,1979-05-15,46.0,Italy,wing half,71.0
+1845,Abdoulay Konko,26683,France,Q308391,182.0,1984-03-09,42.0,France,full-back,77.0
+1846,Mouhamadou Dabo,26752,France,Q13304,176.0,1986-11-28,39.0,France,full-back,73.0
+1847,Matteo Contini,26654,Italy,Q721619,184.0,1980-04-16,46.0,Italy,defender,83.0
+1848,Saïd Boutahar,26713,Netherlands,Q979290,172.0,1982-08-12,43.0,Kingdom of the Netherlands,midfielder,72.0
+1849,Braulio Nóbrega Rodríguez,26716,Spain,Q531137,177.0,1985-09-18,40.0,Spain,forward,
+1850,José Leonardo Ulloa,3671,Argentina,Q973035,185.0,1986-07-26,39.0,Argentina,forward,80.0
+1851,Diego Hernán Váleri,13437,Argentina,,,,,,,
+1852,José Ortiz Bernal,26433,Spain,,,,,,,
+1853,Carlos García Badías,26439,Spain,,,,,,,
+1854,Modeste M''bami,26648,Cameroon,,,,,,,
+1855,Fabián Andrés Vargas Rivera,26766,Colombia,,,,,,,
+1856,Michael Jakobsen,33467,Denmark,Q513904,185.0,1986-01-02,40.0,Kingdom of Denmark,defender,81.0
+1857,Jorge García Torre,25805,Spain,,,,,,,
+1858,Carmelo José González Jiménez,26229,Spain,Q2421796,180.0,1983-07-09,42.0,Spain,midfielder,70.0
+1859,Rafael Sastre Reus,26244,Spain,Q3049409,,1975-10-20,50.0,Spain,defender,
+1860,Ignacio Javier Gómez Novo,26702,Spain,,,,,,,
+1861,Gastón Maximiliano Sangoy,351524,Argentina,,,,,,,
+1862,Zlatan Ibrahimović,3672,Sweden,Q46896,195.0,1981-10-03,44.0,Sweden,forward,95.0
+1863,Rafael Márquez Álvarez,5558,Mexico,,,,,,,
+1864,Thierry Henry,15516,France,Q45901,188.0,1977-08-17,48.0,France,forward,83.0
+1865,Ivica Dragutinovic,25952,Serbia,Q310615,184.0,1975-11-13,50.0,Serbia,defender,83.0
+1866,Aldo Pedro Duscher,26489,Argentina,Q84381,174.0,1979-03-22,47.0,Argentina,midfielder,72.0
+1867,Gnégnéri Yaya Touré,3087,Côte d'Ivoire,Q184277,189.0,1983-05-13,42.0,United Kingdom,midfielder,90.0
+1868,Dmytro Chygrynskiy,18608,Ukraine,Q298140,189.0,1986-11-07,39.0,Ukraine,centre-back,90.0
+1869,Jose Antonio Culebras Arenas,25888,Spain,Q3776548,,1979-01-16,47.0,Spain,defender,
+1870,Luis García Conde,26059,Spain,,,,,,,
+1871,"Daniel Armand N""Gom Komé",26126,Cameroon,,,,,,,
+1872,Román Fernando Martínez,26242,Argentina,,,,,,,
+1873,Ricardo Pérez de Zabalza Goytre,26505,Spain,,,,,,,
+1874,Ricardo León Brito,26626,Spain,,,,,,,
+1875,Sergio Aragoneses Almeida,26627,Spain,Q3298061,182.0,1977-02-01,49.0,Spain,goalkeeper,80.0
+1876,Mikel Alonso Olano,26629,Spain,Q356439,183.0,1980-05-17,45.0,Spain,defensive midfielder,
+1877,Pablo Sicilia Roig,26630,Spain,Q2437171,182.0,1981-09-10,44.0,Spain,defender,
+1878,Ezequiel Luna,26631,Argentina,Q4118273,178.0,1986-11-19,39.0,Argentina,defender,
+1879,Juan Luis Hens Lorite,26632,Spain,Q3776542,178.0,1984-02-07,42.0,Spain,midfielder,
+1880,Héctor Sánchez Cabrera,26687,Spain,,,,,,,
+1881,Manuel Martínez Lara,26688,Spain,,,,,,,
+1882,Sébastien Squillaci,26481,France,Q1942,185.0,1980-08-11,45.0,France,centre-back,79.0
+1883,César Azpilicueta Tanco,3957,Spain,Q294806,178.0,1989-08-28,36.0,Spain,centre-back,76.0
+1884,Jorge Galán Anaut,26710,Spain,,,,,,,
+1885,Roberto López Esquiroz,26711,Spain,,,,,,,
+1886,Ewerthon Henrique de Souza,25916,Brazil,Q528590,175.0,1981-06-10,44.0,Brazil,forward,65.0
+1887,Rubén Martín Pulido,26062,Spain,Q658566,189.0,1979-02-02,47.0,Spain,centre-back,
+1888,Francisco Pavón Barahona,26215,Spain,Q367022,188.0,1980-01-09,46.0,Spain,defender,77.0
+1889,Jermaine Pennant,26649,England,Q296416,175.0,1983-01-15,43.0,United Kingdom,wing half,67.0
+1890,"Steve Franck Songo""o",26706,Cameroon,,,,,,,
+1891,Juan Pablo Carrizo,26707,Argentina,Q336870,189.0,1984-05-06,41.0,Argentina,goalkeeper,88.0
+1892,Pablo Amo Aguado,26708,Spain,Q563105,186.0,1978-01-15,48.0,Spain,centre-back,
+1893,Ariel Miguel Santiago Ibagaza,26121,Spain,Q314445,166.0,1976-10-27,49.0,Spain,midfielder,70.0
+1894,David Fuster Torrijos,26697,Spain,Q438677,178.0,1982-02-03,44.0,Spain,midfielder,71.0
+1895,Fabio Celestini,20321,Switzerland,Q443937,183.0,1975-10-31,50.0,Switzerland,midfielder,74.0
+1896,Óscar Alfredo Ustari,26658,Argentina,,,,,,,
+1897,Carlos Bellvís Llorens,23793,Spain,Q603074,169.0,1985-04-24,40.0,Spain,defender,
+1898,Telmário de Araújo Sacramento,26625,Brazil,,,,,,,
+1899,Rodolfo Bodipo Díaz,25987,Equatorial Guinea,Q350232,181.0,1977-10-25,48.0,Spain,forward,76.0
+1900,Sergio González Soriano,26206,Spain,Q145808,182.0,1976-11-10,49.0,Spain,midfielder,
+1901,Miguel Ángel Ferrer Martínez,26493,Spain,,,,,,,
+1902,Juliano Roberto Antonello,26622,Brazil,Q2072759,,1979-11-19,46.0,Brazil,midfielder,
+1903,Antoni Lluis Adrover Colom,25989,Spain,Q597705,,1982-06-14,43.0,Spain,midfielder,
+1904,Fernando Varela Ramos,26201,Spain,Q937192,180.0,1979-09-01,46.0,Spain,defender,78.0
+1905,Julio Álvarez Mosquera,26663,Venezuela (Bolivarian Republic),Q1371567,180.0,1981-05-01,44.0,Spain,midfielder,71.0
+1906,Alhassane Keita,26704,Guinea,Q726407,169.0,1983-06-26,42.0,Guinea,forward,67.0
+1907,José Miguel González Rey,26705,Spain,Q358214,183.0,1979-11-15,46.0,Spain,defender,80.0
+1908,Felipe Mattioni Rohde,26758,Brazil,Q337639,180.0,1988-10-15,37.0,Brazil,full-back,75.0
+1909,César Arzo Amposta,25848,Spain,Q180769,186.0,1986-01-21,40.0,Spain,midfielder,72.0
+1910,Jonathan Sesma González,25955,Spain,Q777755,175.0,1978-11-14,47.0,Spain,wing half,
+1911,Héctor Font Romero,26000,Spain,Q304173,170.0,1984-06-15,41.0,Spain,midfielder,67.0
+1912,Luis Prieto Zalbidegoitia,26085,Spain,Q535798,181.0,1979-02-19,47.0,Spain,centre-back,76.0
+1913,Alberto Marcos Rey,26188,Spain,Q562646,173.0,1974-02-15,52.0,Spain,full-back,
+1914,Vítor Hugo Gomes Passos,26600,Portugal,,,,,,,
+1915,Justo Wilmar Villar Viveros,26601,Paraguay,Q217095,180.0,1977-06-30,48.0,Paraguay,goalkeeper,80.0
+1916,Jacobo Sanz Ovejero,26691,Spain,Q2267771,196.0,1983-07-10,42.0,Spain,goalkeeper,90.0
+1917,Guilherme Oliveira Santos,26650,Brazil,Q937218,177.0,1988-02-05,38.0,Brazil,full-back,70.0
+1918,Miguel Ángel Nieto de la Calle,26709,Spain,,,,,,,
+1919,Raúl González Blanco,15607,Spain,Q11576,178.0,1977-06-27,48.0,Spain,forward,68.0
+1920,José Maria Gutiérrez Hernández,25924,Spain,,,,,,,
+1921,David Josué Jiménez Silva,3064,Spain,Q161069,170.0,1986-01-08,40.0,Spain,wing half,67.0
+1922,Rubén Baraja Vegas,20129,Spain,,,,,,,
+1923,Nikola Žigić,26074,Serbia,,,,,,,
+1924,Marcos García Barreno,7669,Spain,Q719101,176.0,1987-03-21,39.0,Spain,midfielder,73.0
+1925,Néstor Fabián Canobbio Bentaberry,25980,Uruguay,,,,,,,
+1926,Nivaldo Batista Santana,26599,Brazil,Q781712,187.0,1980-06-23,45.0,Brazil,defender,
+1927,Carlos Lázaro Vallejo,26602,Spain,,,,,,,
+1928,Sergio Matabuena Delgado,26255,Spain,Q1388599,,1979-02-12,47.0,Spain,midfielder,
+1929,Luis Morán Sánchez,26635,Spain,,,,,,,
+1930,Cristian Portilla Rodríguez,26637,Spain,Q3002858,180.0,1988-08-28,37.0,Spain,midfielder,
+1931,Grégory Arnolin,26639,Martinique,Q2707013,187.0,1980-11-10,45.0,France,defender,89.0
+1932,Fernando Martín Forestieri,9558,Italy,Q10709,173.0,1990-01-15,36.0,Argentina,forward,70.0
+1933,Albert Luque Martos,20518,Spain,Q311372,183.0,1978-03-11,48.0,Spain,midfielder,80.0
+1934,Ibán Javier Cuadrado Alonso,26232,Spain,,,,,,,
+1935,Nabil Baha,26670,Morocco,Q1996694,183.0,1981-08-12,44.0,Morocco,forward,76.0
+1936,Victor Obinna Nsofor,26678,Nigeria,,,,,,,
+1937,Manuel Torres Caturla,26679,Spain,Q685183,186.0,1989-08-14,36.0,Spain,defender,76.0
+1938,Renan Brito Soares,26397,Brazil,Q371215,187.0,1985-01-24,41.0,Brazil,goalkeeper,82.0
+1939,Emilio José Viqueira Moure,26399,Spain,,,,,,,
+1940,Matías Gustavo Alustiza,26604,Argentina,,,,,,,
+1941,Vicente Moreno Peris,26606,Spain,Q3321444,188.0,1974-10-26,51.0,Spain,midfielder,81.0
+1942,Carlos Calvo Sobrado,26608,Spain,Q2458618,175.0,1985-09-18,40.0,Spain,wing half,71.0
+1943,Leandro Andrés Gioda,26610,Argentina,,,,,,,
+1944,David Prieto Gálvez,26614,Spain,Q556025,185.0,1983-01-02,43.0,Spain,defender,
+1945,Sidi Yaya Keita,26616,Mali,Q2726936,177.0,1985-03-20,41.0,Mali,midfielder,
+1946,José María Giménez Pérez,147334,Spain,Q3311029,187.0,1980-04-25,45.0,Spain,goalkeeper,
+1947,Juan Luis Fernández Redondo,147335,Spain,Q3497229,177.0,1977-01-16,49.0,Spain,defender,
+1948,Miguel Ángel Carrilero González,147336,Spain,Q3772848,,1977-08-03,48.0,Spain,forward,
+1949,Kepa Blanco Gonzalez,25942,Spain,Q562731,186.0,1984-01-13,42.0,Spain,centre-forward,83.0
+1950,Francisco Jiménez Tejada,23929,Spain,Q350466,188.0,1986-06-26,39.0,Spain,forward,
+1951,Oriol Lozano Farrán,26067,Spain,,,,,,,
+1952,Óscar Serrano Rodriguez,26137,Spain,,,,,,,
+1953,Luis Javier García Sanz,26391,Spain,,,,,,,
+1954,Antonio Moral Segura,26598,Spain,Q2351502,177.0,1981-08-29,44.0,Spain,wing half,
+1955,Luis Manuel Villa López,26664,Spain,,,,,,,
+1956,Ben Sahar,26605,Israel,Q342364,181.0,1989-08-10,36.0,Poland,forward,
+1957,Daniel Toribio Gutiérrez,23792,Spain,,,,,,,
+1958,Eduardo Ramos Gómez,23977,Spain,,,,,,,
+1959,Milan Stepanov,26680,Serbia,Q464751,190.0,1983-04-02,43.0,Serbia,defender,85.0
+1960,Francisco Javier López Díaz,147333,Spain,,,,,,,
+1961,Antonio Ramiro Pérez,26720,Spain,Q3334420,,1978-02-02,48.0,Spain,forward,
+1962,Francisco Javier Yeste Navarro,26035,Spain,Q431235,183.0,1979-12-06,46.0,Spain,inside forward,67.0
+1963,Pablo Orbaiz Lesaka,26086,Spain,Q325886,179.0,1979-02-06,47.0,Spain,central midfielder,76.0
+1964,László Sepsi,26597,Romania,,,,,,,
+1965,Mogammat Nasief Morris,26642,South Africa,Q449589,178.0,1981-04-16,45.0,South Africa,centre-back,
+1966,Pablo Ibáñez Tébar,26117,Spain,,,,,,,
+1967,Maximiliano Rubén Rodríguez,26124,Argentina,,,,,,,
+1968,Cléber Santana Loureiro,26193,Brazil,,,,,,,
+1969,Humberto Andrés Suazo Pontivo,26656,Chile,,,,,,,
+1970,Iñaki Muñoz Oroz,25861,Spain,,,,,,,
+1971,Armando Riveiro de Aguilar Malda,25953,Spain,Q678786,180.0,1971-01-16,55.0,Spain,goalkeeper,
+1972,Adrián López Rodríguez,26218,Spain,,,,,,,
+1973,Iván Santiago Pérez Maceira,26634,Spain,,,,,,,
+1974,Lassad Hassen Nouioui,26636,Tunisia,Q368345,189.0,1986-03-08,40.0,Tunisia,forward,78.0
+1975,Eiður Smári Guðjohnsen,11270,Iceland,,,,,,,
+1976,Aliaksandr Hleb,18882,Belarus,Q188542,185.0,1981-05-01,44.0,Belarus,wing half,74.0
+1977,Samuel Eto''o Fils,19298,Cameroon,,,,,,,
+1978,Wesley Sneijder,4409,Netherlands,Q124086,170.0,1984-06-09,41.0,Kingdom of the Netherlands,midfielder,67.0
+1979,Miguel Ángel Salgado Fernández,15601,Spain,Q216816,174.0,1975-10-22,50.0,Spain,defender,75.0
+1980,Fabio Cannavaro,15775,Italy,Q102027,176.0,1973-09-13,52.0,Italy,centre-back,75.0
+1981,Christoph Metzelder,20014,Germany,Q152984,193.0,1980-11-05,45.0,Germany,centre-back,
+1982,Miguel Palanca Fernández,24275,Spain,,,,,,,
+1983,Johnny Heitinga,19728,Netherlands,Q946457,180.0,1983-11-15,42.0,Kingdom of the Netherlands,centre-back,
+1984,Grégory Coupet,20256,France,Q13488,180.0,1972-12-31,53.0,France,goalkeeper,80.0
+1985,Mariano Andrés Pernía,26057,Spain,Q316992,179.0,1977-05-04,48.0,Spain,defender,81.0
+1986,Miguel Ángel Lozano Ayala,25875,Spain,Q240251,182.0,1978-09-16,47.0,Spain,midfielder,
+1987,Natalio Lorenzo Poquet,26662,Spain,Q2440520,176.0,1984-09-18,41.0,Spain,forward,70.0
+1988,Joseba Garmendia Elorriaga,26101,Spain,Q940684,182.0,1985-10-04,40.0,Spain,inside forward,73.0
+1989,Sylvio Mendes Campos Junior,25854,Brazil,Q312002,173.0,1974-04-12,52.0,Brazil,full-back,66.0
+1990,César González Navas,26044,Spain,,,,,,,
+1991,Peter Luccin,26123,France,Q359034,180.0,1979-04-09,47.0,France,midfielder,
+1992,José Moratón Taeño,26148,Spain,Q1381499,,1979-07-14,46.0,Spain,defender,
+1993,Raúl Miguel Cámara,25706,Spain,,,,,,,
+1994,Iñaki Lafuente Sancha,26084,Spain,Q518991,187.0,1976-01-24,50.0,Spain,goalkeeper,79.0
+1995,Gerard Autet Serrabasa,26250,Spain,Q1394607,,1978-09-08,47.0,Spain,defender,
+1996,Enrique Mateo Montoya,26253,Spain,Q3772134,,1979-12-30,46.0,Spain,midfielder,
+1997,Robert Pirès,19312,France,,,,,,,
+1998,Nihat Kahveci,20101,Turkey,Q284359,175.0,1979-11-23,46.0,Turkey,wing half,71.0
+1999,Matías Ariel Fernández Fernández,26192,Chile,,,,,,,
+2000,Sebastián Eguren Ledesma,26621,Uruguay,,,,,,,
+2001,Bartholomew Owogbalor Ogbeche,26186,Nigeria,Q146716,177.0,1984-10-01,41.0,France,forward,78.0
+2002,Damián Ariel Escudero,26725,Argentina,Q368571,170.0,1987-04-20,39.0,Argentina,midfielder,68.0
+2003,Iñaki Bea Jauregi,26726,Spain,Q1283329,185.0,1978-06-27,47.0,Spain,centre-back,
+2004,Marcos Sebastián Aguirre,26727,Argentina,Q733622,,1984-03-30,42.0,Argentina,wing half,
+2005,Albert Jorquera i Fortiá,40827,Spain,,,,,,,
+2006,Alain Nef,16604,Switzerland,Q668040,191.0,1982-02-06,44.0,Switzerland,defender,84.0
+2007,Rafael Barber Rodríguez,26080,Spain,,,,,,,
+2008,Hipólito Fernández Serrano,26172,Spain,,,,,,,
+2009,Enrique Álvarez San Juan,26174,Spain,,,,,,,
+2010,Ersen Martin,26640,Turkey,Q819597,196.0,1979-05-23,46.0,Turkey,forward,
+2011,Kanga Gauthier Akalé,26641,Côte d'Ivoire,Q47095,177.0,1981-03-07,45.0,France,midfielder,
+2012,Sebastián Ricardo Nayar,26643,Argentina,,,,,,,
+2013,Andrés Lamas Bervejillo,26644,Uruguay,,,,,,,
+2014,Cristian Oscar Maidana,37976,Argentina,Q1140306,181.0,1987-01-24,39.0,Argentina,midfielder,76.0
+2015,Vladimir Stojković,5601,Serbia,Q215460,196.0,1983-07-28,42.0,Serbia,goalkeeper,90.0
+2016,Eugen Polanski,8404,Poland,Q5117,183.0,1986-03-17,40.0,Poland,midfielder,80.0
+2017,Cosmin Marius Contra,17730,Romania,Q296215,180.0,1975-12-15,50.0,Romania,defender,74.0
+2018,Ricardo Alexandre Martins Soares Pereira,19761,Portugal,Q492484,185.0,1976-02-11,50.0,Portugal,goalkeeper,
+2019,Marco Aurélio Brito Dos Prazeres,20023,Turkey,,,,,,,
+2020,Juan Gutiérrez Moreno,20519,Spain,,,,,,,
+2021,Branko Ilič,24511,Slovenia,,,,,,,
+2022,Ricardo de Oliveira,25274,Brazil,Q315079,183.0,1980-05-06,45.0,Brazil,forward,78.0
+2023,Juan Manuel Gómez Sánchez,25885,Spain,,,,,,,
+2024,Mark Dennis González Hoffmann,25908,Chile,,,,,,,
+2025,Juan Alberto Andreu Alvarado,26453,Spain,Q632132,184.0,1984-06-06,41.0,Spain,defender,73.0
+2026,Juan de Dios Prados López,26465,Spain,,,,,,,
+2027,Hugo Mariano Pavone,26466,Argentina,Q718980,176.0,1982-05-27,43.0,Argentina,forward,80.0
+2028,Willian Lanes Lanes de Lima,26468,Brazil,,,,,,,
+2029,Luciano Fabián Monzón,26547,Argentina,Q440097,179.0,1987-04-13,39.0,Argentina,defender,75.0
+2030,Fernando Vega Torres,26548,Spain,Q1371965,177.0,1984-07-03,41.0,Spain,full-back,71.0
+2031,Achille Emaná Edzimbi,26549,Cameroon,,,,,,,
+2032,Emiliano Moretti,7476,Italy,Q313130,185.0,1981-06-11,44.0,Italy,full-back,72.0
+2033,Nuno Ricardo de Oliveira Ribeiro,19760,Portugal,Q29339,173.0,1977-11-11,48.0,Portugal,midfielder,69.0
+2034,Leonardo Neoren Franco,26119,Argentina,Q47503,188.0,1977-05-20,48.0,Italy,goalkeeper,79.0
+2035,José Manuel González Ortiz,26075,Spain,,,,,,,
+2036,Iñaki Goitia Peña,26225,Spain,Q2639092,188.0,1982-03-02,44.0,Spain,goalkeeper,
+2037,Salvador Ballesta Vialcho,26246,Spain,Q703661,186.0,1975-05-22,50.0,Spain,forward,
+2038,Adriano Ferreira Martins,26251,Brazil,Q180885,175.0,1982-01-21,44.0,Brazil,forward,76.0
+2039,Pablo de Barros Paulino,392556,Brazil,Q2638842,176.0,1988-08-03,37.0,Brazil,full-back,
+2040,Pedro Martí Castelló,392557,Spain,,,,,,,
+2041,Anderson Luis de Carvalho,25764,Brazil,Q316836,181.0,1981-07-19,44.0,Spain,wing half,70.0
+2042,Iván De la Peña López,26105,Spain,,,,,,,
+2043,Daniel Jarque Gonzalez,26110,Spain,Q222815,185.0,1983-01-01,43.0,Spain,defender,77.0
+2044,Ángel Martínez Cervera,26160,Spain,,,,,,,
+2045,César Palacios Chocarro,26230,Spain,,,,,,,
+2046,Juan Ramón Cabrero Obrer,26231,Spain,,,,,,,
+2047,Gorka Brit Gallego,26236,Spain,Q3780254,176.0,1978-04-19,48.0,Spain,forward,
+2048,Sergio Boris González Monteagudo,26241,Spain,,,,,,,
+2049,Domingo Nagore Arbizu,26247,Spain,,,,,,,
+2050,Javier Del Pino González,26394,Spain,,,,,,,
+2051,Juan Quero Barraso,26521,Spain,Q3822445,162.0,1984-10-17,41.0,Spain,midfielder,
+2052,Dimas Delgado Morgado,26523,Spain,Q2472002,182.0,1983-02-06,43.0,Spain,midfielder,
+2053,Sergio Ortega González,26524,Spain,,,,,,,
+2054,Asier Goiria Etxebarria,26525,Spain,Q2713245,182.0,1980-09-19,45.0,Spain,centre-forward,77.0
+2055,Aquivaldo Mosquera Romaña,26482,Colombia,Q516126,182.0,1981-06-22,44.0,Colombia,defender,76.0
+2056,Tom De Mul,26483,Belgium,Q350431,178.0,1986-03-04,40.0,Belgium,wing half,
+2057,Klaas-Jan Huntelaar,8060,Netherlands,Q26069,186.0,1983-08-12,42.0,Kingdom of the Netherlands,forward,78.0
+2058,Arjen Robben,8218,Netherlands,Q43913,180.0,1984-01-23,42.0,Kingdom of the Netherlands,attacking midfielder,80.0
+2059,Iván Gabriel Heinze,26176,Argentina,,,,,,,
+2060,Jorge Miguel Dias Gonçalves,26620,Portugal,Q3107051,,1983-10-31,42.0,Portugal,wing half,
+2061,Andreu Guerao Mayoral,26237,Spain,Q503485,179.0,1983-06-17,42.0,Spain,midfielder,65.0
+2062,Francisco José Maldonado Collantes,26240,Spain,,,,,,,
+2063,Sergio Sánchez Sánchez,26245,Spain,,,,,,,
+2064,Mario Martínez Rubio,26235,Spain,,,,,,,
+2065,Juan Carlos,26239,Spain,Q117468508,,2006-11-28,19.0,Spain,,
+2066,Felipe Guréndez Aldanondo,26393,Spain,,,,,,,
+2067,Álvaro Antón Camarero,26395,Spain,,,,,,,
+2068,José María Romero Poyón,25940,Spain,,,,,,,
+2069,Jesús Capitán Prada,26454,Spain,Q556790,182.0,1977-03-26,49.0,Spain,midfielder,75.0
+2070,Arturo García Muñoz,26464,Spain,Q715268,183.0,1981-03-17,45.0,Spain,midfielder,78.0
+2071,Guillermo Luis Franco Farquarson,26198,Mexico,Q176119,182.0,1976-11-03,49.0,Mexico,forward,76.0
+2072,Julián de Guzmán,26214,Canada,,,,,,,
+2073,Ángel Manuel Vivar Dorado,26053,Spain,,,,,,,
+2074,José Antonio García Calvo,26116,Spain,,,,,,,
+2075,Roberto Luis Gaspar de Deus Severo,15656,Portugal,Q482602,185.0,1976-05-03,49.0,Portugal,centre-back,74.0
+2076,Francisco Javier García Guerrero,25968,Spain,Q744110,175.0,1976-10-22,49.0,Spain,forward,
+2077,Antonio Jesús Vázquez Muñoz,26077,Spain,Q602579,182.0,1980-01-18,46.0,Spain,midfielder,
+2078,Aitor Tornavaca Fernández,26078,Spain,,,,,,,
+2079,Iago Bouzón Amodeo,26168,Spain,,,,,,,
+2080,Óscar Sielva Moreno,26603,Spain,,,,,,,
+2081,Jaroslav Plašil,3150,Czech Republic,Q193717,183.0,1982-01-05,44.0,Czech Republic,midfielder,73.0
+2082,Lilian Thuram,15071,France,Q180326,182.0,1972-01-01,54.0,France,centre-back,75.0
+2083,Anderson Luís de Souza,19757,Portugal,Q659634,174.0,1977-08-27,48.0,Portugal,midfielder,73.0
+2084,Oleguer Presas Renom,25873,Spain,Q313682,187.0,1980-02-02,46.0,Spain,defender,82.0
+2085,Marc Crosas Luque,147331,Spain,Q335613,173.0,1988-01-09,38.0,Spain,midfielder,
+2086,Iñaki Descarga Retegi,25894,Spain,Q1381284,174.0,1976-08-25,49.0,Spain,defender,
+2087,Felix Dja Ettien Yohou,25895,Côte d'Ivoire,,,,,,,
+2088,Álvaro Luiz Maior de Aquino,25913,Brazil,,,,,,,
+2089,Sávio Bortolini Pimentel,25915,Brazil,,,,,,,
+2090,David Castedo Escudero,25956,Spain,Q1173951,165.0,1974-01-26,52.0,Spain,defender,65.0
+2091,Laurent Courtois,26178,France,Q668031,175.0,1978-09-11,47.0,France,midfielder,71.0
+2092,Mathieu Berson,26179,France,Q1373206,180.0,1980-02-23,46.0,France,midfielder,
+2093,Vladan Kujović,26180,Serbia,Q731092,185.0,1978-08-23,47.0,Belgium,goalkeeper,81.0
+2094,Rahamat Riga Mustapha,26181,Netherlands,Q459076,179.0,1978-09-11,47.0,Kingdom of the Netherlands,midfielder,67.0
+2095,Marco Storari,26208,Italy,Q240492,187.0,1977-01-07,49.0,Italy,goalkeeper,76.0
+2096,Christian Riganò,26210,Italy,,,,,,,
+2097,Bruno Cirillo,26213,Italy,Q455809,187.0,1977-03-21,49.0,Italy,defender,75.0
+2098,Damiano Tommasi,26430,Italy,Q350271,180.0,1974-05-17,51.0,Italy,midfielder,78.0
+2099,Giorgios Seitaridis,19767,Greece,,,,,,,
+2100,Christian Abbiati,26197,Italy,Q62166,191.0,1977-07-08,48.0,Italy,goalkeeper,92.0
+2101,Fabiano Eler dos Santos,26392,Brazil,,,,,,,
+2102,Ismael Gómez Falcón,147332,Spain,,,,,,,
+2103,Ronaldo de Assis Moreira,25879,Brazil,Q39444,182.0,1980-03-21,46.0,Spain,winger,
+2104,Gianluca Zambrotta,15774,Italy,Q182907,181.0,1977-02-19,49.0,Italy,full-back,76.0
+2105,Santiago Ezquerro Marín,25949,Spain,,,,,,,
+2106,Ander Murillo García,26030,Spain,Q490540,184.0,1983-07-26,42.0,Spain,centre-back,76.0
+2107,Unai Expósito Medina,26032,Spain,Q704556,175.0,1980-01-23,46.0,Spain,full-back,70.0
+2108,David Cuéllar Tainta,26045,Spain,Q1174129,170.0,1979-11-01,46.0,Spain,winger,63.0
+2109,Ion Vélez Martínez,26477,Spain,,,,,,,
+2110,Roberto Martínez Rípodas,26478,Spain,,,,,,,
+2111,José Manuel Serrano Arenas,26177,Spain,Q360543,,1981-03-17,45.0,Spain,defender,
+2112,Luis Manuel Rubiales Béjar,26426,Spain,Q733637,180.0,1977-08-23,48.0,Spain,defender,
+2113,Armando Lozano Sánchez,392553,Spain,Q678578,186.0,1984-12-16,41.0,Spain,centre-back,
+2114,José Manuel Rueda Sampedro,26506,Spain,,,,,,,
+2115,Rafael Romero Serrano,26507,Spain,Q2132272,,1986-02-22,40.0,Spain,defender,
+2116,Jofre González Mateu,25890,Spain,,,,,,,
+2117,Rosinei Adolfo,26504,Brazil,Q1606666,170.0,1983-05-03,42.0,Brazil,midfielder,63.0
+2118,Daniel Aquino Pintos,26508,Spain,Q2450198,174.0,1990-07-27,35.0,Spain,wing half,
+2119,Stéphane Jean François Pignol,26509,France,,,,,,,
+2120,David Gutiérrez de Coz,26510,Spain,,,,,,,
+2121,Álvaro Mejía Pérez,26512,Spain,Q251071,184.0,1982-01-18,44.0,Spain,full-back,71.0
+2122,Juan Cruz Ochoa López,26513,Spain,,,,,,,
+2123,Alejandro Marañón Pérez,26514,Spain,,,,,,,
+2124,Íñigo Vélez De Mendizábal Fernández De García,26515,Spain,,,,,,,
+2125,Héctor Fabián Carini Hernández,392555,Uruguay,,,,,,,
+2126,Ebi Smolarek,20073,Poland,Q245295,178.0,1981-01-09,45.0,Poland,wing half,
+2127,Luis Fernández Gutiérrez,26069,Spain,,,,,,,
+2128,Iván Bolado Palacios,26491,International,,,,,,,
+2129,Diego Alberto Milito,19294,Argentina,Q76089,183.0,1979-06-12,46.0,Argentina,forward,78.0
+2130,Jesús María Herrero Gómez,24193,Spain,,,,,,,
+2131,Alberto Zapater Arjol,24520,Spain,Q381242,182.0,1985-06-13,40.0,Spain,midfielder,80.0
+2132,Pablo César Aimar Giordano,26024,Argentina,Q130215,170.0,1979-11-03,46.0,Argentina,midfielder,65.0
+2133,Matuzalém Francelino da Silva,26220,Brazil,Q381207,175.0,1980-06-10,45.0,Brazil,midfielder,73.0
+2134,Aitor Ocio Carrión,25950,Spain,Q410912,187.0,1976-11-28,49.0,Spain,centre-back,79.0
+2135,Aitor Ramos Leniz,26500,Spain,Q3752054,178.0,1985-06-11,40.0,Spain,forward,
+2136,Rubén de la Red Gutiérrez,20540,Spain,Q212925,186.0,1985-06-05,40.0,Spain,midfielder,79.0
+2137,Roberto Carlos Abbondanzieri,26427,Argentina,Q296961,186.0,1972-08-19,53.0,Italy,goalkeeper,88.0
+2138,Lucas Matías Licht,26497,Argentina,,,,,,,
+2139,Francisco David Sousa Franquelo,26498,Spain,Q362418,174.0,1980-02-03,46.0,Spain,midfielder,
+2140,Jon Dahl Tomasson,15526,Denmark,Q203657,182.0,1976-08-29,49.0,Kingdom of Denmark,forward,72.0
+2141,Mario Sebastián Viera Galain,25936,Uruguay,,,,,,,
+2142,Pascal Cygan,26194,France,Q180276,192.0,1974-04-29,51.0,France,defender,87.0
+2143,Fabricio Fabio Fuentes,26196,Argentina,Q562690,182.0,1976-10-13,49.0,Argentina,defender,81.0
+2144,Fabricio Coloccini,26207,Argentina,Q215831,183.0,1982-01-22,44.0,Argentina,full-back,79.0
+2145,Sebastián Taborda Ramos,26216,Uruguay,Q1376902,189.0,1981-05-22,44.0,Uruguay,forward,
+2146,Pablo Javier Zabaleta Girod,3052,Argentina,Q244790,176.0,1985-01-16,41.0,Argentina,full-back,76.0
+2147,Albert Riera Ortega,26159,Spain,Q215435,188.0,1982-04-15,44.0,Slovenia,defender,80.0
+2148,Milan Smiljanić,26166,Serbia,Q358699,183.0,1986-11-19,39.0,Serbia,midfielder,74.0
+2149,Mohamed El Yaagoubi,25864,Morocco,Q635212,170.0,1977-09-12,48.0,Morocco,midfielder,
+2150,Jonatan Soriano Casas,26158,Spain,Q371812,180.0,1985-09-24,40.0,Spain,forward,72.0
+2151,Clemente Juan Rodríguez,26161,Argentina,Q310727,167.0,1981-07-31,44.0,Argentina,centre-back,66.0
+2152,Felipe Melo de Carvalho,25430,Brazil,Q204450,183.0,1983-06-26,42.0,Brazil,defensive midfielder,80.0
+2153,Aitor López Rekarte,26431,Spain,,,,,,,
+2154,César Cruchaga Lasa,25867,Spain,Q641946,184.0,1974-01-26,52.0,Spain,centre-back,
+2155,Martín Mauricio Astudillo,26517,Argentina,,,,,,,
+2156,Ludovic Butelle,4547,France,Q445709,188.0,1983-04-03,43.0,France,goalkeeper,84.0
+2157,José Alejandro Suárez Martín,25887,Spain,,,,,,,
+2158,Óscar Sánchez Fuentes,26184,Spain,,,,,,,
+2159,Víctor Manuel Fernández Gutiérrez,26185,Spain,,,,,,,
+2160,Alberto López Fernández,26187,Spain,Q1381315,182.0,1969-05-20,56.0,Spain,goalkeeper,80.0
+2161,Luís Eduardo Schmidt,26456,Brazil,,,,,,,
+2162,Leandro Daniel Somoza,26467,Argentina,Q720572,185.0,1981-01-26,45.0,Argentina,midfielder,78.0
+2163,Marko Babić,26469,Croatia,Q318281,186.0,1981-01-21,45.0,Croatia,full-back,74.0
+2164,Juan Pablo Caffa,33804,Argentina,Q1357106,183.0,1984-09-30,41.0,Argentina,midfielder,73.0
+2165,Francisco Javier Muñoz Llompart,392554,Spain,Q301390,175.0,1980-09-05,45.0,Spain,midfielder,
+2166,Angelos Basinas,19771,Greece,Q221142,178.0,1976-01-03,50.0,Greece,midfielder,
+2167,Daniel González Güiza,20132,Spain,Q19041,180.0,1980-08-17,45.0,Spain,forward,80.0
+2168,Juan Fernando Arango Sáenz,25995,Venezuela (Bolivarian Republic),Q313143,180.0,1980-05-16,45.0,Spain,midfielder,75.0
+2169,Héctor Berenguel del Piño,26200,Spain,,,,,,,
+2170,Christian Bjørnshøj Poulsen,20150,Denmark,Q204141,182.0,1980-02-28,46.0,Kingdom of Denmark,midfielder,76.0
+2171,Khalid Boulahrouz,20267,Netherlands,Q191848,183.0,1981-12-28,44.0,Kingdom of the Netherlands,centre-back,
+2172,Alexander Kerzhakov,20368,Russia,Q201866,176.0,1982-11-27,43.0,Russia,forward,76.0
+2173,Stefano Sorrentino,7055,Italy,Q519664,186.0,1979-03-28,47.0,Italy,goalkeeper,86.0
+2174,Laurențiu Dumitru Roșu,17726,Romania,Q539694,174.0,1975-10-26,50.0,Romania,midfielder,
+2175,Silvestre Manuel Gonçalves Varela,20136,Portugal,Q276402,180.0,1985-02-02,41.0,Portugal,wing half,74.0
+2176,José María Calvo,26042,Argentina,,,,,,,
+2177,Daniel Bautista Pina,26076,Spain,Q743856,,1981-02-25,45.0,Spain,defender,
+2178,José Zahinos,26501,Spain,,,,,,,
+2179,Jordi López Felpeto,25958,Spain,Q1703728,182.0,1981-02-28,45.0,Spain,midfielder,
+2180,Albert Celades López,25909,Spain,,,,,,,
+2181,Roberto Fabián Ayala,26016,Argentina,,,,,,,
+2182,Javier López Vallejo,26079,Spain,,,,,,,
+2183,Víctor Vázquez Solsona,12772,Spain,Q584357,178.0,1987-01-20,39.0,Spain,midfielder,74.0
+2184,Gérard López Segú,19704,Spain,,,,,,,
+2185,Eduardo Moya Castillo,26173,Spain,Q996586,185.0,1981-01-03,45.0,Spain,defender,78.0
+2186,Róbson de Souza,25930,Brazil,,,,,,,
+2187,Miguel Ángel Angulo Valderrey,26011,Spain,Q313308,180.0,1977-06-23,48.0,Spain,midfielder,74.0
+2188,Eduardo César Daude Gaspar,26014,Brazil,Q314750,185.0,1978-05-16,47.0,Portugal,midfielder,
+2189,Timo Hildebrand,26219,Germany,Q57142,186.0,1979-04-05,47.0,Germany,goalkeeper,79.0
+2190,Marco Antonio Simoes Caneira,26223,Portugal,Q343997,177.0,1979-02-09,47.0,Portugal,defender,72.0
+2191,Iván Helguera Bujía,15584,Spain,,,,,,,
+2192,José Santiago Cañizares Ruíz,19579,Spain,,,,,,,
+2193,Fernando Morientes Sánchez,20130,Spain,Q45567,186.0,1976-04-05,50.0,Spain,forward,79.0
+2194,Martin Petrov,19888,Bulgaria,Q206644,179.0,1979-01-15,47.0,Bulgaria,wing half,76.0
+2195,Luciano Martín Galletti,26122,Argentina,Q354366,179.0,1980-04-09,46.0,Argentina,wing half,72.0
+2196,Thiago Motta,4325,Italy,Q191885,187.0,1982-08-28,43.0,Italy,midfielder,83.0
+2197,Giovanni van Bronckhorst,17797,Netherlands,Q173360,179.0,1975-02-05,51.0,Kingdom of the Netherlands,full-back,77.0
+2198,Andrés Nicolás D''Alessandro,25410,Argentina,,,,,,,
+2199,Gustavo Nery De Sá Da Silva,26499,Brazil,,,,,,,
+2200,Ludovic Giuly,25878,France,Q219771,164.0,1976-07-10,49.0,France,wing half,62.0
+2201,Antonio Puerta Pérez,26013,Spain,,,,,,,
+2202,Javier Pedro Saviola Fernández,25962,Argentina,,,,,,,
+2203,Ismael Urzáiz Aranda,15608,Spain,,,,,,,
+2204,Josu Sarriegi Zumárraga,25983,Spain,,,,,,,
+2205,Gaizka Bergara Picaza,26027,Spain,Q16297754,181.0,1986-02-07,40.0,Spain,centre-back,76.0
+2206,Javier Casas Cuevas,26033,Spain,Q940075,181.0,1982-05-09,43.0,Spain,full-back,85.0
+2207,Carlos Merino González,26037,Spain,Q175738,174.0,1980-03-15,46.0,Spain,midfielder,69.0
+2208,Tobias Grahn,26038,Sweden,Q748311,185.0,1980-03-05,46.0,Sweden,midfielder,81.0
+2209,Antonio Pinilla Miranda,26039,Spain,Q604190,176.0,1971-02-25,55.0,Spain,forward,
+2210,Aníbal Samuel Matellán,26040,Argentina,,,,,,,
+2211,Rubén Pérez Chueca,26041,Spain,,,,,,,
+2212,David Generelo Miranda,26043,Spain,Q1174532,180.0,1982-08-11,43.0,Spain,midfielder,78.0
+2213,Marco Antonio Ortega Cotano,26046,Spain,Q11935278,,1976-08-27,49.0,Spain,,
+2214,Ángel Morales Cuerva,26047,Spain,,,,,,,
+2215,Sebastien Chabaud,26048,France,Q3107820,,1977-03-09,49.0,France,midfielder,
+2216,Ismael Marchal Razquín,26049,Spain,Q5818368,174.0,1975-03-21,51.0,Spain,forward,
+2217,Jorge Larena Avellaneda Roig,16626,Spain,Q1703860,181.0,1981-09-29,44.0,Spain,midfielder,74.0
+2218,Matías Emanuel Lequi,25973,Argentina,,,,,,,
+2219,João Fernando Nelo,25988,Brazil,,,,,,,
+2220,Jonathan Aspas Juncal,25999,Spain,Q515288,177.0,1982-02-28,44.0,Spain,midfielder,
+2221,Jesús Perera López,26001,Spain,Q1378341,178.0,1980-04-12,46.0,Spain,forward,
+2222,Gustavo Adrián López Pablo,26003,Argentina,Q372486,174.0,1973-04-13,53.0,Argentina,wing half,73.0
+2223,Pablo Andrés Contreras Fica,26007,Chile,Q323358,181.0,1978-09-11,47.0,Chile,defender,72.0
+2224,George Lucas Coser,26008,Brazil,Q1507803,,1984-02-20,42.0,Brazil,full-back,
+2225,Juliano Haus Belletti,25863,Brazil,Q237561,179.0,1976-06-20,49.0,Brazil,defender,74.0
+2226,Johann Vogel,15381,Switzerland,Q312176,175.0,1977-03-08,49.0,Switzerland,midfielder,71.0
+2227,David Odonkor,20085,Germany,Q160795,172.0,1984-02-21,42.0,Germany,right winger,74.0
+2228,Rafael Augusto Sóbis do Nascimento,25090,Brazil,,,,,,,
+2229,Robert de Pinho de Souza,26450,Brazil,Q704279,181.0,1981-02-27,45.0,Brazil,forward,79.0
+2230,Marcos dos Santos Assunção,26451,Brazil,Q2089039,178.0,1976-07-25,49.0,Brazil,midfielder,74.0
+2231,Pedro Gonzalez Contreras Cano,26452,Spain,,,,,,,
+2232,David Beckham,15661,England,Q10520,183.0,1975-05-02,50.0,United Kingdom,midfielder,75.0
+2233,Roberto Carlos da Silva,25926,Brazil,Q429039,168.0,1973-04-10,53.0,Brazil,full-back,75.0
+2234,Émerson Ferreira da Rosa,26019,Brazil,,,,,,,
+2235,Francisco Javier Vicente Navarro,26017,Spain,Q164073,182.0,1974-02-06,52.0,Spain,midfielder,75.0
+2236,Juan Merino Ruíz,26082,Spain,,,,,,,
+2237,Bertrand Laquait,347421,France,Q44643,183.0,1977-04-13,49.0,France,goalkeeper,80.0
+2238,Jesús María Lacruz Gómez,26088,Spain,Q735967,178.0,1978-04-25,47.0,Spain,centre-back,70.0
+2239,Jônatas Domingos,26463,Brazil,,,,,,,
+2240,Rodolfo Martín Arruabarrena,25935,Argentina,,,,,,,
+2241,José Joaquín Moreno Verdú,25939,Spain,Q125610,178.0,1975-01-06,51.0,Spain,midfielder,73.0
+2242,Alessio Tacchinardi,26416,Italy,Q382193,187.0,1975-07-23,50.0,Italy,midfielder,80.0
+2243,José Enrique de la Sánchez Diaz,26418,Spain,,,,,,,
+2244,Juan José Expósito Ruíz,26066,Spain,,,,,,,
+2245,Víctor Javier Añino Bermúdez,26071,Spain,Q1372644,168.0,1983-09-09,42.0,Spain,midfielder,68.0
+2246,Cristian Osvaldo Álvarez,26072,Argentina,,,,,,,
+2247,Lionel Sebastián Scaloni,26417,Argentina,,,,,,,
+2248,Javier Ángel Balboa Osa,26419,International,Q346708,182.0,1985-05-13,40.0,Spain,wing half,74.0
+2249,José Francisco Molina Jiménez,13817,Spain,,,,,,,
+2250,Diego Camacho Quesada,25886,Spain,Q1220392,187.0,1976-10-03,49.0,Spain,midfielder,
+2251,Gustavo Enrique Reggi,26422,Argentina,Q2273754,186.0,1973-05-28,52.0,Argentina,forward,85.0
+2252,Sylvain N''Diayé,26424,Senegal,,,,,,,
+2253,Narcisse-Olivier Kapo Obou,26428,France,,,,,,,
+2254,José Marcelo Ferreira,347422,Brazil,,,,,,,
+2255,Juan Antonio Tejera Ortiz,347423,Spain,,,,,,,
+2256,Frédéric Fabian William Dehu,347424,France,,,,,,,
+2257,Boško Janković,26442,Serbia,,,,,,,
+2258,Guillermo Ariel Pereyra,26446,Argentina,Q1372018,183.0,1980-02-20,46.0,Argentina,midfielder,
+2259,Jorge Manuel Almeida Gomes de Andrade,19758,Portugal,Q311095,184.0,1978-04-09,48.0,Portugal,defender,74.0
+2260,Fabián Larry Estoyanoff Poggio,25947,Uruguay,,,,,,,
+2261,Darko Kovačević,19346,Serbia,Q313050,187.0,1973-11-18,52.0,Serbia,forward,
+2262,Íñigo Díaz de Cerio Conejero,26443,Spain,,,,,,,
+2263,Víctor Rubén López,26445,Argentina,,,,,,,
+2264,Gaizka Garitano Aguirre,26447,Spain,Q742677,184.0,1975-07-09,50.0,Spain,defensive midfielder,78.0
+2265,Hugo Miguel Ferreira Gomes Viana,26010,Portugal,Q294963,178.0,1983-01-15,43.0,Portugal,midfielder,74.0
+2266,David Aganzo Méndez,26065,Spain,,,,,,,
+2267,Pablo Alfaro Armengot,389354,Spain,Q667399,185.0,1969-04-26,56.0,Spain,defender,
+2268,Juan Manuel Delgado Moreno,26492,Spain,Q2327879,182.0,1977-01-13,49.0,Spain,defender,
+2269,Joseba Andoni Etxeberria Lizardi,15606,Spain,Q310354,178.0,1977-09-05,48.0,Spain,forward,72.0
+2270,Ludovic Delporte,25853,France,Q940553,177.0,1980-02-06,46.0,France,attacking midfielder,
+2271,Carlos Javier Cuéllar Jiménez,26004,Spain,,,,,,,
+2272,Javier Flaño Bezunartea,26006,Spain,Q651989,177.0,1984-08-19,41.0,Spain,full-back,68.0
+2273,Maris Verpakovskis,19866,Latvia,Q217038,173.0,1979-10-15,46.0,Latvia,forward,68.0
+2274,David Belenguer Reverter,26058,Spain,Q942608,182.0,1972-10-17,53.0,Spain,centre-back,76.0
+2275,Mario Gutiérrez Cotelo,26061,Spain,,,,,,,
+2276,Valentín Sergio Pachón Mosquero,26423,Spain,,,,,,,
+2277,Henrik Larsson,15743,Sweden,Q179334,177.0,1971-09-20,54.0,Sweden,forward,74.0
+2278,Mark van Bommel,19296,Netherlands,Q151853,186.0,1977-04-22,49.0,Kingdom of the Netherlands,midfielder,86.0
+2279,Francisco Esteban Granados,25857,Spain,Q7123083,,1981-08-21,44.0,Spain,forward,
+2280,Carlos Manuel de Oliveira Magalhães,25862,Portugal,,,,,,,
+2281,Fernando Sanz Durán,25868,Spain,Q1333238,,1974-01-04,52.0,Spain,centre-back,
+2282,Edgar Patricio De Carvalho Pacheco,25882,Portugal,,,,,,,
+2283,Anderson Silva de França,26457,Brazil,Q491665,,1982-08-28,43.0,Brazil,midfielder,
+2284,Richard Javier Morales Aguirre,26458,Uruguay,Q703748,196.0,1975-02-21,51.0,Uruguay,forward,90.0
+2285,Vicente Valcarce Cano,26459,Spain,Q3825396,,1974-10-19,51.0,Spain,defender,
+2286,Pablo González Couñago,26461,Spain,Q2046138,180.0,1979-08-09,46.0,Spain,forward,
+2287,Gerardo García León,26462,Spain,,,,,,,
+2288,Antonio Hidalgo Morilla,26594,Spain,Q602465,183.0,1979-02-06,47.0,Spain,midfielder,
+2289,Maximiliano Gastón López,8193,Argentina,Q312317,186.0,1984-04-03,42.0,Italy,forward,81.0
+2290,John Aloisi,25856,Australia,Q311216,184.0,1976-02-05,50.0,Italy,forward,83.0
+2291,Rubén Navarro Méndez,25970,Spain,Q1428765,,1978-06-06,47.0,Spain,forward,
+2292,Elton Giovanni Machado,25972,Brazil,Q3823746,,1983-09-03,42.0,Brazil,stopper,
+2293,Franco Costanzo,25974,Argentina,Q471556,187.0,1980-09-05,45.0,Argentina,goalkeeper,84.0
+2294,Blagoy Georgiev,25975,Bulgaria,Q721248,185.0,1981-12-21,44.0,Bulgaria,midfielder,80.0
+2295,Alejandro Castro Fernández,25977,Spain,Q362634,,1979-02-27,47.0,Spain,midfielder,
+2296,Eduardo Alonso Álvarez,25979,Spain,Q2398762,177.0,1974-05-30,51.0,Spain,winger,
+2297,Santiago Carpintero Fernández,25981,Spain,Q429925,,1976-09-28,49.0,Spain,midfielder,
+2298,David Coromina Pararols,25985,Spain,Q977033,,1974-09-09,51.0,Spain,,
+2299,Gabriel Francisco García de la Torre,25925,Spain,Q356399,174.0,1979-02-10,47.0,Spain,midfielder,74.0
+2300,Roger García Junyent,25929,Spain,,,,,,,
+2301,Juan Manuel Peña Montaño,25933,Bolivia,Q554944,178.0,1973-01-17,53.0,Bolivia,centre-back,80.0
+2302,Juan Román Riquelme,25934,Argentina,Q192965,182.0,1978-06-24,47.0,Argentina,midfielder,73.0
+2303,Juan Pablo Sorín,25938,Argentina,Q220746,171.0,1976-05-05,49.0,Argentina,full-back,68.0
+2304,Luciano Gabriel Figueroa Herrera,25941,Argentina,Q503165,183.0,1981-05-19,44.0,Argentina,forward,72.0
+2305,Diego Rodolfo Placente,25976,Argentina,Q346402,175.0,1977-04-24,48.0,Argentina,full-back,71.0
+2306,Antonio Núñez Tena,25982,Spain,,,,,,,
+2307,Diego Tardelli Martins,25254,Brazil,Q905206,179.0,1985-05-10,40.0,Italy,forward,72.0
+2308,Daniel Martín Alexandre,26485,Spain,Q655588,181.0,1981-09-16,44.0,Spain,forward,75.0
+2309,Oscar López Hernández,26486,Spain,,,,,,,
+2310,Gheorghe Craioveanu,26054,Romania,Q719622,182.0,1968-02-14,58.0,Romania,forward,
+2311,David García Cubillo,26056,Spain,,,,,,,
+2312,Didier Domi,24797,France,Q927760,179.0,1978-05-02,47.0,France,full-back,
+2313,Fredson Câmara Pereira,26104,Brazil,,,,,,,
+2314,Armando Miguel Correia de Sa,26106,Mozambique,,,,,,,
+2315,Eduardo Nascimento Costa,26108,Brazil,Q248016,182.0,1982-09-23,43.0,Brazil,midfielder,
+2316,Hoalid Regragui,26143,Morocco,Q3052128,178.0,1975-09-23,50.0,France,defender,66.0
+2317,Francisco Borja Enrique Ayesa,26145,Spain,Q729167,,1974-01-20,52.0,Spain,defender,
+2318,Stephane Dalmat,26149,France,Q703959,183.0,1979-02-16,47.0,France,midfielder,
+2319,Delio Cesar Toledo,25918,Paraguay,Q530714,182.0,1976-02-10,50.0,Paraguay,defender,
+2320,Luis Carlos Cuartero Lafarga,26115,Spain,Q928394,180.0,1975-06-13,50.0,Spain,defender,
+2321,Agustín Aranzábal Alkorta,15603,Spain,Q338794,186.0,1973-03-15,53.0,Spain,full-back,78.0
+2322,Alejandro Campano Hernando,25990,Spain,Q3776602,178.0,1978-12-29,47.0,Spain,midfielder,
+2323,Eduardo Nicolás Tuzzio,25991,Argentina,,,,,,,
+2324,Yoshito Ōkubo,25993,Japan,,,,,,,
+2325,Cristiano Doni,25996,Italy,Q350489,186.0,1973-04-01,53.0,Italy,midfielder,79.0
+2326,Zinédine Zidane,15074,France,,,,,,,
+2327,Ronaldo Luíz Nazário de Lima,25928,Brazil,,,,,,,
+2328,Pablo Gabriel García Pérez,25932,Uruguay,,,,,,,
+2329,Julen Guerrero López,13791,Spain,,,,,,,
+2330,Endika Bordas Losada,161997,Spain,Q2398773,178.0,1982-03-08,44.0,Spain,defensive midfielder,
+2331,Mikel Dañobeitia Martín,161998,Spain,Q2712683,179.0,1986-03-05,40.0,Spain,forward,74.0
+2332,Nenad Mirosavljević,25944,Serbia,Q2531646,180.0,1977-09-04,48.0,Serbia,forward,76.0
+2333,Manuel Pérez Rodrigo,25945,Spain,,,,,,,
+2334,Mário Fernando Magalhães da Silva,25951,Portugal,Q3054646,179.0,1977-04-24,48.0,Portugal,defender,73.0
+2335,Andrés José Fleurquin Rubio,25957,Uruguay,,,,,,,
+2336,Alejandro Varela López,25959,Spain,,,,,,,
+2337,Ramón de Quintana Dalmau,25961,Spain,,,,,,,
+2338,José Julián De La Cuesta Herrera,25963,Colombia,,,,,,,
+2339,Matías Nicolás Pavoni,25964,Argentina,,,,,,,
+2340,Roberto Suárez Álvarez,25965,Spain,,,,,,,
+2341,Oliverio Jesús Alvarez González,25966,Spain,,,,,,,
+2342,Enrique Fernando Ortiz Moruno,25967,Spain,Q3822876,,1977-07-02,48.0,Spain,wing half,
+2343,Savo Milošević,19331,Serbia,,,,,,,
+2344,José Izquierdo Martínez,25871,Spain,,,,,,,
+2345,Rafael Clavero Prados,25914,Spain,Q2412556,175.0,1977-01-10,49.0,Spain,defender,67.0
+2346,Paulo César Wanchope Watson,25855,Costa Rica,,,,,,,
+2347,Raúl Iznata Zabala,25866,Spain,,,,,,,
+2348,Márcio Amoroso dos Santos,25877,Brazil,Q309731,179.0,1974-07-05,51.0,Brazil,forward,69.0
+2349,Antonio Manuel Sánchez Gómez,25884,Spain,,,,,,,
+2350,Ricardo Sanzol Goñi,25858,Spain,Q5848836,183.0,1976-04-08,50.0,Spain,goalkeeper,
+2351,Agustín García Iñiguez,24631,Spain,Q383641,183.0,1985-05-03,40.0,Spain,defender,75.0
+2352,Walter Horacio Peralta Saracho,25897,Uruguay,Q1349864,172.0,1982-06-03,43.0,Uruguay,forward,68.0
+2353,Iván Díaz Ruiz,25898,Spain,Q16190752,,1978-07-10,47.0,Spain,midfielder,
+2354,Gaspar Gálvez Burgos,25899,Spain,,,,,,,
+2355,Raúl Valbuena Cano,25901,Spain,,,,,,,
+2356,Carles Domingo Pladevall,25902,Spain,Q2465912,177.0,1977-06-10,48.0,Spain,defender,69.0
+2357,Laurent Viaud,25903,France,Q3219573,175.0,1969-10-08,56.0,France,defensive midfielder,73.0
+2358,"Antonio Pacheco D""Agosti",25904,Uruguay,,,,,,,
+2359,Santiago Denia Sánchez,25905,Spain,,,,,,,
+2360,Jaime Sánchez Fernández,25906,Spain,,,,,,,
+2361,Francisco Javier Rodríguez Vílchez,25907,Spain,,,,,,,
+2362,Vladimir Manchev,20182,Bulgaria,Q389113,183.0,1977-10-06,48.0,Bulgaria,forward,80.0
+2363,Juan Luis Mora Palacios,25891,Spain,Q532971,184.0,1973-07-12,52.0,Spain,goalkeeper,85.0
+2364,Ronald Louis Gaspercic,26410,Belgium,Q2348855,186.0,1969-05-09,56.0,Belgium,goalkeeper,87.0
+2365,Óscar Montiel Marín,26411,Spain,,,,,,,
+2366,Pablo Redondo Martínez,26412,Spain,,,,,,,
+2367,David Sánchez Rodríguez,26413,Spain,,,,,,,
+2368,Gustavo Lionel Siviero,26414,Argentina,Q3824776,181.0,1969-09-13,56.0,Argentina,defender,72.0
+2369,Mikel Aguirregomezkorta Larrea,26415,Spain,Q3752771,189.0,1974-08-26,51.0,Spain,centre-forward,
+2370,Jaime Asensio De La Fuente,26127,Spain,,,,,,,
+2371,Jorge Gonzalez Diaz,26128,Spain,Q1993924,185.0,1974-09-14,51.0,Spain,forward,
+2372,Francisco Javier Sánchez Broto,26129,Spain,,,,,,,
+2373,José Manuel Yanguas Calleja,26130,Spain,Q15615143,174.0,1972-06-20,53.0,Spain,full-back,
+2374,José Emilio Amavisca Gárate,13811,Spain,,,,,,,
+2375,Alex Fernandez Sanchez,26135,Spain,Q9098148,,1974-02-14,52.0,Spain,midfielder,
+2376,Mauricio Roberto Pochettino Trossero,26136,Argentina,,,,,,,
+2377,Antonio Álvarez Pérez,26139,Spain,Q2857529,176.0,1975-01-21,51.0,Spain,midfielder,
+2378,Hugo Benjamín Ibarra,26140,Argentina,,,,,,,
+2379,Günter Netzer,38624,Germany,,,,,,,
+2380,Carlos Alonso González,394422,Spain,Q32763,175.0,1952-08-23,73.0,Spain,forward,
+2381,Mariano García Remón,397757,Spain,Q144698,181.0,1950-09-30,75.0,Spain,goalkeeper,
+2382,Benito Rubiñán Soutullo,397758,Spain,,,,,,,
+2383,Gregorio Benito Rubio,397759,Spain,Q1545256,180.0,1946-10-21,79.0,Spain,centre-back,73.0
+2384,Juan Morgado Dorado,397760,Spain,Q16880175,175.0,1952-10-24,73.0,Spain,defender,
+2385,Ignacio Zoco Esparza,397761,Spain,Q268412,183.0,1939-07-31,86.0,Spain,midfielder,
+2386,Manuel Velázquez Villaverde,397762,Spain,,,,,,,
+2387,José Martínez Sánchez,397763,Spain,Q442441,174.0,1945-03-11,81.0,Spain,midfielder,
+2388,José Macanás Pérez,397764,Spain,Q18719802,,1953-02-15,73.0,Spain,forward,
+2389,Francisco Javier Aguilar García,397765,Spain,,,,,,,
+2390,Amancio Amaro Varela,397766,Spain,Q453653,176.0,1939-10-16,86.0,Spain,forward,
+2391,Johan Cruyff,39713,Netherlands,Q17163,178.0,1947-04-25,78.0,Kingdom of the Netherlands,midfielder,68.0
+2392,Pere Valentí Mora Mariné,397767,Spain,Q11698634,180.0,1947-12-18,78.0,Spain,goalkeeper,
+2393,Antonio Torres García,397768,Spain,Q2792597,178.0,1943-07-29,82.0,Spain,defender,
+2394,Jesus Antonio de la Cruz Gallego,397769,Spain,Q606105,171.0,1947-05-07,78.0,Spain,defender,
+2395,Joaquim Rifé Climent,397770,Spain,Q929232,,1942-02-04,84.0,Spain,forward,
+2396,Marcial Manuel Pina Morales,397772,Spain,Q956974,180.0,1946-08-23,79.0,Spain,midfielder,
+2397,Enrique Álvarez Costas,397773,Spain,Q2435745,179.0,1947-01-16,79.0,Spain,defender,73.0
+2398,Juan Manuel Asensi Ripoll,397774,Spain,Q517704,178.0,1949-09-23,76.0,Spain,midfielder,73.0
+2399,Carles Rexach i Cerdà,397775,Spain,Q358414,181.0,1947-01-13,79.0,Spain,wing half,
+2400,Hugo Alejandro Sotil Yerén,397776,Peru,Q2307763,168.0,1949-05-18,76.0,Peru,forward,
+2401,Manuel Tomé Portela,397777,Spain,Q11690722,,1950-03-03,76.0,Spain,midfielder,

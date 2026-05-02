@@ -3,7 +3,7 @@ from SPARQLWrapper import SPARQLWrapper, JSON
 import pandas as pd
 from datetime import datetime
 
-def fetch_player_stats_from_wikidata(player_name):
+def fetch_player_stats_from_wikidata(player_name, language):
 
     time.sleep(0.5)
     print(f"Fetching WikiData for {player_name}")
@@ -16,11 +16,11 @@ def fetch_player_stats_from_wikidata(player_name):
               wdt:P106 wd:Q937857.  # footballer
 
       {{
-        ?player rdfs:label "{player_name}"@en.
+        ?player rdfs:label "{player_name}"@{language}.
       }}
       UNION
       {{
-        ?player skos:altLabel "{player_name}"@en.
+        ?player skos:altLabel "{player_name}"@{language}.
       }}
 
       OPTIONAL {{ ?player wdt:P2048 ?height. }}   # height (meters)
